@@ -1725,7 +1725,7 @@ bointeress
 bok
 bokn
 bokreserv
-bok
+boks
 bokstav
 bokstav
 bokstav
@@ -4620,7 +4620,7 @@ foretak
 foretak
 foretak
 foretakpensjonsordning
-foretak
+foretaks
 foretaksendring
 foretaksopprett
 foretaksordning
@@ -6807,7 +6807,7 @@ heis
 heis
 heis
 heit
-hek
+heks
 heks
 heks
 hel
@@ -7811,10 +7811,10 @@ innenland
 innenlandsk
 innenlandsk
 innenlandstrafikk
-innenrik
+innenriks
 innenrikstrafikk
 innenrikstransport
-innerik
+inneriks
 innerst
 innestå
 innestå
@@ -8125,7 +8125,7 @@ institutt
 institutt
 instituttsjef
 instruer
-instruk
+instruks
 instruks
 instruks
 instruksjon
@@ -8384,7 +8384,7 @@ journal
 journal
 jubel
 jubl
-juk
+juks
 juli
 julius
 juni
@@ -9670,7 +9670,7 @@ lagsorgan
 lagsskyldnad
 lagt
 lagting
-lak
+laks
 laks
 laksestamm
 lam
@@ -10669,7 +10669,7 @@ markedsavkastning
 markedsdeltak
 markedsdominer
 markedsføring
-markedsinndek
+markedsinndeks
 markedsmakt
 markedsmekanism
 markedsmess
@@ -12872,7 +12872,7 @@ papp
 par
 parabolantenn
 parabolantenn
-paradok
+paradoks
 paradoksal
 paragraf
 paragraf
@@ -15093,7 +15093,7 @@ sekk
 sekretariat
 sekretariat
 sekretær
-sek
+seks
 seksjon
 seksjon
 seksjon
@@ -16705,7 +16705,7 @@ strafferegel
 strafferegl
 straff
 straffesak
-strak
+straks
 stramm
 stramm
 strammer
@@ -16860,7 +16860,7 @@ styr
 styrearbeid
 styrebehandling
 styrebehandling
-styreinstruk
+styreinstruks
 styrekompetans
 styrelei
 styreleiar
@@ -19079,7 +19079,7 @@ utenlandsk
 utenlandstrafikk
 uten
 utenom
-utenrik
+utenriks
 utenriksfart
 utenrikshandel
 utenrikshandel
@@ -20206,7 +20206,7 @@ vogn
 vogn
 vognskifteområd
 vogntog
-vok
+voks
 voks
 voks
 voks

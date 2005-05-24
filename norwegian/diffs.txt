@@ -1727,7 +1727,7 @@ bointeresser                  bointeress
 boka                          bok
 bokn                          bokn
 bokreserver                   bokreserv
-boks                          bok
+boks                          boks
 bokstav                       bokstav
 bokstaver                     bokstav
 bokstavlig                    bokstav
@@ -4622,7 +4622,7 @@ foretakenes                   foretak
 foretaket                     foretak
 foretakets                    foretak
 foretakpensjonsordninger      foretakpensjonsordning
-foretaks                      foretak
+foretaks                      foretaks
 foretaksendringer             foretaksendring
 foretaksopprettet             foretaksopprett
 foretaksordning               foretaksordning
@@ -6809,7 +6809,7 @@ heisen                        heis
 heiser                        heis
 heises                        heis
 heiter                        heit
-heks                          hek
+heks                          heks
 heksen                        heks
 hekser                        heks
 hel                           hel
@@ -7813,10 +7813,10 @@ innenlands                    innenland
 innenlandsk                   innenlandsk
 innenlandske                  innenlandsk
 innenlandstrafikk             innenlandstrafikk
-innenriks                     innenrik
+innenriks                     innenriks
 innenrikstrafikken            innenrikstrafikk
 innenrikstransporter          innenrikstransport
-inneriks                      innerik
+inneriks                      inneriks
 innerst                       innerst
 inneståande                   innestå
 innestående                   innestå
@@ -8127,7 +8127,7 @@ institutt                     institutt
 instituttet                   institutt
 instituttsjef                 instituttsjef
 instruere                     instruer
-instruks                      instruk
+instruks                      instruks
 instruksar                    instruks
 instruksen                    instruks
 instruksjoner                 instruksjon
@@ -8386,7 +8386,7 @@ journal                       journal
 journalar                     journal
 jubel                         jubel
 jubler                        jubl
-juks                          juk
+juks                          juks
 juli                          juli
 julius                        julius
 juni                          juni
@@ -9674,7 +9674,7 @@ lagsorgana                    lagsorgan
 lagsskyldnadene               lagsskyldnad
 lagt                          lagt
 lagtinget                     lagting
-laks                          lak
+laks                          laks
 laksens                       laks
 laksestammen                  laksestamm
 lam                           lam
@@ -10673,7 +10673,7 @@ markedsavkastning             markedsavkastning
 markedsdeltaker               markedsdeltak
 markedsdominert               markedsdominer
 markedsføring                 markedsføring
-markedsinndeks                markedsinndek
+markedsinndeks                markedsinndeks
 markedsmakt                   markedsmakt
 markedsmekanismer             markedsmekanism
 markedsmessig                 markedsmess
@@ -12876,7 +12876,7 @@ papp                          papp
 par                           par
 parabolantenna                parabolantenn
 parabolantenner               parabolantenn
-paradoks                      paradok
+paradoks                      paradoks
 paradoksale                   paradoksal
 paragraf                      paragraf
 paragrafane                   paragraf
@@ -15097,7 +15097,7 @@ sekken                        sekk
 sekretariat                   sekretariat
 sekretariatet                 sekretariat
 sekretær                      sekretær
-seks                          sek
+seks                          seks
 seksjon                       seksjon
 seksjonane                    seksjon
 seksjonar                     seksjon
@@ -16709,7 +16709,7 @@ strafferegelen                strafferegel
 straffereglane                strafferegl
 straffes                      straff
 straffesak                    straffesak
-straks                        strak
+straks                        straks
 stramme                       stramm
 strammer                      stramm
 strammere                     strammer
@@ -16864,7 +16864,7 @@ styre                         styr
 styrearbeidet                 styrearbeid
 styrebehandling               styrebehandling
 styrebehandlinga              styrebehandling
-styreinstruks                 styreinstruk
+styreinstruks                 styreinstruks
 styrekompetansen              styrekompetans
 styreleiar                    styrelei
 styreleiaren                  styreleiar
@@ -19084,7 +19084,7 @@ utenlandske                   utenlandsk
 utenlandstrafikk              utenlandstrafikk
 utenleg                       uten
 utenom                        utenom
-utenriks                      utenrik
+utenriks                      utenriks
 utenriksfart                  utenriksfart
 utenrikshandel                utenrikshandel
 utenrikshandelen              utenrikshandel
@@ -20211,7 +20211,7 @@ vognen                        vogn
 vognene                       vogn
 vognskifteområde              vognskifteområd
 vogntog                       vogntog
-voks                          vok
+voks                          voks
 vokse                         voks
 voksen                        voks
 vokser                        voks
