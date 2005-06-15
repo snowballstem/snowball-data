@@ -91,9 +91,9 @@ abbon
 abbon
 abbond
 abbond
+abbond
 abbondant
-abbondant
-abbondant
+abbond
 abbond
 abbond
 abbond
@@ -144,15 +144,15 @@ abiett
 abil
 abil
 abil
-abilitant
+abilit
 abilit
 abilit
 abilit
 abiss
 abit
 abitacol
-abitant
-abitant
+abit
+abit
 abit
 abit
 abit
@@ -240,7 +240,7 @@ accatt
 accatt
 accatt
 accatt
-accattivant
+accattiv
 accatt
 accatton
 accavall
@@ -547,7 +547,7 @@ acquiet
 acquiet
 acquiet
 acquietandosel
-acquietant
+acquiet
 acquiet
 acquiet
 acquiet
@@ -659,7 +659,7 @@ adegu
 adeguat
 adegu
 adelaid
-adelant
+adel
 adelboden
 ademp
 ademp
@@ -808,8 +808,8 @@ affaracc
 affar
 affar
 affarist
-affascinant
-affascinant
+affascin
+affascin
 affatic
 affatic
 affatic
@@ -986,7 +986,7 @@ agevolezz
 agevol
 agganc
 aggett
-agghiacciant
+agghiacc
 aggint
 aggiorn
 aggiorn
@@ -1091,7 +1091,7 @@ ago
 agon
 agon
 agonist
-agonizzant
+agonizz
 agos
 agostin
 agostin
@@ -1140,8 +1140,8 @@ aires
 ais
 aiut
 aiut
-aiutant
-aiutant
+aiut
+aiut
 aiut
 aiut
 aiut
@@ -1300,7 +1300,7 @@ allarg
 allarg
 allarg
 allarg
-allarmant
+allarm
 allarm
 allarm
 allarm
@@ -1403,8 +1403,8 @@ allor
 allor
 allorc
 allor
-allucinant
-allucinant
+allucin
+allucin
 allumin
 allung
 allung
@@ -1440,7 +1440,7 @@ alsthom
 alt
 alta
 altafin
-altalenant
+altalen
 alt
 altamir
 altar
@@ -1476,7 +1476,7 @@ altoatesin
 altoatesin
 altoatesin
 altoatesin
-altoparlant
+altoparl
 altop
 altos
 altr
@@ -1485,8 +1485,8 @@ altre
 altres
 altrettal
 altrettant
-altrettant
-altrettant
+altrett
+altrett
 altrettant
 altri
 altrì
@@ -1536,7 +1536,7 @@ amant
 amar
 amar
 amar
-amarant
+amar
 amar
 amaregg
 amaregg
@@ -1591,7 +1591,7 @@ ambros
 ambrosian
 ambros
 ambrovenet
-ambulant
+ambul
 ambul
 ambul
 amede
@@ -2082,7 +2082,7 @@ antipat
 antiperipatet
 antipod
 antiproiettil
-antistant
+antist
 antitbc
 antitet
 antitet
@@ -2191,7 +2191,7 @@ apparteng
 appartien
 apparv
 apparver
-appassionant
+appassion
 appassion
 appassion
 appassion
@@ -2601,7 +2601,7 @@ arriv
 arriv
 arrocc
 arrocc
-arrogant
+arrog
 arrog
 arrol
 arrol
@@ -2681,7 +2681,7 @@ ascol
 ascolt
 ascoltan
 ascolt
-ascoltant
+ascolt
 ascolt
 ascolt
 ascolt
@@ -2747,7 +2747,7 @@ aspett
 aspett
 aspir
 aspir
-aspirant
+aspir
 aspir
 aspir
 aspir
@@ -2906,7 +2906,7 @@ assol
 assolut
 assol
 assol
-assolutizzant
+assolutizz
 assol
 assolutor
 assolu
@@ -2921,7 +2921,7 @@ assop
 assorb
 assorb
 assorb
-assordant
+assord
 assort
 assort
 assottigl
@@ -3002,14 +3002,14 @@ atroc
 atrocissim
 atroc
 atta
-attacant
+attac
 attacc
 attacc
 attacc
 attacc
 attacc
-attaccant
-attaccant
+attacc
+attacc
 attacc
 attacc
 attacc
@@ -4080,7 +4080,7 @@ bellezz
 bellezz
 bell
 bellic
-belligerant
+belliger
 belliger
 bellissim
 bellissim
@@ -4093,11 +4093,11 @@ belmond
 belson
 beltram
 belzebù
-bempensant
+bempens
 ben
 benaivedes
 benarr
-benaugurant
+benaugur
 benavides
 benc
 benc
@@ -4136,7 +4136,7 @@ benefit
 benefiz
 benemer
 benemer
-benestant
+benest
 benett
 benetton
 benevent
@@ -4260,7 +4260,7 @@ biancastr
 biancastr
 biancazzurr
 bianc
-biancheggiant
+bianchegg
 biancher
 bianchezz
 bianc
@@ -5496,8 +5496,8 @@ carbon
 carbon
 carbon
 carbotrad
-carburant
-carburant
+carbur
+carbur
 carcer
 carc
 carcer
@@ -5794,7 +5794,7 @@ cav
 cav
 cavadent
 cavagn
-cavalcant
+cavalc
 cavalc
 cavalcatur
 cavalcatur
@@ -5891,7 +5891,7 @@ celeberrim
 celeberrim
 celebr
 celebr
-celebrant
+celebr
 celebr
 celebr
 celebr
@@ -5954,7 +5954,7 @@ centinai
 centinai
 cent
 centocinquemil
-centofant
+centof
 centomil
 central
 central
@@ -5969,7 +5969,7 @@ centralizz
 centralizz
 centr
 centr
-centravant
+centrav
 centr
 centr
 centr
@@ -6456,8 +6456,8 @@ circoscritt
 circoscritt
 circospett
 circospezion
-circostant
-circostant
+circost
+circost
 circost
 circost
 circostanz
@@ -6816,8 +6816,8 @@ comandam
 comandan
 comandan
 comand
-comandant
-comandant
+comand
+comand
 comand
 comand
 comand
@@ -6932,8 +6932,8 @@ commercial
 commercial
 commercializz
 commerc
-commerciant
-commerciant
+commerc
+commerc
 commerc
 commerzbank
 commess
@@ -7397,7 +7397,7 @@ condivis
 condivis
 condizion
 condizion
-condizionant
+condizion
 condizion
 condizion
 condizion
@@ -7522,8 +7522,8 @@ confid
 configur
 configur
 confin
-confinant
-confinant
+confin
+confin
 confinar
 confin
 confin
@@ -7557,7 +7557,7 @@ conform
 conform
 conform
 confort
-confortant
+confort
 confort
 confort
 confort
@@ -7819,7 +7819,7 @@ consob
 consoc
 consoc
 consol
-consolant
+consol
 consol
 consol
 consol
@@ -7838,7 +7838,7 @@ consolid
 consolid
 consoll
 consol
-consonant
+conson
 conson
 conson
 cons
@@ -8099,7 +8099,7 @@ contrar
 contrassegn
 contrassegn
 contrast
-contrastant
+contrast
 contrast
 contrast
 contrast
@@ -8238,7 +8238,7 @@ convint
 convint
 convinzion
 convinzion
-convitant
+convit
 convit
 convit
 conv
@@ -9293,7 +9293,7 @@ delin
 delin
 delinquent
 delinqu
-delirant
+delir
 delir
 delitt
 delitt
@@ -9425,8 +9425,8 @@ deris
 deris
 der
 der
-derivant
-derivant
+deriv
+deriv
 deriv
 deriv
 der
@@ -9545,8 +9545,8 @@ detenzion
 deterior
 determianr
 determin
-determinant
-determinant
+determin
+determin
 determin
 determin
 determin
@@ -9580,7 +9580,7 @@ dev
 dev
 devan
 devast
-devastant
+devast
 devast
 devastazion
 dev
@@ -9806,8 +9806,8 @@ dilegu
 dilegu
 dilemm
 dilett
-dilettant
-dilettant
+dilett
+dilett
 dilett
 dilettevol
 diligent
@@ -9822,7 +9822,7 @@ dilucid
 dilu
 diluv
 diluv
-dimagrant
+dimagr
 dimen
 dimen
 dimen
@@ -10082,7 +10082,7 @@ disciplin
 disciplinar
 disc
 discograf
-discordant
+discord
 discord
 discord
 discorr
@@ -10149,7 +10149,7 @@ disgraz
 disgraz
 disgraz
 disgraz
-disgregant
+disgreg
 disgreg
 disgust
 disgust
@@ -10623,8 +10623,8 @@ domest
 domicil
 domif
 domin
-dominant
-dominant
+domin
+domin
 domin
 domin
 domin
@@ -11073,7 +11073,7 @@ electrabel
 electric
 electricit
 electricity
-elegant
+eleg
 eleg
 eleg
 elegg
@@ -11206,7 +11206,7 @@ emorrag
 emot
 emot
 emot
-emozionant
+emozion
 emozion
 emozion
 empì
@@ -11428,7 +11428,7 @@ esal
 esal
 esalt
 esalt
-esaltant
+esalt
 esalt
 esalt
 esalt
@@ -11588,7 +11588,7 @@ esist
 esist
 esit
 esit
-esitant
+esit
 esit
 esit
 esit
@@ -11600,7 +11600,7 @@ esit
 esit
 esit
 eslam
-esorbitant
+esorbit
 esorcizz
 esord
 esord
@@ -11822,7 +11822,7 @@ estrem
 estrenu
 estromess
 esul
-esultant
+esult
 esult
 et
 età
@@ -12286,7 +12286,7 @@ febbrai
 febbr
 febbr
 febbriciattol
-febbricitant
+febbricit
 febbron
 febrai
 fec
@@ -13363,7 +13363,7 @@ funzion
 funzion
 funzional
 funzion
-funzionant
+funzion
 funzion
 funzionar
 funzionar
@@ -13480,7 +13480,7 @@ gall
 gallar
 gallarin
 gallegg
-galleggiant
+gallegg
 gallegg
 gallegos
 galler
@@ -13992,7 +13992,7 @@ giude
 giude
 giudic
 giudic
-giudicant
+giudic
 giudic
 giudic
 giudic
@@ -14115,7 +14115,7 @@ gn
 gnl
 gnutt
 gocciol
-gocciolant
+gocciol
 gocciol
 gocciolin
 gocciol
@@ -14178,7 +14178,7 @@ gonfiavan
 gonf
 gonf
 gongol
-gongolant
+gongol
 gonnell
 gonzag
 gonzal
@@ -14200,8 +14200,8 @@ gouern
 gourmelon
 govern
 govern
-governant
-governant
+govern
+govern
 govern
 govern
 govern
@@ -14803,8 +14803,8 @@ ignobil
 ignor
 ignor
 ignorantaggin
-ignorant
-ignorant
+ignor
+ignor
 ignor
 ignor
 ignor
@@ -14871,7 +14871,7 @@ ilva
 imam
 imbacucc
 imbalsam
-imbarazzant
+imbarazz
 imbarazz
 imbarazz
 imbarc
@@ -15187,8 +15187,8 @@ imporr
 import
 import
 import
-important
-important
+import
+import
 importantissim
 importantissim
 import
@@ -15246,7 +15246,7 @@ impres
 impresar
 impres
 impress
-impressionant
+impression
 impression
 impression
 impression
@@ -15332,8 +15332,8 @@ incagl
 incagl
 incagl
 incalz
-incalzant
-incalzant
+incalz
+incalz
 incalz
 incalz
 incammin
@@ -15397,8 +15397,8 @@ incertezz
 incertezz
 incert
 incert
-incessant
-incessant
+incess
+incess
 incett
 incett
 inchiest
@@ -15529,7 +15529,7 @@ incontroll
 inconvenient
 inconvenient
 incoragg
-incoraggiant
+incoragg
 incoragg
 incoragg
 incoragg
@@ -16091,7 +16091,7 @@ innanz
 innanzitutt
 innat
 inneg
-inneggiant
+innegg
 innegg
 innesc
 innest
@@ -16136,8 +16136,8 @@ inquadr
 inquadr
 inqualific
 inquiet
-inquietant
-inquietant
+inquiet
+inquiet
 inquiet
 inquiet
 inquiet
@@ -16150,7 +16150,7 @@ inquietudin
 inquilin
 inquilin
 inquin
-inquinant
+inquin
 inquin
 inquin
 inquirent
@@ -16178,8 +16178,8 @@ insegn
 insegn
 insegnanment
 insegn
-insegnant
-insegnant
+insegn
+insegn
 insegn
 insegn
 insegn
@@ -16325,7 +16325,7 @@ integral
 integral
 integral
 integralm
-integrant
+integr
 integr
 integr
 integr
@@ -16411,8 +16411,8 @@ inter
 interess
 interess
 interess
-interessant
-interessant
+interess
+interess
 interess
 interess
 interess
@@ -16484,7 +16484,7 @@ interpret
 interpret
 interrog
 interrog
-interrogant
+interrog
 interrog
 interrog
 interrog
@@ -16752,7 +16752,7 @@ invisibil
 invis
 invit
 invit
-invitant
+invit
 invit
 invit
 invit
@@ -16864,10 +16864,10 @@ irrevoc
 irrevocabil
 irriduc
 irrig
-irrilevant
+irrilev
 irris
 irrisolt
-irritant
+irrit
 irrit
 irrit
 irrit
@@ -17068,7 +17068,7 @@ italian
 italian
 italian
 ital
-italimpiant
+italimp
 italm
 italmob
 italmobil
@@ -17560,8 +17560,8 @@ lav
 lavor
 lavor
 lavor
-lavorant
-lavorant
+lavor
+lavor
 lavor
 lavor
 lavor
@@ -17989,7 +17989,7 @@ listin
 lit
 lit
 litig
-litigant
+litig
 litig
 litig
 litoral
@@ -18140,8 +18140,8 @@ lucchett
 lucc
 lucchin
 lucc
-luccicant
-luccicant
+luccic
+luccic
 luccic
 lucciol
 luc
@@ -18203,7 +18203,7 @@ lunghign
 lunghissim
 lunghissim
 lung
-lungimirant
+lungimir
 lungimir
 lung
 lunin
@@ -18623,7 +18623,7 @@ manifatturier
 manifest
 manifest
 manifest
-manifestant
+manifest
 manifest
 manifest
 manifest
@@ -19424,8 +19424,8 @@ miliard
 milion
 milion
 milion
-militant
-militant
+milit
+milit
 milit
 milit
 militar
@@ -20285,7 +20285,7 @@ nav
 navett
 navett
 nav
-navigant
+navig
 navig
 navig
 navig
@@ -20404,7 +20404,7 @@ neon
 neon
 neonaz
 neonaz
-neoprotestant
+neoprotest
 neoprotestantesim
 neppur
 neppur
@@ -20473,7 +20473,7 @@ nientemen
 niger
 niger
 night
-nigricant
+nigric
 niguard
 nik
 nikke
@@ -20559,7 +20559,7 @@ nomin
 nomism
 non
 nonc
-noncurant
+noncur
 noncur
 nondimen
 nones
@@ -20569,7 +20569,7 @@ nonn
 nonn
 nonn
 nonosolomod
-nonostant
+nonost
 nonsolomod
 norbert
 nord
@@ -20753,7 +20753,7 @@ obbl
 obblig
 obblig
 obblig
-obbligant
+obblig
 obblig
 obblig
 obblig
@@ -20835,8 +20835,8 @@ occult
 occup
 occup
 occup
-occupant
-occupant
+occup
+occup
 occup
 occup
 occup
@@ -21078,8 +21078,8 @@ opera
 operai
 oper
 oper
-operant
-operant
+oper
+oper
 oper
 oper
 operation
@@ -21311,7 +21311,7 @@ ortograf
 osak
 osam
 osand
-osannant
+osann
 osann
 osar
 osat
@@ -21877,7 +21877,7 @@ part
 partecip
 partecip
 partecip
-partecipant
+partecip
 partecip
 parteciparenn
 partecip
@@ -22199,7 +22199,7 @@ pendon
 pen
 penetr
 penetr
-penetrant
+penetr
 penetrantissim
 penetr
 penetr
@@ -22355,7 +22355,7 @@ perdon
 perdon
 perdonin
 perd
-perdurant
+perdur
 perd
 perd
 perd
@@ -22476,7 +22476,7 @@ perseguit
 perseguit
 perseguit
 perseguit
-perseverant
+persever
 persever
 persever
 pers
@@ -22626,8 +22626,8 @@ pettin
 pettinell
 pett
 pettor
-petulant
-petulant
+petul
+petul
 petul
 pezz
 pezzent
@@ -23499,8 +23499,8 @@ predispost
 predispost
 predizion
 predizion
-predominant
-predominant
+predomin
+predomin
 predomin
 predomin
 predomin
@@ -23649,7 +23649,7 @@ prenot
 prenot
 prenot
 preoccup
-preoccupant
+preoccup
 preoccup
 preoccup
 preoccup
@@ -23849,7 +23849,7 @@ prevalg
 prevals
 prevals
 prevals
-prevaricant
+prevaric
 prevar
 preved
 preved
@@ -24395,9 +24395,9 @@ prote
 protes
 protest
 protest
+protest
 protestant
-protestant
-protestant
+protest
 protest
 protest
 protest
@@ -24699,7 +24699,7 @@ qualcun
 qual
 qual
 qualif
-qualificant
+qualific
 qualific
 qualific
 qualific
@@ -24870,7 +24870,7 @@ raccapezz
 raccapezz
 raccapezz
 raccapezz
-raccapricciant
+raccapricc
 raccapricc
 raccatt
 raccatt
@@ -25027,7 +25027,7 @@ raffh
 raffic
 raffic
 raffigur
-raffigurant
+raffigur
 raffigur
 raffigur
 raffigur
@@ -25219,8 +25219,8 @@ rappresagl
 rappresent
 rappresent
 rappresent
-rappresentant
-rappresentant
+rappresent
+rappresent
 rappresent
 rappresent
 rappresent
@@ -25239,7 +25239,7 @@ rappresent
 rappresent
 rappresent
 rappresent
-rappresntant
+rappresnt
 raprpesent
 rapt
 raptus
@@ -25277,8 +25277,8 @@ rasseren
 rassett
 rassicur
 rassicur
-rassicurant
-rassicurant
+rassicur
+rassicur
 rassicur
 rassicur
 rassicur
@@ -25823,7 +25823,7 @@ retrocession
 retroguard
 retroscen
 retrospett
-retrostant
+retrost
 rett
 rettif
 rettific
@@ -25951,7 +25951,7 @@ riboll
 riboll
 riboll
 ribrezz
-ributtant
+ributt
 ric
 ricadd
 ricad
@@ -25962,7 +25962,7 @@ ricadrebb
 ricad
 ricalc
 ricalc
-ricalcitrant
+ricalcitr
 ricalcitr
 ricalcitr
 ricamb
@@ -26470,8 +26470,8 @@ rigrid
 riguadagn
 riguard
 riguard
-riguardant
-riguardant
+riguard
+riguard
 riguard
 riguard
 riguard
@@ -26512,8 +26512,8 @@ rilent
 riless
 ril
 rilev
-rilevant
-rilevant
+rilev
+rilev
 rilev
 rilev
 rilev
@@ -27069,7 +27069,7 @@ risolvetter
 risolv
 risolv
 risolvon
-risonant
+rison
 rison
 rison
 rison
@@ -27160,7 +27160,7 @@ ristabil
 ristabil
 ristagn
 ristagn
-ristorant
+ristor
 ristor
 ristor
 ristor
@@ -27187,7 +27187,7 @@ risul
 risult
 risult
 risult
-risultant
+risult
 risult
 risult
 risult
@@ -27612,8 +27612,8 @@ rosp
 ross
 ross
 ross
-rosseggiant
-rosseggiant
+rossegg
+rossegg
 rossett
 rossett
 ross
@@ -27775,7 +27775,7 @@ rustic
 rustichezz
 rut
 rutell
-rutilant
+rutil
 ruvid
 ruvid
 ruvid
@@ -27829,7 +27829,7 @@ sacrifiz
 sacrileg
 sacrileg
 sacr
-sacrosant
+sacros
 sacrosant
 sacully
 saddam
@@ -27929,7 +27929,7 @@ salt
 salt
 salt
 salt
-saltellant
+saltell
 saltell
 saltell
 saltellon
@@ -28716,7 +28716,7 @@ sciolt
 sciolt
 sciolt
 sciolt
-scioperant
+scioper
 scioper
 scioper
 scioper
@@ -28798,7 +28798,7 @@ scomunic
 scomunic
 sconc
 sconcert
-sconcertant
+sconcert
 sconcert
 sconcert
 sconcert
@@ -29439,8 +29439,8 @@ ser
 serp
 serpegg
 serpegg
-serpeggiant
-serpeggiant
+serpegg
+serpegg
 serpegg
 serpellin
 serp
@@ -29811,7 +29811,7 @@ sigl
 signif
 signific
 signific
-significant
+signific
 signific
 signific
 signific
@@ -30339,8 +30339,8 @@ somal
 somasc
 som
 somigl
-somigliant
-somigliant
+somigl
+somigl
 somigliantissim
 somigl
 somigl
@@ -30419,7 +30419,7 @@ soppress
 sopprim
 sopprim
 sopr
-soprabbondant
+soprabbond
 sopraccigl
 sopraccigl
 sopraccit
@@ -30713,7 +30713,7 @@ sovrapporr
 sovrappost
 sovrapprodu
 sovraregional
-sovrastant
+sovrast
 sovrast
 sovrast
 sovrast
@@ -31706,8 +31706,8 @@ strateg
 strathclyd
 stratt
 stratt
-stravagant
-stravagant
+stravag
+stravag
 stravag
 straviz
 straviz
@@ -31856,7 +31856,7 @@ subacque
 subalpin
 subaltern
 subaru
-subcomandant
+subcomand
 subentr
 subentr
 sub
@@ -32753,7 +32753,7 @@ terribil
 terribil
 terricciol
 terrier
-terrificant
+terrific
 territor
 territorial
 territorial
@@ -32955,7 +32955,7 @@ titol
 titol
 titol
 tittarell
-titubant
+titub
 titub
 titub
 titub
@@ -33202,9 +33202,9 @@ tovalier
 toyot
 tp
 tra
-traballant
+traball
 trabocc
-traboccant
+trabocc
 trabocc
 trabocc
 tracann
@@ -33247,7 +33247,7 @@ tra
 traess
 trafel
 traffic
-trafficant
+traffic
 traffic
 traffic
 traffic
@@ -33312,11 +33312,11 @@ trann
 tranquilizz
 tranquill
 tranquill
-tranquillant
 tranquill
 tranquill
 tranquill
-tranquillizzant
+tranquill
+tranquillizz
 tranquillizz
 tranquillizz
 tranquill
@@ -33538,8 +33538,8 @@ trem
 trem
 tremol
 tremol
-tremolant
-tremolant
+tremol
+tremol
 tremol
 tremol
 tremont
@@ -33960,7 +33960,7 @@ umid
 umid
 umil
 umil
-umiliant
+umil
 umil
 umil
 umil
@@ -34823,7 +34823,7 @@ vicar
 vic
 viceallen
 vicecaposerviz
-vicecomandant
+vicecomand
 vicedirettor
 vic
 vic
@@ -34877,7 +34877,7 @@ viet
 viezzol
 vigent
 vigil
-vigilant
+vigil
 vigilantes
 vigil
 vigil
@@ -34917,7 +34917,7 @@ villan
 villan
 vill
 vill
-villeggiant
+villegg
 villegg
 villeggiatur
 villeggiatur

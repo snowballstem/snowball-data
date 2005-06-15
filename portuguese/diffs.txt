@@ -203,8 +203,8 @@ absurdo                       absurd
 absurdos                      absurd
 abuelita                      abuelit
 abujamra                      abujamr
-abundância                    abundânc
-abundante                     abundant
+abundância                    abund
+abundante                     abund
 abusando                      abus
 abusar                        abus
 abuse                         abus
@@ -407,8 +407,8 @@ acompanhados                  acompanh
 acompanham                    acompanh
 acompanhamento                acompanh
 acompanhando                  acompanh
-acompanhante                  acompanhant
-acompanhantes                 acompanhant
+acompanhante                  acompanh
+acompanhantes                 acompanh
 acompanhar                    acompanh
 acompanhará                   acompanh
 acompanhava                   acompanh
@@ -417,8 +417,8 @@ acompanhei                    acompanh
 acompanho                     acompanh
 acompanhou                    acompanh
 aconcágua                     aconcágu
-aconchegante                  aconchegant
-aconchegantes                 aconchegant
+aconchegante                  aconcheg
+aconchegantes                 aconcheg
 aconchego                     aconcheg
 aconselha                     aconselh
 aconselhada                   aconselh
@@ -665,7 +665,7 @@ admitiram                     admit
 admitiu                       admit
 admito                        admit
 adobe                         adob
-adoçante                      adoçant
+adoçante                      adoc
 adoção                        adoçã
 adoçaram                      adoc
 adocicado                     adocic
@@ -952,7 +952,7 @@ agrava                        agrav
 agravada                      agrav
 agravam                       agrav
 agravamento                   agrav
-agravantes                    agravant
+agravantes                    agrav
 agravar                       agrav
 agravou                       agrav
 agredida                      agred
@@ -1045,7 +1045,7 @@ ajudado                       ajud
 ajudam                        ajud
 ajudamos                      ajud
 ajudando                      ajud
-ajudante                      ajudant
+ajudante                      ajud
 ajudar                        ajud
 ajudará                       ajud
 ajudaram                      ajud
@@ -1289,7 +1289,7 @@ almejada                      almej
 almejado                      almej
 almejam                       almej
 almirantado                   almirant
-almirante                     almirant
+almirante                     almir
 almoça                        almoc
 almoçar                       almoc
 almoço                        almoc
@@ -1339,7 +1339,7 @@ alterar                       alter
 alteravam                     alter
 alternadamente                altern
 alternam                      altern
-alternância                   alternânc
+alternância                   altern
 alternativa                   altern
 alternativas                  altern
 alternativo                   altern
@@ -1352,7 +1352,7 @@ altíssima                     altíssim
 altíssimas                    altíssim
 altíssimo                     altíssim
 altíssimos                    altíss
-altissonantes                 altissonant
+altissonantes                 altisson
 altitude                      altitud
 altitudes                     altitud
 altiva                        altiv
@@ -1364,7 +1364,7 @@ alturas                       altur
 alucinada                     alucin
 alucinado                     alucin
 alucinados                    alucin
-alucinante                    alucinant
+alucinante                    alucin
 alucinógena                   alucinógen
 alucinógenas                  alucinógen
 aluga                         alug
@@ -1483,9 +1483,9 @@ ambientes                     ambient
 âmbito                        âmbit
 ambivalência                  ambivalent
 ambos                         ambos
-ambulância                    ambulânc
-ambulante                     ambulant
-ambulantes                    ambulant
+ambulância                    ambul
+ambulante                     ambul
+ambulantes                    ambul
 ambulatoriais                 ambulatori
 ambulatorial                  ambulatorial
 ameaça                        ameac
@@ -1594,7 +1594,7 @@ an                            an
 ana                           ana
 anã                           anã
 anabólico                     anaból
-anabolizante                  anabolizant
+anabolizante                  anaboliz
 anafranil                     anafranil
 anal                          anal
 analfabeta                    analfabet
@@ -1723,7 +1723,7 @@ angústia                      angúst
 angustiada                    angusti
 angustiadas                   angusti
 angustiados                   angusti
-angustiantes                  angustiant
+angustiantes                  angusti
 angústias                     angúst
 anhanduí                      anhandu
 anhangabaú                    anhangabaú
@@ -1907,7 +1907,7 @@ anunciadas                    anunc
 anunciado                     anunc
 anunciam                      anunc
 anunciando                    anunc
-anunciantes                   anunciant
+anunciantes                   anunc
 anunciar                      anunc
 anunciaram                    anunc
 anunciava                     anunc
@@ -2568,9 +2568,9 @@ arriscaria                    arrisc
 arriscava                     arrisc
 arriscou                      arrisc
 arrisque                      arrisqu
-arrogância                    arrogânc
-arrogante                     arrogant
-arrogantes                    arrogant
+arrogância                    arrog
+arrogante                     arrog
+arrogantes                    arrog
 arrojada                      arroj
 arroladas                     arrol
 arromba                       arromb
@@ -2672,15 +2672,15 @@ aspectos                      aspect
 aspem                         aspem
 aspereza                      asper
 áspero                        ásper
-aspirantes                    aspirant
+aspirantes                    aspir
 aspirar                       aspir
 aspirina                      aspirin
 aspirinas                     aspirin
 assalariado                   assalari
 assalta                       assalt
 assaltados                    assalt
-assaltante                    assaltant
-assaltantes                   assaltant
+assaltante                    assalt
+assaltantes                   assalt
 assalto                       assalt
 assaltos                      assalt
 assaltou                      assalt
@@ -2747,7 +2747,7 @@ assinalado                    assinal
 assinalar                     assinal
 assinam                       assin
 assinando                     assin
-assinantes                    assinant
+assinantes                    assin
 assinar                       assin
 assinaram                     assin
 assinasse                     assin
@@ -2856,7 +2856,7 @@ atacado                       atac
 atacados                      atac
 atacam                        atac
 atacando                      atac
-atacante                      atacant
+atacante                      atac
 atacar                        atac
 atacaram                      atac
 atacou                        atac
@@ -2902,7 +2902,7 @@ atentos                       atent
 atenua                        atenu
 atenuado                      atenu
 atenuados                     atenu
-atenuantes                    atenuant
+atenuantes                    atenu
 aterrisar                     aterris
 aterrissado                   aterriss
 aterrissagens                 aterrissagens
@@ -3508,7 +3508,7 @@ bandana                       bandan
 bandas                        band
 bandeia                       band
 bandeira                      bandeir
-bandeirantes                  bandeirant
+bandeirantes                  bandeir
 bandeiras                     bandeir
 bandeirinha                   bandeirinh
 bandeja                       bandej
@@ -4544,7 +4544,7 @@ business                      business
 buss                          buss
 bússola                       bússol
 bussunda                      bussund
-bustamante                    bustamant
+bustamante                    bustam
 busto                         bust
 bustos                        bust
 butantã                       butantã
@@ -5378,7 +5378,7 @@ catherine                     catherin
 catho                         cath
 catholique                    catholiqu
 cativa                        cativ
-cativantes                    cativant
+cativantes                    cativ
 cativas                       cativ
 cativeiro                     cativeir
 católica                      catól
@@ -5413,7 +5413,7 @@ cavado                        cav
 cavalar                       caval
 cavalares                     caval
 cavalaria                     caval
-cavalcante                    cavalcant
+cavalcante                    cavalc
 cavalcanti                    cavalcant
 cavaleiro                     cavaleir
 cavaleiros                    cavaleir
@@ -5546,7 +5546,7 @@ centralização                 centraliz
 centralizada                  centraliz
 centre                        centr
 centro                        centr
-centroavante                  centroavant
+centroavante                  centroav
 centros                       centr
 centrus                       centrus
 centurion                     centurion
@@ -5988,7 +5988,7 @@ cinqüentenário                cinqüentenári
 cinqüentões                   cinqüentõ
 cinta                         cint
 cinthya                       cinthy
-cintilante                    cintilant
+cintilante                    cintil
 cintilografia                 cintilograf
 cinto                         cint
 cintos                        cint
@@ -6024,9 +6024,9 @@ circulem                      circul
 círculo                       círcul
 círculos                      círcul
 circulou                      circul
-circundante                   circundant
+circundante                   circund
 circundavam                   circund
-circunstância                 circunstânc
+circunstância                 circunst
 circunstancial                circunstancial
 circunstâncias                circunstânc
 cirillo                       cirill
@@ -6203,7 +6203,7 @@ cnpq                          cnpq
 cnt                           cnt
 co                            co
 coabitação                    coabit
-coadjuvante                   coadjuvant
+coadjuvante                   coadjuv
 coagida                       coag
 coagulação                    coagul
 coágulos                      coágul
@@ -6449,8 +6449,8 @@ comandado                     comand
 comandados                    comand
 comandam                      comand
 comandande                    comandand
-comandante                    comandant
-comandantes                   comandant
+comandante                    comand
+comandantes                   comand
 comandar                      comand
 comandará                     comand
 comandarem                    comand
@@ -6520,8 +6520,8 @@ comecemos                     comec
 começo                        comec
 começou                       comec
 comédia                       coméd
-comediante                    comediant
-comediantes                   comediant
+comediante                    comedi
+comediantes                   comedi
 comedido                      comed
 comedores                     comedor
 comem                         com
@@ -6563,8 +6563,8 @@ comercializam                 comercializ
 comercializando               comercializ
 comercializar                 comercializ
 comercialmente                comercial
-comerciante                   comerciant
-comerciantes                  comerciant
+comerciante                   comerc
+comerciantes                  comerc
 comerciar                     comerc
 comércio                      comérci
 comeria                       com
@@ -7083,7 +7083,7 @@ confiscar                     confisc
 confiscaram                   confisc
 confissão                     confissã
 confissões                    confissõ
-conflitantes                  conflitant
+conflitantes                  conflit
 conflito                      conflit
 conflitos                     conflit
 conflituosas                  conflitu
@@ -7264,7 +7264,7 @@ conservadores                 conserv
 conservadorismo               conservador
 conservados                   conserv
 conservam                     conserv
-conservantes                  conservant
+conservantes                  conserv
 conservar                     conserv
 conservation                  conservation
 conservatório                 conservatóri
@@ -7438,7 +7438,7 @@ contadora                     contador
 contadores                    contador
 contados                      cont
 contagem                      contag
-contagiante                   contagiant
+contagiante                   contagi
 contágio                      contági
 contam                        cont
 contamina                     contamin
@@ -7587,7 +7587,7 @@ contrários                    contrári
 contras                       contr
 contrasenso                   contrasens
 contrasta                     contrast
-contrastantes                 contrastant
+contrastantes                 contrast
 contrastava                   contrast
 contraste                     contr
 contrastes                    contr
@@ -8305,7 +8305,7 @@ culatra                       culatr
 culinária                     culinár
 culinárias                    culinár
 culminação                    culmin
-culminante                    culminant
+culminante                    culmin
 culminar                      culmin
 culminou                      culmin
 culote                        culot
@@ -8608,7 +8608,7 @@ debray                        debray
 debruçada                     debruc
 debruçou                      debruc
 début                         début
-debutante                     debutant
+debutante                     debut
 dec                           dec
 década                        déc
 décadas                       déc
@@ -8626,7 +8626,7 @@ decepção                      decepçã
 decepcionadas                 decepcion
 decepcionado                  decepcion
 decepcionam                   decepcion
-decepcionante                 decepcionant
+decepcionante                 decepcion
 decepções                     decepçõ
 decerto                       decert
 decibéis                      decib
@@ -8877,8 +8877,8 @@ delinquente                   delinquent
 delinquentes                  delinquent
 délio                         déli
 deliram                       del
-delirante                     delirant
-delirantes                    delirant
+delirante                     delir
+delirantes                    delir
 delirava                      delir
 delírio                       delíri
 delito                        delit
@@ -9280,7 +9280,7 @@ desconfiou                    desconfi
 desconfortáveis               desconfort
 desconfortável                desconfort
 desconforto                   desconfort
-descongestionante             descongestionant
+descongestionante             descongestion
 desconhecia                   desconhec
 desconheciam                  desconhec
 desconhecida                  desconhec
@@ -9489,7 +9489,7 @@ desfrutar                     desfrut
 desgasta                      desgast
 desgastadas                   desgast
 desgastando                   desgast
-desgastante                   desgastant
+desgastante                   desgast
 desgastar                     desgast
 desgaste                      desg
 desgovernado                  desgovern
@@ -9518,7 +9518,7 @@ desigualdades                 desigualdad
 desilusão                     desilusã
 desilusões                    desilusõ
 desimpedida                   desimped
-desimportante                 desimportant
+desimportante                 desimport
 desincompatibilização         desincompatibiliz
 desincompatibilizar           desincompatibiliz
 desinformação                 desinform
@@ -9569,7 +9569,7 @@ deslocou                      desloc
 deslumbrada                   deslumbr
 deslumbrado                   deslumbr
 deslumbrados                  deslumbr
-deslumbrante                  deslumbrant
+deslumbrante                  deslumbr
 deslumbrar                    deslumbr
 desmaiar                      desmai
 desmaiava                     desmai
@@ -9619,8 +9619,8 @@ desobediente                  desobedient
 desobese                      desobes
 desocupadas                   desocup
 desodorados                   desodor
-desodorante                   desodorant
-desodorantes                  desodorant
+desodorante                   desodor
+desodorantes                  desodor
 desolado                      desol
 desonesta                     desonest
 desonestidade                 desonest
@@ -9859,8 +9859,8 @@ determinado                   determin
 determinados                  determin
 determinam                    determin
 determinando                  determin
-determinante                  determinant
-determinantes                 determinant
+determinante                  determin
+determinantes                 determin
 determinar                    determin
 determinara                   determin
 determinasse                  determin
@@ -10210,7 +10210,7 @@ discos                        disc
 discoteca                     discotec
 discotecas                    discotec
 discovery                     discovery
-discrepância                  discrepânc
+discrepância                  discrep
 discreta                      discret
 discretamente                 discret
 discretas                     discret
@@ -10335,7 +10335,7 @@ disso                         diss
 dissociada                    dissoc
 dissolver                     dissolv
 dissolveu                     dissolv
-dissonância                   dissonânc
+dissonância                   disson
 dissuadido                    dissuad
 distância                     distânc
 distanciado                   distanc
@@ -10572,7 +10572,7 @@ dominado                      domin
 dominadores                   domin
 dominam                       domin
 dominando                     domin
-dominante                     dominant
+dominante                     domin
 dominar                       domin
 dominaram                     domin
 dominarem                     domin
@@ -10954,11 +10954,11 @@ eldorado                      eldor
 ele                           ele
 electric                      electric
 electronics                   electronics
-elefante                      elefant
-elefantes                     elefant
-elegância                     elegânc
-elegante                      elegant
-elegantes                     elegant
+elefante                      elef
+elefantes                     elef
+elegância                     eleg
+elegante                      eleg
+elegantes                     eleg
 elegantíssimo                 elegantíssim
 elege                         eleg
 elegendo                      eleg
@@ -10986,7 +10986,7 @@ elenco                        elenc
 elenilda                      elenild
 eleonor                       eleonor
 eleotório                     eleotóri
-elephante                     elephant
+elephante                     eleph
 eles                          eles
 elétrica                      elétr
 elétricas                     elétr
@@ -10995,7 +10995,7 @@ eletricista                   eletric
 eletricistas                  eletric
 elétrico                      elétr
 elétricos                     elétr
-eletrizante                   eletrizant
+eletrizante                   eletriz
 eletro                        eletr
 eletrobrás                    eletrobrás
 eletrodomésticos              eletrodomést
@@ -11201,7 +11201,7 @@ emidio                        emidi
 emídio                        emídi
 emigração                     emigr
 emigrados                     emigr
-emigrantes                    emigrant
+emigrantes                    emigr
 emílio                        emíli
 eminentemente                 eminent
 emirados                      emir
@@ -11231,7 +11231,7 @@ emocionado                    emocion
 emocionais                    emocion
 emocional                     emocional
 emocionalmente                emocional
-emocionante                   emocionant
+emocionante                   emocion
 emocionou                     emocion
 emoções                       emoçõ
 emotivamente                  emot
@@ -11271,8 +11271,8 @@ empolga                       empolg
 empolgação                    empolg
 empolgados                    empolg
 empolgam                      empolg
-empolgante                    empolgant
-empolgantes                   empolgant
+empolgante                    empolg
+empolgantes                   empolg
 empolgou                      empolg
 emporio                       empori
 empório                       empóri
@@ -11743,7 +11743,7 @@ entanto                       entant
 então                         entã
 entardecer                    entardec
 ente                          ente
-entediante                    entediant
+entediante                    entedi
 entenda                       entend
 entende                       entend
 entendê                       entend
@@ -12068,12 +12068,12 @@ escaladas                     escal
 escalado                      escal
 escalador                     escal
 escalam                       escal
-escalante                     escalant
+escalante                     escal
 escalão                       escalã
 escalar                       escal
 escalas                       escal
 escalava                      escal
-escaldante                    escaldant
+escaldante                    escald
 escalou                       escal
 escancara                     escanc
 escancarada                   escancar
@@ -12242,7 +12242,7 @@ esferas                       esfer
 esférico                      esfér
 esfolar                       esfol
 esfolem                       esfol
-esfoliantes                   esfoliant
+esfoliantes                   esfoli
 esforçado                     esforc
 esforçam                      esforc
 esforçar                      esforc
@@ -12463,7 +12463,7 @@ espremida                     esprem
 espremido                     esprem
 espresso                      espress
 espuma                        espum
-espumante                     espumant
+espumante                     espum
 esq                           esq
 esquadra                      esquadr
 esquadrias                    esquadr
@@ -12575,7 +12575,7 @@ estados                       estad
 estaduais                     estadu
 estadual                      estadual
 estafa                        estaf
-estafante                     estafant
+estafante                     estaf
 estágio                       estági
 estágios                      estági
 estagnação                    estagn
@@ -12736,8 +12736,8 @@ estocagem                     estocag
 estojo                        estoj
 estomacal                     estomacal
 estômago                      estômag
-estonteante                   estonteant
-estonteantes                  estonteant
+estonteante                   estont
+estonteantes                  estont
 estopim                       estopim
 estoque                       estoqu
 estoques                      estoqu
@@ -12808,8 +12808,8 @@ estressa                      estress
 estressada                    estress
 estressadas                   estress
 estressado                    estress
-estressante                   estressant
-estressantes                  estressant
+estressante                   estress
+estressantes                  estress
 estresse                      estress
 estria                        estri
 estrias                       estri
@@ -12836,8 +12836,8 @@ estudadas                     estud
 estudado                      estud
 estudam                       estud
 estudando                     estud
-estudante                     estudant
-estudantes                    estudant
+estudante                     estud
+estudantes                    estud
 estudantis                    estudant
 estudar                       estud
 estudaram                     estud
@@ -13051,7 +13051,7 @@ excita                        excit
 excitação                     excit
 excitada                      excit
 excitado                      excit
-excitante                     excitant
+excitante                     excit
 exclamação                    exclam
 exclamou                      exclam
 excludente                    excludent
@@ -13180,7 +13180,7 @@ existiu                       exist
 êxito                         êxit
 êxitos                        êxit
 êxodo                         êxod
-exorbitantes                  exorbitant
+exorbitantes                  exorbit
 exorcismo                     exorc
 exorcizada                    exorciz
 exortando                     exort
@@ -13196,7 +13196,7 @@ expandiu                      expand
 expansão                      expansã
 expansionista                 expansion
 expansões                     expansõ
-expectante                    expectant
+expectante                    expect
 expectativa                   expect
 expectativas                  expect
 expedição                     expediçã
@@ -13329,7 +13329,7 @@ extensão                      extensã
 extensas                      extens
 extenso                       extens
 extensos                      extens
-extenuantes                   extenuant
+extenuantes                   extenu
 exterior                      exterior
 exteriores                    exterior
 exterminador                  extermin
@@ -13373,9 +13373,9 @@ extrato                       extrat
 extratoras                    extrator
 extratos                      extrat
 extratrabalho                 extratrabalh
-extravagância                 extravagânc
-extravagante                  extravagant
-extravagantes                 extravagant
+extravagância                 extravag
+extravagante                  extravag
+extravagantes                 extravag
 extravasamento                extravas
 extrema                       extrem
 extremado                     extrem
@@ -13387,8 +13387,8 @@ extremos                      extrem
 extrovertida                  extrovert
 extrovertidas                 extrovert
 exu                           exu
-exuberância                   exuberânc
-exuberantes                   exuberant
+exuberância                   exuber
+exuberantes                   exuber
 exulta                        exult
 exultei                       exult
 exultou                       exult
@@ -13415,8 +13415,8 @@ fabricado                     fabric
 fabricados                    fabric
 fabricam                      fabric
 fabricando                    fabric
-fabricante                    fabricant
-fabricantes                   fabricant
+fabricante                    fabric
+fabricantes                   fabric
 fabricar                      fabric
 fábricas                      fábric
 fabricasse                    fabric
@@ -13627,7 +13627,7 @@ fascina                       fascin
 fascinação                    fascin
 fascinado                     fascin
 fascinam                      fascin
-fascinante                    fascinant
+fascinante                    fascin
 fascinava                     fascin
 fascínio                      fascíni
 fascinou                      fascin
@@ -13840,8 +13840,8 @@ fértil                        fértil
 fertilidade                   fertil
 fervente                      fervent
 ferver                        ferv
-fervilhante                   fervilhant
-fervilhantes                  fervilhant
+fervilhante                   fervilh
+fervilhantes                  fervilh
 fervilhavam                   fervilh
 fervor                        fervor
 fervoroso                     fervor
@@ -13935,7 +13935,7 @@ figura                        figur
 figuração                     figur
 figuradamente                 figur
 figuram                       figur
-figurantes                    figurant
+figurantes                    figur
 figurão                       figurã
 figurar                       figur
 figuraria                     figur
@@ -14659,7 +14659,7 @@ fuja                          fuj
 fujimori                      fujimor
 fujita                        fujit
 fulano                        fulan
-fulgurante                    fulgurant
+fulgurante                    fulgur
 fuligem                       fulig
 fulmina                       fulmin
 fulminado                     fulmin
@@ -14819,7 +14819,7 @@ gall                          gall
 galliano                      gallian
 gallup                        gallup
 galo                          gal
-galopante                     galopant
+galopante                     galop
 galope                        galop
 galos                         gal
 galpão                        galpã
@@ -15351,7 +15351,7 @@ governadores                  govern
 governados                    govern
 governamentais                governament
 governamental                 governamental
-governantes                   governant
+governantes                   govern
 governar                      govern
 governaram                    govern
 governista                    govern
@@ -15430,7 +15430,7 @@ grape                         grap
 grata                         grat
 gratidão                      gratidã
 gratificado                   gratific
-gratificante                  gratificant
+gratificante                  gratific
 grátis                        grát
 grato                         grat
 gratuita                      gratuit
@@ -15661,8 +15661,8 @@ habitada                      habit
 habitadas                     habit
 habitado                      habit
 habitam                       habit
-habitante                     habitant
-habitantes                    habitant
+habitante                     habit
+habitantes                    habit
 habitat                       habitat
 hábitat                       hábitat
 hábito                        hábit
@@ -15849,8 +15849,8 @@ hidrante                      hidrant
 hidrata                       hidrat
 hidratação                    hidrat
 hidratam                      hidrat
-hidratante                    hidratant
-hidratantes                   hidratant
+hidratante                    hidrat
+hidratantes                   hidrat
 hidráulica                    hidrául
 hidráulico                    hidrául
 hidrelétrica                  hidrelétr
@@ -15868,7 +15868,7 @@ higienicamente                higien
 higienópolis                  higienópol
 higuera                       higu
 hijo                          hij
-hilariante                    hilariant
+hilariante                    hilari
 hilários                      hilári
 hilda                         hild
 hildete                       hildet
@@ -16031,7 +16031,7 @@ hormônio                      hormôni
 hormônios                     hormôni
 hormonioterapia               hormonioterap
 horner                        horn
-horripilante                  horripilant
+horripilante                  horripil
 horríveis                     horrív
 horrível                      horrível
 horror                        horror
@@ -16105,7 +16105,7 @@ humildemente                  humild
 humildes                      humild
 humilhação                    humilh
 humilhado                     humilh
-humilhante                    humilhant
+humilhante                    humilh
 humm                          humm
 hummm                         hummm
 humor                         humor
@@ -16240,9 +16240,9 @@ ignoradas                     ignor
 ignorado                      ignor
 ignorados                     ignor
 ignoram                       ignor
-ignorância                    ignorânc
+ignorância                    ignor
 ignorando                     ignor
-ignorante                     ignorant
+ignorante                     ignor
 ignorar                       ignor
 igor                          igor
 igreja                        igrej
@@ -16357,8 +16357,8 @@ imersa                        imers
 imersão                       imersã
 imerso                        imers
 imigração                     imigr
-imigrante                     imigrant
-imigrantes                    imigrant
+imigrante                     imigr
+imigrantes                    imigr
 iminente                      iminent
 imirim                        imirim
 imita                         imit
@@ -16383,7 +16383,7 @@ imóvel                        imóvel
 impaciência                   impacient
 impacientes                   impacient
 impacta                       impact
-impactante                    impactant
+impactante                    impact
 impacto                       impact
 impactos                      impact
 impagável                     impag
@@ -16395,7 +16395,7 @@ impeçam                       impec
 impecáveis                    impec
 impecável                     impec
 impecavelmente                impec
-impedância                    impedânc
+impedância                    imped
 impede                        imped
 impedem                       imped
 impedia                       imped
@@ -16482,10 +16482,10 @@ importadoras                  import
 importadores                  import
 importados                    import
 importam                      import
-importância                   importânc
+importância                   import
 importando                    import
-importante                    important
-importantes                   important
+importante                    import
+importantes                   import
 importantíssimo               importantíssim
 importar                      import
 importaram                    import
@@ -16517,8 +16517,8 @@ impressiona                   impression
 impressioná                   impression
 impressionadíssimo            impressionadíssim
 impressionados                impression
-impressionante                impressionant
-impressionantes               impressionant
+impressionante                impression
+impressionantes               impression
 impressionar                  impression
 impressionistas               impression
 impressionou                  impression
@@ -16621,7 +16621,7 @@ incentivou                    incentiv
 incerteza                     incert
 incertezas                    incert
 incerto                       incert
-incessantes                   incessant
+incessantes                   incess
 incesto                       incest
 incestuosos                   incestu
 inchaço                       inchac
@@ -16997,7 +16997,7 @@ informal                      informal
 informalmente                 informal
 informam                      inform
 informando                    inform
-informantes                   informant
+informantes                   inform
 informar                      inform
 informaram                    inform
 informática                   informát
@@ -17071,8 +17071,8 @@ inicialmente                  inicial
 iniciam                       inic
 iniciamos                     inic
 iniciando                     inic
-iniciante                     iniciant
-iniciantes                    iniciant
+iniciante                     inic
+iniciantes                    inic
 iniciar                       inic
 iniciaram                     inic
 iniciático                    iniciát
@@ -17129,7 +17129,7 @@ inquestionável                inquestion
 inquieta                      inquiet
 inquietação                   inquiet
 inquietações                  inquiet
-inquietante                   inquietant
+inquietante                   inquiet
 inquieto                      inquiet
 inquietos                     inquiet
 inquisição                    inquisiçã
@@ -17157,9 +17157,9 @@ inserção                      inserçã
 insere                        inser
 inseri                        inser
 inserido                      inser
-insignificância               insignificânc
-insignificante                insignificant
-insignificantes               insignificant
+insignificância               insignific
+insignificante                insignific
+insignificantes               insignific
 insinua                       insinu
 insinuações                   insinu
 insinuando                    insinu
@@ -17224,7 +17224,7 @@ instantes                     instant
 instaurado                    instaur
 instáveis                     instáv
 instável                      instável
-instigante                    instigant
+instigante                    instig
 instintiva                    instint
 instinto                      instint
 institucionalizar             institucionaliz
@@ -17281,8 +17281,8 @@ integrais                     integr
 integral                      integral
 integralmente                 integral
 integram                      integr
-integrante                    integrant
-integrantes                   integrant
+integrante                    integr
+integrantes                   integr
 integrar                      integr
 íntegras                      íntegr
 integrated                    integrated
@@ -17341,8 +17341,8 @@ interessadas                  interess
 interessado                   interess
 interessados                  interess
 interessam                    interess
-interessante                  interessant
-interessantes                 interessant
+interessante                  interess
+interessantes                 interess
 interessar                    interess
 interessasse                  interess
 interessava                   interess
@@ -17456,8 +17456,8 @@ intitular                     intitul
 intocada                      intoc
 intocados                     intoc
 intocável                     intoc
-intolerância                  intolerânc
-intolerantes                  intolerant
+intolerância                  intoler
+intolerantes                  intoler
 intolerável                   intoler
 intoxicação                   intoxic
 intoxicações                  intoxic
@@ -17466,7 +17466,7 @@ intransponíveis               intransponív
 intransponível                intranspon
 intratáveis                   intrat
 intriga                       intrig
-intrigante                    intrigant
+intrigante                    intrig
 intrigas                      intrig
 introdução                    introduçã
 introduz                      introduz
@@ -17647,8 +17647,8 @@ irregulares                   irregul
 irregularidade                irregular
 irregularidades               irregular
 irregularmente                irregular
-irrelevante                   irrelevant
-irrelevantes                  irrelevant
+irrelevante                   irrelev
+irrelevantes                  irrelev
 irreligioso                   irreligi
 irreparável                   irrepar
 irrepreensível                irrepreens
@@ -17673,7 +17673,7 @@ irritadiças                   irritadic
 irritado                      irrit
 irritam                       irrit
 irritando                     irrit
-irritante                     irritant
+irritante                     irrit
 irritava                      irrit
 irrito                        irrit
 irritou                       irrit
@@ -17744,7 +17744,7 @@ itautec                       itautec
 item                          item
 itens                         itens
 ítens                         ítens
-itinerantes                   itinerant
+itinerantes                   itiner
 itr                           itr
 itu                           itu
 iva                           iva
@@ -19174,7 +19174,7 @@ luxuosa                       luxuos
 luxuosas                      luxuos
 luxuoso                       luxuos
 luxuosos                      luxuos
-luxuriantes                   luxuriant
+luxuriantes                   luxuri
 luycx                         luycx
 luz                           luz
 luzes                         luz
@@ -19511,7 +19511,7 @@ manifestações                 manifest
 manifestadas                  manifest
 manifestam                    manifest
 manifestando                  manifest
-manifestantes                 manifestant
+manifestantes                 manifest
 manifestar                    manifest
 manifestaram                  manifest
 manifestavam                  manifest
@@ -20082,7 +20082,7 @@ mencionou                     mencion
 menconi                       mencon
 mendel                        mendel
 mendes                        mend
-mendicância                   mendicânc
+mendicância                   mendic
 mendigo                       mendig
 mendigos                      mendig
 mendonça                      mendonc
@@ -20141,7 +20141,7 @@ menu                          menu
 menus                         menus
 mera                          mer
 meramente                     mer
-mercadante                    mercadant
+mercadante                    mercad
 mercado                       merc
 mercadológico                 mercadológ
 mercadores                    mercador
@@ -20382,9 +20382,9 @@ milionária                    milionár
 milionárias                   milionár
 milionário                    milionári
 milionários                   milionári
-militância                    militânc
-militante                     militant
-militantes                    militant
+militância                    milit
+militante                     milit
+militantes                    milit
 militão                       militã
 militar                       milit
 militaram                     milit
@@ -20480,7 +20480,7 @@ miopia                        miop
 miou                          miou
 mir                           mir
 mira                          mir
-mirabolantes                  mirabolant
+mirabolantes                  mirabol
 miraculosa                    miracul
 mirage                        mirag
 miragem                       mirag
@@ -21172,7 +21172,7 @@ narcisista                    narcis
 narciso                       narcis
 narcos                        narc
 narcóticos                    narcót
-narcotraficantes              narcotraficant
+narcotraficantes              narcotrafic
 narcotráfico                  narcotráf
 nardeli                       nardel
 narguilés                     narguilés
@@ -21250,8 +21250,8 @@ navegações                    naveg
 navegador                     naveg
 navegadores                   naveg
 navegando                     naveg
-navegante                     navegant
-navegantes                    navegant
+navegante                     naveg
+navegantes                    naveg
 navegar                       naveg
 navegáveis                    naveg
 naves                         nav
@@ -21327,7 +21327,7 @@ negociados                    negoc
 negociam                      negoc
 negociamos                    negoc
 negociando                    negoc
-negociantes                   negociant
+negociantes                   negoc
 negociar                      negoc
 negociatas                    negociat
 negociava                     negoc
@@ -21855,8 +21855,8 @@ ocupado                       ocup
 ocupados                      ocup
 ocupam                        ocup
 ocupando                      ocup
-ocupante                      ocupant
-ocupantes                     ocupant
+ocupante                      ocup
+ocupantes                     ocup
 ocupar                        ocup
 ocupava                       ocup
 ocupavam                      ocup
@@ -21906,7 +21906,7 @@ oferecimento                  oferec
 oferenda                      oferend
 oferendas                     oferend
 oferta                        ofert
-ofertante                     ofertant
+ofertante                     ofert
 ofertar                       ofert
 ofertas                       ofert
 off                           off
@@ -22713,8 +22713,8 @@ participações                 particip
 participado                   particip
 participam                    particip
 participando                  particip
-participante                  participant
-participantes                 participant
+participante                  particip
+participantes                 particip
 participar                    particip
 participaram                  particip
 participarem                  particip
@@ -23379,7 +23379,7 @@ perseguidor                   perseguidor
 perseguidos                   persegu
 perseguir                     persegu
 perseguiu                     persegu
-perseverante                  perseverant
+perseverante                  persever
 pérsio                        pérsi
 persiste                      pers
 persistem                     persist
@@ -24052,7 +24052,7 @@ postes                        post
 posto                         post
 postos                        post
 postulador                    postul
-postulante                    postulant
+postulante                    postul
 postumamente                  postum
 póstumas                      póstum
 postura                       postur
@@ -24143,8 +24143,8 @@ praticados                    pratic
 praticam                      pratic
 praticamente                  pratic
 praticando                    pratic
-praticante                    praticant
-praticantes                   praticant
+praticante                    pratic
+praticantes                   pratic
 praticar                      pratic
 praticaram                    pratic
 práticas                      prátic
@@ -24244,9 +24244,9 @@ predispõe                     predispõ
 predisposição                 predisposiçã
 predomina                     predomin
 predominam                    predomin
-predominância                 predominânc
-predominante                  predominant
-predominantemente             predominant
+predominância                 predomin
+predominante                  predomin
+predominantemente             predomin
 predominou                    predomin
 preenchem                     preench
 preenchendo                   preench
@@ -24353,7 +24353,7 @@ preocupadas                   preocup
 preocupado                    preocup
 preocupados                   preocup
 preocupam                     preocup
-preocupante                   preocupant
+preocupante                   preocup
 preocupar                     preocup
 preocuparam                   preocup
 preocupasse                   preocup
@@ -24381,7 +24381,7 @@ preparem                      prep
 preparo                       prepar
 preparos                      prepar
 preparou                      prepar
-preponderante                 preponderant
+preponderante                 preponder
 prepotente                    prepotent
 presa                         pres
 presas                        pres
@@ -24723,8 +24723,8 @@ profissional                  profissional
 profissionalismo              profissional
 profissionalíssima            profissionalíssim
 profissionalização            profissionaliz
-profissionalizante            profissionalizant
-profissionalizantes           profissionalizant
+profissionalizante            profissionaliz
+profissionalizantes           profissionaliz
 profissionalmente             profissional
 profissões                    profissõ
 profunda                      profund
@@ -24962,8 +24962,8 @@ protelação                    protel
 prótese                       prótes
 próteses                      prótes
 protesta                      protest
-protestante                   protestant
-protestantes                  protestant
+protestante                   protest
+protestantes                  protest
 protestantismo                protestant
 protestar                     protest
 protesto                      protest
@@ -25551,7 +25551,7 @@ raspadinhas                   raspadinh
 raspados                      rasp
 rastafári                     rastafár
 rastejando                    rastej
-rastejantes                   rastejant
+rastejantes                   rastej
 rastreadas                    rastr
 rastreamento                  rastreament
 rastreando                    rastr
@@ -25815,7 +25815,7 @@ recomprar                     recompr
 recomprou                     recompr
 reconciliação                 reconcili
 reconfirmar                   reconfirm
-reconfortante                 reconfortant
+reconfortante                 reconfort
 reconheça                     reconhec
 reconhece                     reconhec
 reconhecê                     reconhec
@@ -25927,7 +25927,7 @@ redoxon                       redoxon
 redução                       reduçã
 reduções                      reduçõ
 reductil                      reductil
-redundância                   redundânc
+redundância                   redund
 redundou                      redund
 reduto                        redut
 redutor                       redutor
@@ -26042,8 +26042,8 @@ refrega                       refreg
 refrescada                    refresc
 refresco                      refresc
 refrigeração                  refriger
-refrigerante                  refrigerant
-refrigerantes                 refrigerant
+refrigerante                  refriger
+refrigerantes                 refriger
 refugiam                      refug
 refugiavam                    refugi
 refúgio                       refúgi
@@ -26203,7 +26203,7 @@ relaxa                        relax
 relaxado                      relax
 relaxados                     relax
 relaxamento                   relax
-relaxante                     relaxant
+relaxante                     relax
 relaxar                       relax
 relaxou                       relax
 relé                          rel
@@ -26212,9 +26212,9 @@ relegado                      releg
 releitura                     releitur
 relembra                      relembr
 reler                         rel
-relevância                    relevânc
-relevante                     relevant
-relevantes                    relevant
+relevância                    relev
+relevante                     relev
+relevantes                    relev
 relevo                        relev
 religi                        relig
 religião                      religiã
@@ -26230,7 +26230,7 @@ relíquias                     relíqu
 relocalização                 relocaliz
 relógio                       relógi
 relógios                      relógi
-relutância                    relutânc
+relutância                    relut
 reluzente                     reluzent
 rem                           rem
 remando                       rem
@@ -26401,8 +26401,8 @@ representado                  represent
 representados                 represent
 representam                   represent
 representando                 represent
-representante                 representant
-representantes                representant
+representante                 represent
+representantes                represent
 representar                   represent
 representaram                 represent
 representativa                represent
@@ -26445,8 +26445,8 @@ repudiado                     repudi
 repudiando                    repudi
 repúdio                       repúdi
 repudiou                      repudi
-repugnância                   repugnânc
-repugnante                    repugnant
+repugnância                   repugn
+repugnante                    repugn
 repulsa                       repuls
 reputação                     reput
 reputadas                     reput
@@ -26607,7 +26607,7 @@ ressente                      ressent
 ressentem                     ressent
 ressentimento                 ressent
 ressentimentos                ressent
-ressonância                   ressonânc
+ressonância                   resson
 ressonaria                    resson
 ressou                        ress
 ressu                         ressu
@@ -26629,8 +26629,8 @@ restaria                      rest
 restasse                      rest
 restauração                   restaur
 restaurant                    restaurant
-restaurante                   restaurant
-restaurantes                  restaurant
+restaurante                   restaur
+restaurantes                  restaur
 restaurar                     restaur
 restaurateurs                 restaurateurs
 restava                       rest
@@ -26649,8 +26649,8 @@ resulta                       result
 resultado                     result
 resultados                    result
 resultam                      result
-resultante                    resultant
-resultantes                   resultant
+resultante                    result
+resultantes                   result
 resultar                      result
 resultaram                    result
 resultarem                    result
@@ -26739,7 +26739,7 @@ retrospectiva                 retrospect
 retrospecto                   retrospect
 retruca                       retruc
 retrucou                      retruc
-retumbante                    retumbant
+retumbante                    retumb
 réu                           réu
 reumática                     reumát
 reumatismo                    reumat
@@ -27430,7 +27430,7 @@ salte                         salt
 salteador                     salteador
 saltei                        salt
 saltinho                      saltinh
-saltitantes                   saltitant
+saltitantes                   saltit
 salto                         salt
 saltou                        salt
 salva                         salv
@@ -27824,8 +27824,8 @@ semeia                        sem
 semeiskys                     semeiskys
 semelhança                    semelhanc
 semelhanças                   semelhanc
-semelhante                    semelhant
-semelhantes                   semelhant
+semelhante                    semelh
+semelhantes                   semelh
 sêmen                         sêmen
 semente                       sement
 sementes                      sement
@@ -28144,7 +28144,7 @@ signes                        sign
 significa                     signif
 significado                   signific
 significam                    signific
-significante                  significant
+significante                  signific
 significar                    signific
 significarão                  signific
 significaria                  signific
@@ -28211,8 +28211,8 @@ simpatia                      simpat
 simpatias                     simpat
 simpática                     simpát
 simpático                     simpát
-simpatizante                  simpatizant
-simpatizantes                 simpatizant
+simpatizante                  simpatiz
+simpatizantes                 simpatiz
 simpatizar                    simpatiz
 simples                       simpl
 simplesmente                  simples
@@ -28263,7 +28263,7 @@ síndica                       síndic
 sindical                      sindical
 sindicalista                  sindical
 sindicalistas                 sindical
-sindicância                   sindicânc
+sindicância                   sindic
 sindicato                     sindicat
 sindicatos                    sindicat
 síndrome                      síndrom
@@ -28439,7 +28439,7 @@ socialista                    social
 socialistas                   social
 socialite                     socialit
 socialites                    socialit
-socializantes                 socializant
+socializantes                 socializ
 socialmente                   social
 sócias                        sóc
 sociável                      sociável
@@ -28894,7 +28894,7 @@ suficiente                    suficient
 suficientemente               suficient
 suficientes                   suficient
 sufixos                       sufix
-sufocante                     sufocant
+sufocante                     sufoc
 sufocar                       sufoc
 sufoco                        sufoc
 suframa                       sufram
@@ -29000,7 +29000,7 @@ supérfluo                     supérflu
 superintendência              superintendent
 superintendências             superintendent
 superintendente               superintendent
-superinteressante             superinteressant
+superinteressante             superinteress
 superior                      superior
 superiores                    superior
 superioridade                 superior
@@ -29875,8 +29875,8 @@ tolamente                     tol
 toledo                        toled
 tolera                        tol
 tolerada                      toler
-tolerância                    tolerânc
-tolerante                     tolerant
+tolerância                    toler
+tolerante                     toler
 tolerar                       toler
 toleráveis                    toler
 tolice                        tolic
@@ -30118,8 +30118,8 @@ trafegam                      trafeg
 trafegar                      trafeg
 trafegava                     trafeg
 tráfego                       tráfeg
-traficante                    traficant
-traficantes                   traficant
+traficante                    trafic
+traficantes                   trafic
 tráfico                       tráfic
 trafiquei                     trafiqu
 traga                         trag
@@ -30187,9 +30187,9 @@ tranquilas                    tranquil
 tranquilidade                 tranquil
 tranqüilidade                 tranqüil
 tranqüilizador                tranqüiliz
-tranquilizante                tranquilizant
-tranqüilizante                tranqüilizant
-tranquilizantes               tranquilizant
+tranquilizante                tranquiliz
+tranqüilizante                tranqüiliz
+tranquilizantes               tranquiliz
 tranquilizar                  tranquiliz
 tranquilizaram                tranquiliz
 tranquilo                     tranquil
@@ -30345,7 +30345,7 @@ traumática                    traumát
 traumático                    traumát
 traumatismo                   traumat
 traumatizado                  traumatiz
-traumatizantes                traumatizant
+traumatizantes                traumatiz
 traumatizou                   traumatiz
 trava                         trav
 travada                       trav
@@ -30410,7 +30410,7 @@ tremularam                    tremul
 trench                        trench
 trends                        trends
 trens                         trens
-trepidante                    trepidant
+trepidante                    trepid
 tréplica                      tréplic
 três                          três
 trésor                        trésor
@@ -30460,8 +30460,8 @@ tripudiam                     tripud
 tripulação                    tripul
 tripulações                   tripul
 tripulada                     tripul
-tripulante                    tripulant
-tripulantes                   tripulant
+tripulante                    tripul
+tripulantes                   tripul
 tristão                       tristã
 triste                        trist
 tristemente                   tristement
@@ -31419,8 +31419,8 @@ vigiando                      vigi
 vigiar                        vigi
 vigiava                       vigi
 vigiavam                      vigi
-vigilância                    vigilânc
-vigilantes                    vigilant
+vigilância                    vigil
+vigilantes                    vigil
 vigília                       vigíl
 vigor                         vigor
 vigore                        vigor
@@ -31563,8 +31563,8 @@ visitado                      visit
 visitados                     visit
 visitam                       visit
 visitamos                     visit
-visitante                     visitant
-visitantes                    visitant
+visitante                     visit
+visitantes                    visit
 visitar                       visit
 visitaram                     visit
 visitas                       visit

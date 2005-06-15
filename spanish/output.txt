@@ -52,7 +52,7 @@ abedrop
 abel
 abelard
 aberr
-aberrant
+aberr
 abidj
 abiel
 abiert
@@ -172,9 +172,9 @@ abuel
 abult
 abund
 abund
-abundanci
-abundant
-abundant
+abund
+abund
+abund
 abund
 abund
 abund
@@ -379,8 +379,8 @@ acompañ
 acompañ
 acompañ
 acompañ
-acompañant
-acompañant
+acompañ
+acompañ
 acompañ
 acompañ
 acompañ
@@ -500,7 +500,7 @@ actu
 actu
 acuari
 acuat
-acuciant
+acuci
 acud
 acud
 acud
@@ -600,7 +600,7 @@ adelant
 adelant
 adelant
 adelant
-adelant
+adel
 adelant
 adelant
 adelant
@@ -909,7 +909,7 @@ aglutin
 aglutin
 agobi
 agon
-agonizant
+agoniz
 agor
 agost
 agot
@@ -1109,7 +1109,7 @@ alar
 alarm
 alarm
 alarm
-alarmant
+alarm
 alarm
 alarm
 alarm
@@ -1366,7 +1366,7 @@ altibaj
 altimetr
 altiplan
 altis
-altisonant
+altison
 altitud
 alto
 altos
@@ -1469,9 +1469,9 @@ ambos
 ambriz
 ambros
 ambrosi
-ambulanci
-ambulanci
-ambulant
+ambul
+ambul
+ambul
 ambulatori
 amda
 amen
@@ -1766,12 +1766,12 @@ anticip
 anticip
 anticip
 anticonstitucional
-anticontaminant
-anticontaminant
+anticontamin
+anticontamin
 anticrist
 anticuari
 antidemocrat
-antiderrapant
+antiderrap
 antidoping
 antidot
 antidot
@@ -1878,7 +1878,7 @@ apart
 apasion
 apasion
 apasion
-apasionant
+apasion
 apat
 apat
 apat
@@ -2253,7 +2253,7 @@ arnald
 arnold
 arnulf
 arom
-aromatizant
+aromatiz
 aromatiz
 aros
 arq
@@ -2351,7 +2351,7 @@ arrim
 arrivederci
 arrob
 arrodill
-arrogant
+arrog
 arroj
 arroj
 arroj
@@ -2426,8 +2426,8 @@ asalt
 asalt
 asalt
 asalt
-asaltant
-asaltant
+asalt
+asalt
 asalt
 asalt
 asalt
@@ -2580,8 +2580,8 @@ aspeti
 aspir
 aspir
 aspir
-aspirant
-aspirant
+aspir
+aspir
 aspir
 aspir
 assessment
@@ -2625,8 +2625,8 @@ atac
 atac
 atac
 atac
-atacant
-atacant
+atac
+atac
 atac
 atac
 atac
@@ -2649,7 +2649,7 @@ atast
 atavi
 atavi
 atav
-atemorizant
+atemoriz
 atencion
 atencion
 atend
@@ -3021,8 +3021,8 @@ ayud
 ayud
 ayud
 ayud
-ayudant
-ayudant
+ayud
+ayud
 ayud
 ayud
 ayud
@@ -3947,7 +3947,7 @@ busqued
 busqued
 busquel
 busqu
-bustamant
+bustam
 bustill
 bustinz
 bust
@@ -5252,8 +5252,8 @@ circul
 circul
 circunscrib
 circunscrit
-circunstanci
-circunstanci
+circunst
+circunst
 circunval
 circurret
 ciri
@@ -5588,7 +5588,7 @@ coloquial
 coloqui
 color
 color
-colorant
+color
 color
 color
 color
@@ -5615,8 +5615,8 @@ comadrit
 comand
 comand
 comand
-comandanci
-comandant
+comand
+comand
 comand
 comand
 comand
@@ -5650,7 +5650,7 @@ combust
 combustion
 com
 comedi
-comediant
+comedi
 comediograf
 comedor
 comedor
@@ -5703,8 +5703,8 @@ comercializ
 comercializ
 comercializ
 comercial
-comerciant
-comerciant
+comerci
+comerci
 comerci
 comerci
 comerci
@@ -5959,7 +5959,7 @@ compresor
 comprim
 compr
 comprob
-comprobant
+comprob
 comprob
 comprob
 comprob
@@ -6009,7 +6009,7 @@ comunic
 comunic
 comunic
 comunic
-comunicant
+comun
 comunic
 comunic
 comunic
@@ -6136,7 +6136,7 @@ concurr
 concurrent
 concurr
 concurs
-concursant
+concurs
 concurs
 concurs
 concurs
@@ -6208,7 +6208,7 @@ confeccion
 confeccion
 confeder
 conferent
-conferenciant
+conferenci
 conferent
 conferenc
 conferenc
@@ -6618,8 +6618,8 @@ contamin
 contamin
 contamin
 contamin
-contaminant
-contaminant
+contamin
+contamin
 contamin
 contamin
 contamin
@@ -6763,7 +6763,7 @@ contrat
 contrat
 contrat
 contrat
-contratant
+contrat
 contrat
 contrat
 contrat
@@ -6789,8 +6789,8 @@ contribuyent
 contribuyent
 contribu
 contribu
-contrincant
-contrincant
+contrinc
+contrinc
 contrit
 control
 control
@@ -7504,7 +7504,7 @@ culiacan
 culinari
 culmin
 culmin
-culminant
+culmin
 culmin
 culmin
 culmin
@@ -7738,7 +7738,7 @@ debit
 deb
 debut
 debut
-debutant
+debut
 debut
 debut
 dec
@@ -7810,7 +7810,7 @@ declar
 declar
 declar
 declar
-declarant
+declar
 declar
 declar
 declar
@@ -8021,7 +8021,7 @@ deline
 delinqu
 delinqu
 deliqui
-delirant
+delir
 deliri
 delit
 delit
@@ -8040,8 +8040,8 @@ demand
 demand
 demand
 demand
-demandant
-demandant
+demand
+demand
 demand
 demand
 demand
@@ -8070,7 +8070,7 @@ democrat
 democrat
 democratiz
 democratiz
-democratizant
+democratiz
 democratiz
 democratiz
 democristian
@@ -8123,8 +8123,8 @@ denunci
 denunci
 denunci
 denunci
-denunciant
-denunciant
+denunci
+denunci
 denunci
 denunci
 denunci
@@ -8168,7 +8168,7 @@ deposit
 deposit
 deposit
 deposit
-depositant
+deposit
 deposit
 depositari
 deposit
@@ -8220,7 +8220,7 @@ derram
 derram
 derram
 derram
-derrapant
+derrap
 derrap
 derrap
 derredor
@@ -8288,7 +8288,7 @@ desaloj
 desamor
 desampar
 desangr
-desangrant
+desangr
 desanim
 desanim
 desanim
@@ -8405,7 +8405,7 @@ descompuest
 descomunal
 desconcert
 desconcert
-desconcertant
+desconcert
 desconciert
 desconciert
 desconfi
@@ -8548,7 +8548,7 @@ desgarrador
 desgarr
 desgarr
 desgarr
-desgastant
+desgast
 desgast
 desg
 desgl
@@ -8850,9 +8850,9 @@ determin
 determin
 determin
 determin
-determinant
-determinant
-determinant
+determin
+determin
+determin
 determin
 determin
 determin
@@ -8928,7 +8928,7 @@ diari
 dias
 diaz
 dibuj
-dibujant
+dibuj
 dibuj
 dibuj
 dibuj
@@ -9165,7 +9165,7 @@ discograf
 disc
 discotec
 discotec
-discrepanci
+discrep
 discret
 discret
 discrimin
@@ -9465,7 +9465,7 @@ domin
 domin
 domin
 domin
-dominant
+domin
 domin
 domin
 domin
@@ -9520,7 +9520,7 @@ dorsal
 dorsets
 dorsey
 dos
-dosamant
+dosam
 doscient
 dosis
 dotacion
@@ -9823,7 +9823,7 @@ ejecut
 ejecut
 ejecut
 ejecut
-ejecutant
+ejecut
 ejecut
 ejecut
 ejecut
@@ -9896,11 +9896,11 @@ electron
 electron
 electron
 electron
-elefant
-eleganci
-elegant
-elegant
-elegant
+elef
+eleg
+eleg
+eleg
+eleg
 eleg
 eleg
 eleg
@@ -10025,7 +10025,7 @@ embotell
 embotell
 embotell
 embravec
-embriagant
+embriag
 embriag
 embriag
 embut
@@ -10037,7 +10037,7 @@ emergent
 emerson
 emes
 emigr
-emigrant
+emigr
 emigr
 emigr
 emilian
@@ -10072,7 +10072,7 @@ emocion
 emocion
 emocion
 emocional
-emocionant
+emocion
 emocion
 emocion
 emocion
@@ -10310,8 +10310,8 @@ energ
 energ
 energ
 ener
-enervant
-enervant
+enerv
+enerv
 enesim
 enfad
 enfasis
@@ -10719,7 +10719,7 @@ escabr
 escal
 escal
 escalafon
-escalant
+escal
 escal
 escaler
 escaler
@@ -11255,8 +11255,8 @@ estudi
 estudi
 estudi
 estudi
-estudiant
-estudiant
+estudi
+estudi
 estudiantil
 estudiantil
 estudi
@@ -11444,8 +11444,8 @@ exchang
 excit
 excit
 excit
-excitant
-excitant
+excit
+excit
 excit
 exclam
 exclam
@@ -11760,7 +11760,7 @@ extraordinari
 extraordinari
 extras
 extraterrestr
-extravagant
+extravag
 extravi
 extravi
 extravi
@@ -11782,8 +11782,8 @@ fabric
 fabric
 fabric
 fabric
-fabricant
-fabricant
+fabric
+fabric
 fabric
 fabric
 fabric
@@ -11922,7 +11922,7 @@ farrugi
 fars
 farsant
 fascin
-fascinant
+fascin
 fas
 fas
 fast
@@ -12056,8 +12056,8 @@ ferroviari
 ferroviari
 fertil
 fertil
-fertilizant
-fertilizant
+fertiliz
+fertiliz
 fesperm
 festej
 festej
@@ -12614,8 +12614,8 @@ fukuok
 fulan
 fulgor
 full
-fulminant
-fulminant
+fulmin
+fulmin
 fulmin
 fum
 fum
@@ -13045,8 +13045,8 @@ gobern
 gobern
 gobern
 gobern
-gobernant
-gobernant
+gobern
+gobern
 gobern
 gobern
 gobernicol
@@ -13217,7 +13217,7 @@ granm
 gran
 gran
 gratif
-gratificant
+gratif
 gratis
 gratitud
 grat
@@ -13415,7 +13415,7 @@ habitacional
 habit
 habit
 habit
-habitant
+habit
 habit
 habit
 habit
@@ -13961,8 +13961,8 @@ humed
 humild
 humild
 humill
-humillant
-humillant
+humill
+humill
 humill
 hum
 humor
@@ -14061,9 +14061,9 @@ ignicion
 ignomini
 ignor
 ignor
-ignoranci
 ignor
-ignorant
+ignor
+ignor
 ignor
 ignor
 igor
@@ -14231,11 +14231,11 @@ import
 import
 import
 import
-importanci
 import
-important
-important
-important
+import
+import
+import
+import
 importantisim
 importantisim
 importantis
@@ -14263,8 +14263,8 @@ impresion
 impresion
 impresion
 impresion
-impresionant
-impresionant
+impresion
+impresion
 impresion
 impresion
 impresion
@@ -14362,8 +14362,8 @@ incentiv
 incent
 incent
 incertidumbr
-incesant
-incesant
+inces
+inces
 inci
 incid
 incid
@@ -14628,7 +14628,7 @@ ineficient
 ineficient
 ineficient
 inegi
-ineleganci
+ineleg
 inelud
 inept
 inequivoc
@@ -14704,8 +14704,8 @@ inform
 informal
 inform
 inform
-informant
-informant
+inform
+inform
 inform
 inform
 inform
@@ -14834,7 +14834,7 @@ inmediat
 inmediat
 inmens
 inmens
-inmigrant
+inmigr
 inminent
 inminent
 inmiscu
@@ -14868,7 +14868,7 @@ innov
 innov
 inntien
 innumer
-inobservanci
+inobserv
 inocent
 inocent
 inocent
@@ -14876,7 +14876,7 @@ inocul
 inocul
 inofens
 inolvid
-inoperant
+inoper
 inquier
 inquiet
 inquiet
@@ -14911,7 +14911,7 @@ inserv
 insiders
 insidi
 insigni
-insignificant
+insignif
 insinu
 insinu
 insip
@@ -15034,8 +15034,8 @@ integral
 integral
 integr
 integr
-integrant
-integrant
+integr
+integr
 integr
 integr
 integr
@@ -15127,8 +15127,8 @@ interes
 interes
 interes
 interes
-interesant
-interesant
+interes
+interes
 interes
 interes
 interes
@@ -15208,7 +15208,7 @@ interrelacion
 interrog
 interrog
 interrog
-interrogant
+interrog
 interrog
 interrog
 interrump
@@ -15249,7 +15249,7 @@ intimid
 intim
 intim
 intoler
-intoleranci
+intoler
 intox
 intoxic
 intoxic
@@ -15397,7 +15397,7 @@ inyect
 inyect
 inyect
 ioniz
-ionizant
+ioniz
 ip
 ipiñ
 ir
@@ -15439,8 +15439,8 @@ irregul
 irregular
 irregular
 irregular
-irrelevant
-irrelevant
+irrelev
+irrelev
 irremis
 irrenunci
 irresolut
@@ -15454,7 +15454,7 @@ irrit
 irrit
 irrit
 irrit
-irritant
+irrit
 irrit
 irrug
 irse
@@ -15489,8 +15489,8 @@ italian
 itam
 itamaraty
 itesm
-itinerant
-itinerant
+itiner
+itiner
 itinerari
 itinerari
 itoloc
@@ -15738,7 +15738,7 @@ justific
 justific
 justific
 justific
-justificant
+justif
 justific
 justific
 justific
@@ -16157,7 +16157,7 @@ levant
 levant
 levant
 levant
-levantant
+levant
 levant
 levant
 levant
@@ -16910,7 +16910,7 @@ manifest
 manifest
 manifest
 manifest
-manifestant
+manifest
 manifest
 manifest
 manifest
@@ -17673,9 +17673,9 @@ mililitr
 milimetr
 milit
 milit
-militanci
-militant
-militant
+milit
+milit
+milit
 milit
 militar
 militariz
@@ -17800,7 +17800,7 @@ mit
 mitad
 mitic
 mitic
-mitigant
+mitig
 mitin
 mit
 mitolog
@@ -18058,7 +18058,7 @@ motivacional
 motiv
 motiv
 motiv
-motivant
+motiv
 motiv
 motiv
 motiv
@@ -18324,8 +18324,8 @@ naranj
 narc
 narcoanalisis
 narc
-narcotraficant
-narcotraficant
+narcotraf
+narcotraf
 narcotraf
 nariz
 narozhilenk
@@ -18455,7 +18455,7 @@ negoci
 negoci
 negoci
 negoci
-negociant
+negoci
 negoci
 negoci
 negoci
@@ -18900,7 +18900,7 @@ observ
 observ
 observ
 observ
-observanci
+observ
 observ
 observ
 observ
@@ -19011,7 +19011,7 @@ ocup
 ocup
 ocup
 ocup
-ocupant
+ocup
 ocup
 ocup
 ocup
@@ -19721,7 +19721,7 @@ paralisis
 paralit
 paraliz
 paraliz
-paralizant
+paraliz
 paraliz
 paraliz
 paraliz
@@ -19817,8 +19817,8 @@ particip
 particip
 particip
 particip
-participant
-participant
+particip
+particip
 particip
 particip
 particip
@@ -20131,7 +20131,7 @@ penetracion
 penetr
 penetr
 penetr
-penetrant
+penetr
 penetr
 penich
 peninsul
@@ -21150,8 +21150,8 @@ predi
 predispon
 predomin
 predomin
-predominant
-predominant
+predomin
+predomin
 predomin
 preelectoral
 preerupcion
@@ -21273,7 +21273,7 @@ preparel
 prepar
 prepares
 prepar
-preponderant
+preponder
 prepotent
 prepotent
 prepotent
@@ -21496,7 +21496,7 @@ principal
 princip
 princip
 principesc
-principiant
+principi
 principi
 principi
 priorid
@@ -21900,7 +21900,7 @@ protej
 protest
 protest
 protest
-protestant
+protest
 protest
 protest
 protest
@@ -22118,7 +22118,7 @@ puntualiz
 puntualiz
 puntual
 punz
-punzocortant
+punzocort
 punzon
 pupil
 pupil
@@ -22546,7 +22546,7 @@ rec
 rec
 rec
 recalc
-recalcitrant
+recalcitr
 recalc
 recalibr
 recam
@@ -22691,7 +22691,7 @@ reconcili
 reconcil
 reconduccion
 reconform
-reconfortant
+reconfort
 reconoc
 reconoc
 reconoc
@@ -23108,8 +23108,8 @@ releg
 releg
 releg
 relev
-relevanci
-relevant
+relev
+relev
 relev
 relev
 relev
@@ -23140,7 +23140,7 @@ remedi
 remedi
 remedi
 remedi
-remineralizant
+remineraliz
 reminiscent
 remit
 remitent
@@ -23317,8 +23317,8 @@ represent
 represent
 represent
 represent
-representant
-representant
+represent
+represent
 represent
 represent
 represent
@@ -23361,7 +23361,7 @@ republ
 repudi
 repudi
 repuest
-repugnanci
+repugn
 repunt
 repunt
 reput
@@ -23461,7 +23461,7 @@ resolv
 resolv
 resolv
 resolv
-resonant
+reson
 resort
 respald
 respald
@@ -23535,11 +23535,11 @@ rest
 rest
 restaur
 restaurant
-restaurant
+restaur
 restauranter
 restauranter
 restauranter
-restaurant
+restaur
 restaur
 restitu
 restitu
@@ -23562,7 +23562,7 @@ result
 result
 result
 result
-resultant
+result
 result
 result
 result
@@ -24165,7 +24165,7 @@ sabor
 sabor
 sabor
 saborit
-saborizant
+saboriz
 sabotaj
 sabr
 sabran
@@ -24602,8 +24602,8 @@ sembradi
 sembrador
 sembr
 sembr
-semejant
-semejant
+semej
+semej
 semej
 semej
 sem
@@ -24946,7 +24946,7 @@ similar
 simon
 simpat
 simpat
-simpatizant
+simpatiz
 simpl
 simplement
 simpl
@@ -25116,7 +25116,7 @@ sobresal
 sobresal
 sobresalt
 sobreseid
-sobrestant
+sobrest
 sobresuscripcion
 sobretas
 sobretod
@@ -25455,8 +25455,8 @@ subaru
 subast
 subast
 subcampeon
-subcomandant
-subcomandant
+subcomand
+subcomand
 subcomision
 subcomit
 subconscient
@@ -25751,7 +25751,7 @@ supl
 suplement
 suplent
 suplent
-suplicant
+suplic
 suplic
 suplic
 supl
@@ -26502,10 +26502,10 @@ toji
 toki
 toled
 toler
-toleranci
 toler
-tolerant
-tolerant
+toler
+toler
+toler
 toler
 toleter
 toluc
@@ -26707,7 +26707,7 @@ tra
 tra
 tra
 tra
-traficant
+trafic
 trafic
 trafic
 trag
@@ -27001,7 +27001,7 @@ tripul
 tripul
 tripul
 tripul
-tripulant
+tripul
 tripul
 tripul
 triquiñuel
@@ -27365,7 +27365,7 @@ vacil
 vacil
 vacil
 vacil
-vacilant
+vacil
 vacil
 vacil
 vacilon
@@ -27700,7 +27700,7 @@ veredalt
 vered
 veredict
 ver
-vergonzant
+vergonz
 vergonz
 vergüenz
 ver
@@ -27870,9 +27870,9 @@ vigil
 vigil
 vigil
 vigil
-vigilanci
-vigilant
-vigilant
+vigil
+vigil
+vigil
 vigil
 vigil
 vigil
@@ -27978,8 +27978,8 @@ visit
 visitadur
 visit
 visit
-visitant
-visitant
+visit
+visit
 visit
 visit
 visit
@@ -28250,9 +28250,9 @@ world
 worldnet
 x
 xavi
-xenotransplant
-xenotrasplant
-xenotrasplant
+xenotranspl
+xenotraspl
+xenotraspl
 xicotencatl
 xiii
 xilitl
