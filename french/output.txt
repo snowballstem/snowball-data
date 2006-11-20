@@ -3693,7 +3693,7 @@ colfax
 colifichet
 colimaçon
 coliqu
-col
+colis
 collabor
 coll
 coll
@@ -13732,9 +13732,9 @@ parfois
 parfum
 parfum
 parfum
-par
 pari
-par
+pari
+pari
 pari
 parient
 pari
@@ -13742,7 +13742,7 @@ pari
 pari
 pariétair
 parieur
-par
+paris
 parisien
 parisien
 parisien
@@ -18843,7 +18843,7 @@ tantôt
 tanz
 tapag
 tap
-tap
+tapis
 tapiss
 tapisser
 tapissi
