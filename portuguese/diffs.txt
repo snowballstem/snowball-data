@@ -9931,7 +9931,7 @@ devido                        dev
 devidos                       dev
 devo                          dev
 devoção                       devoçã
-devolução                     devoluçã
+devolução                     devolu
 devoluta                      devolut
 devolve                       devolv
 devolvem                      devolv
@@ -12968,7 +12968,7 @@ evocam                        evoc
 evocando                      evoc
 evocar                        evoc
 evocativa                     evoc
-evolução                      evoluçã
+evolução                      evolu
 evoluem                       evolu
 evolui                        evolu
 evoluir                       evolu
@@ -13071,8 +13071,8 @@ excrementos                   excrement
 excrescência                  excrescent
 excursão                      excursã
 excursões                     excursõ
-execução                      execuçã
-execuções                     execuçõ
+execução                      execu
+execuções                     execu
 executa                       execut
 executada                     execut
 executado                     execut
@@ -17468,7 +17468,7 @@ intratáveis                   intrat
 intriga                       intrig
 intrigante                    intrig
 intrigas                      intrig
-introdução                    introduçã
+introdução                    introdu
 introduz                      introduz
 introduzida                   introduz
 introduzido                   introduz
@@ -25833,7 +25833,7 @@ reconheço                     reconhec
 reconquista                   reconqu
 reconstituição                reconstituiçã
 reconstroem                   reconstro
-reconstrução                  reconstruçã
+reconstrução                  reconstru
 reconstruir                   reconstru
 recontratar                   recontrat
 reconversão                   reconversã
@@ -26418,7 +26418,7 @@ reprima                       reprim
 reprimem                      reprim
 reprimir                      reprim
 reprisados                    repris
-reprodução                    reproduçã
+reprodução                    reprodu
 reprodutor                    reprodutor
 reprodutora                   reprodutor
 reproduz                      reproduz
@@ -26515,7 +26515,7 @@ resmaterizada                 resmateriz
 resmaterizadas                resmateriz
 resmungava                    resmung
 resmungou                     resmung
-resolução                     resoluçã
+resolução                     resolu
 resolve                       resolv
 resolvem                      resolv
 resolvemos                    resolv
@@ -26836,14 +26836,14 @@ revoltado                     revolt
 revoltados                    revolt
 revoltaram                    revolt
 revoltas                      revolt
-revolução                     revoluçã
+revolução                     revolu
 revolucionado                 revolucion
 revolucionar                  revolucion
 revolucionária                revolucionár
 revolucionárias               revolucionár
 revolucionário                revolucionári
 revolucionou                  revolucion
-revoluções                    revoluçõ
+revoluções                    revolu
 revólver                      revólv
 revot                         revot
 revson                        revson
