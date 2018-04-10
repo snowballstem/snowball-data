@@ -1,3 +1,8 @@
+00
+1899
+2000
+555
+9999
 aa
 aaa
 aachen
@@ -17403,7 +17408,7 @@ corto
 cortés
 cortés
 coru
-coruñ
+coruña
 cory
 cosa
 cosby
@@ -22111,7 +22116,7 @@ ely
 elys
 elys
 elysees
-elysé
+elysée
 elä
 eläe
 eläe
@@ -30176,7 +30181,7 @@ garbo
 garbrecht
 garc
 garcia
-garcí
+garcía
 gard
 gard
 garden
