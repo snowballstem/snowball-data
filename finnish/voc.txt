@@ -1204,7 +1204,6 @@ ahvenistolla
 ahveniston
 ahvenistonjärven
 ahvenistonjärveä
-ahvenjÄrvi
 ahvenjärven
 ahvenjärvi
 ahvenlahden
@@ -15089,7 +15088,7 @@ borssikeitto
 bortnjanski
 borussia
 borzagen
-borÅs
+borås
 boråsin
 boråsissa
 bos
@@ -16131,7 +16130,7 @@ bysantista
 bysanttilainen
 byström
 byung
-bÅstad
+båstad
 bäck
 bäckman
 bäckmanin
@@ -19506,7 +19505,6 @@ edelliseen
 edelliseksi
 edelliselle
 edellisellä
-edelliseltÄ
 edelliseltä
 edellisen
 edellisenkin
@@ -19722,7 +19720,6 @@ edesottamukset
 edesottamuksia
 edesottamuksista
 edespäin
-edessÄ
 edessä
 edessäkin
 edessämme
@@ -20587,7 +20584,6 @@ ehjänä
 ehjät
 ehjää
 ehkei
-ehkÄ
 ehkä
 ehkäisee
 ehkäiseminen
@@ -20766,7 +20762,6 @@ eikukaan
 eikun
 eikuulkaas
 eikuulu
-eikÄ
 eikä
 eikäkolmijako
 eikäole
@@ -20901,7 +20896,6 @@ eivaikuta
 eivielä
 eivoi
 eivoitu
-eivÄt
 eivä
 eivät
 eivätenää
@@ -22118,9 +22112,6 @@ elysee
 elyseelle
 elysees
 elysée
-elÄimet
-elÄmÄ
-elÄÄ
 elä
 eläen
 eläessä
@@ -23066,7 +23057,6 @@ enemmistövaltaa
 enemmistöväestöön
 enemmistöä
 enemmistöön
-enemmÄn
 enemmälti
 enemmän
 enemmänja
@@ -23906,7 +23896,6 @@ ensilähdön
 ensilässä
 ensimaanantaina
 ensiminuuteilla
-ensimmÄinen
 ensimmäinen
 ensimmäinenkin
 ensimmäinenkään
@@ -24120,7 +24109,6 @@ enzensberger
 enzensbergerin
 enzio
 enzo
-enÄÄ
 enää
 enään
 ep
@@ -25542,7 +25530,6 @@ erkin
 erkinjuntti
 erkka
 erkki
-erkkilÄ
 erkkilä
 erkkilän
 erkkilänk
@@ -26420,7 +26407,6 @@ esitteleminen
 esittelemiseen
 esittelemistä
 esittelemme
-esittelemÄssÄ
 esittelemä
 esittelemällä
 esittelemän
@@ -26479,7 +26465,6 @@ esitti
 esittikin
 esittipä
 esittivät
-esittÄvÄt
 esittäen
 esittäessä
 esittäessään
@@ -27026,8 +27011,6 @@ eteiseen
 eteisen
 eteisessä
 eteisestä
-etelÄ
-etelÄlohko
 etelä
 eteläafrikan
 eteläafrikkalainen
@@ -27410,7 +27393,6 @@ ettenkö
 ettet
 ettette
 ettore
-ettÄ
 että
 ettäaapo
 ettäasia
@@ -29777,7 +29759,6 @@ fry
 fryckman
 fryckmanille
 fryckmanin
-frÖjd
 främling
 frågeställningar
 från
@@ -31457,8 +31438,6 @@ gysi
 gyula
 györgi
 györgy
-gÖteborg
-gÖteborgin
 gärderud
 gästar
 gävle
@@ -36175,7 +36154,6 @@ heidelbergissä
 heiden
 heidi
 heidin
-heidÄn
 heidän
 heidänkin
 heidänkään
@@ -36319,7 +36297,6 @@ heikki
 heikkihaavisto
 heikkijuhani
 heikkikoivisto
-heikkilÄ
 heikkilä
 heikkilälle
 heikkilällä
@@ -36586,8 +36563,6 @@ heinrichs
 heinrichsin
 heinström
 heinz
-heinÄkuu
-heinÄnen
 heinä
 heinähattu
 heinäkengät
@@ -37219,7 +37194,6 @@ helsinginkin
 helsinginpankin
 helsinginpörssissä
 helsinginyliopiston
-helsingissÄ
 helsingissä
 helsingissäkin
 helsingissäkään
@@ -37513,9 +37487,7 @@ henkiinjäämisen
 henkiinjäämisestä
 henkikirjoittaja
 henkikirjoittajan
-henkilÖ
-henkilÖkuvavkuv
-henkilÖt
+henkilökuvavkuv
 henkilääkäri
 henkilääkärin
 henkilö
@@ -39345,7 +39317,6 @@ hildegunn
 hilden
 hildenin
 hildenintaidemuseo
-hildÉn
 hildén
 hildénin
 hilirimpsis
@@ -39444,7 +39415,7 @@ hillborgin
 hille
 hillel
 hillerin
-hillerÖd
+hilleröd
 hillerödin
 hillevi
 hilli
@@ -44438,7 +44409,6 @@ hyvinja
 hyvinkin
 hyvinkoulutettu
 hyvinkoulutetut
-hyvinkÄÄ
 hyvinkää
 hyvinkäälle
 hyvinkäällä
@@ -44514,8 +44484,6 @@ hyvyys
 hyvyyteen
 hyvyyttä
 hyvyyttään
-hyvÄ
-hyvÄt
 hyvä
 hyvähenkinen
 hyvähenkistä
@@ -45073,16 +45041,6 @@ hyötyyn
 hyötyä
 hyötyäkin
 hzds
-hÄkkilÄ
-hÄme
-hÄmeen
-hÄmeenlinna
-hÄmeenlinnan
-hÄmÄlÄinen
-hÄn
-hÄnet
-hÄrkÖnen
-hÖyryveturi
 hä
 hädin
 hädintuskin
@@ -48289,7 +48247,6 @@ ilmiselvänä
 ilmiselvästi
 ilmiselvää
 ilmitulon
-ilmiÖ
 ilmiö
 ilmiöiden
 ilmiöihin
