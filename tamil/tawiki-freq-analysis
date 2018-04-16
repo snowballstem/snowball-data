@@ -1,0 +1,26 @@
+#!/usr/bin/perl -CIO
+use strict;
+use warnings;
+
+# Minimum number of occurrence of a word.
+my $MIN_FREQ = 3;
+
+if (@ARGV) {
+    print <<"__END__";
+Usage: bzcat tawiki-latest-pages-articles.xml.bz2|$0 > tamil-voc.txt
+
+Extract list of tamil words from a wikipedia dump
+__END__
+    exit 0;
+}
+
+my %f;
+while (<>) {
+    s/<[^>]*>/ /g;
+    while (/\b[\x{b80}-\x{bff}]+\b/g) {
+	++$f{$&};
+    }
+}
+for (sort keys %f) {
+    print "$_\n" if $f{$_} >= $MIN_FREQ;
+}
