@@ -1,0 +1,38 @@
+#!/usr/bin/perl -CIO
+use strict;
+use warnings;
+
+# Minimum number of occurrence of a word.
+my $MIN_FREQ = 10;
+
+if (@ARGV) {
+    $MIN_FREQ = shift @ARGV;
+}
+
+if (@ARGV) {
+    print <<"__END__";
+Usage:
+
+WikiExtractor.py XXwiki-latest-pages-articles.xml.bz2
+$0 text/*/wiki_* 42 > voc.txt
+
+Extract a list of the most common words from a wikipedia dump.
+
+42 in the example above is the minimum number of occurrences which a word
+must have to be included, and XX is the ISO 639-1 language code.
+__END__
+    exit 0;
+}
+
+my %f;
+while (<>) {
+    s!<[^>]*\btitle="([^"]*)"[^>]>! $1 !g;
+    s!<[^>]*>! !g;
+    s!&[^; ]*;! !g;
+    while (/\b[a-z]+\b/g) {
+	++$f{$&};
+    }
+}
+for (sort keys %f) {
+    print "$f{$_}\t$_\n" if $f{$_} >= $MIN_FREQ;
+}
