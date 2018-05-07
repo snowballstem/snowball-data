@@ -34,5 +34,6 @@ while (<>) {
     }
 }
 for (sort keys %f) {
-    print "$f{$_}\t$_\n" if $f{$_} >= $MIN_FREQ;
+    print "$_\n" if $f{$_} >= $MIN_FREQ;
+    #print "$f{$_}\t$_\n" if $f{$_} >= $MIN_FREQ;
 }
