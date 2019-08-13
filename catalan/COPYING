@@ -1,4 +1,4 @@
-voc.txt was derived in part from a dump of the Catalan Wikipedia by the
+voc.txt was derived from a dump of the Catalan Wikipedia by the
 script wikipedia-most-common-words like so:
 
 WikiExtractor.py cawiki-latest-pages-articles.xml.bz2
