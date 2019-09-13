@@ -1,4 +1,4 @@
-﻿The file voc.txt was produced from the "srWaC – Serbian web corpus"
+The file voc.txt was produced from the "srWaC – Serbian web corpus"
 version 1.0, downloaded from: http://nlp.ffzg.hr/resources/corpora/srwac/
 
 Java Application was used to parse tokens from corpus and create voc.temp.txt file.
