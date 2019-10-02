@@ -9,6 +9,8 @@ cat text/*/* | ./wikipedia-most-common-words 50 latin1
 
 The dump used was dated June 1st 2018.
 
-output.txt was generated from voc.txt by running it through the stemmer.
+output.txt was generated from voc.txt by running it through the stemmer:
+
+stemwords -l french -c UTF_8 -i french/voc.txt -o french/output.txt
 
 Wikipedia is licensed as: https://creativecommons.org/licenses/by-sa/3.0/

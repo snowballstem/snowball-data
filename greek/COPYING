@@ -9,6 +9,8 @@ cat text/*/* | ./wikipedia-most-common-words 10 greek
 
 The dump used was dated November 22nd 2018.
 
-output.txt was generated from voc.txt by running it through the stemmer.
+output.txt was generated from voc.txt by running it through the stemmer:
+
+stemwords -l greek -c UTF_8 -i greek/voc.txt -o greek/output.txt
 
 Wikipedia is licensed as: https://creativecommons.org/licenses/by-sa/3.0/

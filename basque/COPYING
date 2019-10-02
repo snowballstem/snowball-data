@@ -9,6 +9,6 @@ The dump used was dated 02-Aug-2019
 output.txt was generated from voc.txt by running it through the stemmer
 using the command:
 
-stemwords -l basque -i ../snowball-data/basque/voc.txt -c UTF_8 -o ../snowball-data/basque/output.txt
+stemwords -l basque -c UTF_8 -i basque/voc.txt -o basque/output.txt
 
 Wikipedia is licensed as: https://creativecommons.org/licenses/by-sa/3.0/
