@@ -17,16 +17,11 @@ if (@ARGV && $ARGV[0] !~ /^-/) {
 	$LETTER_RE = shift @ARGV;
 	if ($LETTER_RE eq 'ascii') {
 	    $LETTER_RE = '[a-z]';
-	} elsif ($LETTER_RE eq 'devanagari') {
-	    $LETTER_RE = '[\x{900}-\x{97f}\x{a8e0}-\x{a8ff}]';
-	} elsif ($LETTER_RE eq 'greek') {
-	    $LETTER_RE = '[\x{370}-\x{3ff}\x{1f00}-\x{1fff}]';
-	} elsif ($LETTER_RE eq 'latin') {
-	    $LETTER_RE = '[a-z\x{c0}-\x{24f}\x{2c60}-\x{2c7f}\x{a720}-\x{a7ff}\x{ab30}-\x{ab6f}\x{1e00}-\x{1eff}]';
 	} elsif ($LETTER_RE eq 'latin1') {
 	    $LETTER_RE = '[a-z\x{c0}-\x{ff}]';
-	} elsif ($LETTER_RE eq 'tamil') {
-	    $LETTER_RE = '[\x{b80}-\x{bff}]';
+	} elsif ($LETTER_RE =~ /^[A-Za-z]+$/) {
+	    # Perl handles script names case-insensitively.
+	    $LETTER_RE = "\\p{Script: $LETTER_RE}";
 	} else {
 	    $LETTER_RE = "(?:$LETTER_RE)";
 	}
@@ -40,9 +35,17 @@ Usage: $0 [MIN_FREQ [SCRIPT]]
 MIN_FREQ is the minimum number of occurrences needed for a word to be
 included.  The default is 10.
 
-SCRIPT can be a regex for a letter in the script, or one of the literal
-values "ascii", "devanagari", "greek", "latin", "latin1" or "tamil".
-The default is the regex \\w.
+SCRIPT can be:
+
+* A Unicode script name (the first letter gets upper-cased and the Perl
+  regex used is: \\p{Script: ...} which generally seems suitable.  This
+  has been tested for at least: "armenian", "devanagari", "greek", "latin",
+  and "tamil".
+* "ascii" to match only ASCII letters.
+* "latin1" to match only Latin1 letters.
+* A regular expression to match a letter in the script.
+
+If not specified, the default regex used is: \\w
 
 The script only considers words which match the regex \\b(?:\$SCRIPT)+\b and
 are not changed by the Perl "lc" function.
