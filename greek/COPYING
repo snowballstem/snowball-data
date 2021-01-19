@@ -5,7 +5,7 @@ voc.txt was derived in part from a dump of the Greek Wikipedia by the
 script wikipedia-most-common-words like so:
 
 WikiExtractor.py elwiki-latest-pages-articles.xml.bz2
-cat text/*/* | ./wikipedia-most-common-words 10 greek
+cat text/*/* | ./wikipedia-most-common-words 10 greek > voc.txt
 
 The dump used was dated November 22nd 2018.
 
