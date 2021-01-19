@@ -67,6 +67,8 @@ while (<>) {
     s!<[^>]*>! !g;
     s!&[^; ]*;! !g;
     while (/\b$LETTER_RE+\b/go) {
+	# Perl lc is Unicode-aware for strings with the UTF8 flag set (which it
+	# will be here).
 	++$f{$&} if lc($&) eq $&;
     }
 }
