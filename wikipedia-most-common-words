@@ -63,7 +63,6 @@ __END__
 
 my %f;
 while (<>) {
-    s!<[^>]*\btitle="([^"]*)"[^>]>! $1 !g;
     s!<[^>]*>! !g;
     s!&[^; ]*;! !g;
     while (/\b$LETTER_RE+\b/go) {
