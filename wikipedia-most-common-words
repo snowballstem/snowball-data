@@ -52,11 +52,18 @@ are not changed by the Perl "lc" function.
 
 For example:
 
+Download a dump for language with ISO 639-1 language code XX (mirrors are
+available, see https://dumps.wikimedia.org/mirrors.html):
+
+wget https://dumps.wikimedia.org/XXwiki/latest/XXwiki-latest-pages-articles.xml.bz2
 WikiExtractor.py XXwiki-latest-pages-articles.xml.bz2
 cat text/*/wiki_*|$0 42 ascii > voc.txt
 
-Extract a list of the most common words from a wikipedia dump.  In this
-example, XX is the ISO 639-1 language code.
+This will extract a list of words that occur at least 42 times, treating
+only ASCII letters as word characters.  You should specify an appropriate
+alphabet, and choose a MIN_FREQ value which does a good job of selecting
+mostly actual words - this threshold will vary with dataset size, and
+probably also with the language in question.
 __END__
     exit ($ARGV[0] eq '--help' ? 0 : 1);
 }
