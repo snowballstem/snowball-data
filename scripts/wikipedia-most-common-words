@@ -19,6 +19,8 @@ if (@ARGV && $ARGV[0] !~ /^-/) {
 	    $LETTER_RE = '[a-z]';
 	} elsif ($LETTER_RE eq 'latin1') {
 	    $LETTER_RE = '[a-z\x{c0}-\x{ff}]';
+	} elsif ($LETTER_RE eq 'latin2') {
+	    $LETTER_RE = '[a-z\x{c1}\x{c2}\x{c4}\x{c7}\x{c9}\x{cb}\x{cd}\x{ce}\x{d3}\x{d4}\x{d6}\x{da}\x{dc}\x{dd}\x{df}\x{e1}\x{e2}\x{e4}\x{e7}\x{e9}\x{eb}\x{ed}\x{ee}\x{f3}-\x{f4}\x{f6}\x{fa}\x{fc}\x{fd}\x{102}-\x{107}\x{10c}-\x{111}\x{118}-\x{11b}\x{139}-\x{13a}\x{13d}\x{13e}\x{141}-\x{144}\x{147}\x{148}\x{150}\x{151}\x{154}\x{155}\x{158}-\x{15b}\x{15e}-\x{165}\x{16e}-\x{171}\x{179}-\x{17e}]';
 	} elsif ($LETTER_RE =~ /^[A-Za-z]+$/) {
 	    # Perl handles script names case-insensitively.
 	    $LETTER_RE = "\\p{Script: $LETTER_RE}";
@@ -42,7 +44,8 @@ SCRIPT can be:
   has been tested for at least: "armenian", "devanagari", "greek", "latin",
   and "tamil".
 * "ascii" to match only ASCII letters.
-* "latin1" to match only Latin1 letters.
+* "latin1" to match only Latin1 (ISO-8859-1) letters.
+* "latin2" to match only Latin2 (ISO-8859-2) letters.
 * A regular expression to match a letter in the script.
 
 If not specified, the default regex used is: \\w
