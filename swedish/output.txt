@@ -790,8 +790,8 @@ arbet
 arbet
 arbet
 arbetersk
-arbetet
-arbetet
+arbet
+arbet
 arbetsam
 arbetsam
 arbetsamm
@@ -9517,7 +9517,7 @@ halvkvävd
 halvkvävd
 halvligg
 halvläk
-halvmedvetet
+halvmedvet
 halvmörkret
 halvrök
 halvskymd
@@ -9799,8 +9799,8 @@ helt
 helv
 helvet
 helvet
-helvetet
-helvetet
+helvet
+helvet
 helvetisk
 helvetisk
 hem
@@ -14745,7 +14745,7 @@ lock
 lock
 lock
 lockbet
-lockbetet
+lockbet
 lock
 locket
 lock
@@ -15763,8 +15763,8 @@ medverkan
 medvet
 medvet
 medvet
-medveten
-medvetet
+medvet
+medvet
 medvetn
 medvetslös
 medvetslös
@@ -17898,7 +17898,7 @@ omedelbart
 omedgör
 omedgör
 omedvet
-omedvetet
+omedvet
 omedvetn
 omelet
 omen
@@ -19190,7 +19190,7 @@ prick
 prick
 prick
 primadolm
-primariiämbetet
+primariiämbet
 primarius
 primus
 princess
@@ -20941,8 +20941,8 @@ samuelsgatan
 samvaro
 samvet
 samvet
-samvetet
-samvetet
+samvet
+samvet
 samvetsagg
 samvetsgran
 samvetsgrant
@@ -23029,10 +23029,10 @@ snövit
 soar
 soare
 social
-societet
-societet
-societet
-societet
+societ
+societ
+societ
+societ
 societetsdam
 societetsnöjen
 societetsskön
@@ -23616,7 +23616,7 @@ stafv
 stagnelius
 stak
 staket
-staketet
+staket
 stal
 stall
 stallbrod
@@ -23842,7 +23842,7 @@ stockholmsgäst
 stockholmsregement
 stockholmsresan
 stockholmsrummet
-stockholmssocietet
+stockholmssociet
 stockholmsvist
 stockkonservativ
 stod
@@ -27132,7 +27132,7 @@ uniform
 uniformsmöss
 uniformsrock
 union
-universitetet
+universitet
 unk
 unkn
 unn
@@ -29722,7 +29722,7 @@ zuav
 ämabl
 ämad
 ämar
-ämbetet
+ämbet
 ämbet
 ämbetsberk
 ämbetsbroder
