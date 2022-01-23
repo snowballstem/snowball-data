@@ -1,0 +1,11 @@
+voc.txt was generated from a dump of the Ukrainian wikipedia by the script
+wikipedia-most-common-words like so:
+
+WikiExtractor.py ukwiki-latest-pages-articles.xml.bz2
+cat text/*/* | ./wikipedia-most-common-words 10 cyrillic > voc.txt
+
+The dump used was dated October 25th 2021.
+
+output.txt was generated from voc.txt by running it through the stemmer.
+
+Wikipedia is licensed as: https://creativecommons.org/licenses/by-sa/3.0/
