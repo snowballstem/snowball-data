@@ -436,7 +436,7 @@ nimeta
 soovi
 
 
-Luba
+luba
 sööma
 joo
 laul
