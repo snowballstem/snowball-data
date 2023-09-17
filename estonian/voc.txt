@@ -392,7 +392,7 @@ hunt
 inimest
 juhtis
 eelmise
-nädala 
+nädala
 jooksul
 tema
 tähelepanu
@@ -502,7 +502,7 @@ ohutuimad
 ohutuima
 ohutuimat
 ohutuimast
-laulma 
+laulma
 laulda
 laulan
 laulad

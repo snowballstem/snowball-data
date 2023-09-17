@@ -392,7 +392,7 @@ hunt
 inime
 juhti
 eelmise
-nädala 
+nädala
 jooksu
 tema
 tähelepa
@@ -502,7 +502,7 @@ ohu
 ohu
 ohu
 ohu
-laulma 
+laulma
 laulda
 laula
 laula
