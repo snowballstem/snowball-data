@@ -1,6 +1,5 @@
 energiaettevõtte
 energiaettevõte
-
 lugesin
 lugesid
 loen
@@ -99,10 +98,6 @@ hüppavat
 hüppavatele
 hüppamata
 hüppamast
-
-
-
-
 joon
 sirgjoon
 joob
@@ -114,7 +109,6 @@ lõite
 lõid
 lüüakse
 löödakse
-
 tapnuksin
 tapeti
 tapetakse
@@ -139,8 +133,6 @@ tapnutele
 tapetutele
 tapvaid
 tapvatest
-
-
 abikaasasid
 vigaseks
 klohmiv
@@ -152,7 +144,6 @@ ja
 jätkab
 edukalt
 karjääri
-
 abikaasad
 abikaasale
 abikaasadele
@@ -230,7 +221,6 @@ karjäärid
 karjääride
 karjääre
 karjääridesse
-
 trikke
 hobust
 kanal
@@ -246,7 +236,6 @@ lapsikuid
 samblaisse
 hülgeilt
 kõrbeist
-
 kast
 kasti
 kasti
@@ -255,7 +244,6 @@ kastid
 kastide
 kaste
 kastidele
-
 tort
 tordi
 torti
@@ -304,7 +292,6 @@ hobused
 hobuste
 hobuseid
 hobustele
-
 halva
 halba
 halvale
@@ -355,14 +342,12 @@ heledaimate
 heledaimaid
 heledaimatele
 heledaimile
-
 saade
 saate
 saadet
 saatesse
 saadete
 saateid
-
 tark
 targa
 tarka
@@ -391,7 +376,6 @@ targimate
 targimaid
 targimatele
 targimaitele
-
 hinnanguliselt
 kokku
 lekkinud
@@ -434,20 +418,16 @@ nime
 turvakaalutlustes
 nimetada
 soovinud
-
-
 lubamaks
 söömast
 joomata
 laulmaks
-
 kirjutanutele
 rõõmustanuist
 sündinud
 sündinutele
 õppinuile
 õppinutele
-
 nimetada
 nimetan
 nimetad
@@ -467,7 +447,6 @@ nimetanud
 nimetatakse
 nimetatud
 nimetades
-
 tõusma
 tõustud
 tõusta
@@ -479,7 +458,6 @@ tõusev
 tõusnud
 tõusnutelegi
 tõustakse
-
 hakanud
 hakates
 hakkan
@@ -500,7 +478,6 @@ hakatav
 hakataks
 hakatagu
 hakatavat
-
 ohutu
 ohutut
 ohutule
@@ -525,7 +502,6 @@ ohutuimad
 ohutuima
 ohutuimat
 ohutuimast
-
 laulma 
 laulda
 laulan
@@ -542,8 +518,6 @@ laulnud
 lauldakse
 lauldud
 laulvale
-
-
 küll
 ma
 magistrikraad
@@ -775,4 +749,3 @@ videod
 videote
 videoid
 videotesse
-

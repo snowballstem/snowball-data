@@ -1,6 +1,5 @@
 energiaettevõte
 energiaettevõ
-
 luge
 luge
 luge
@@ -99,10 +98,6 @@ hüpa
 hüpa
 hüpa
 hüpa
-
-
-
-
 joo
 sirgjoo
 joo
@@ -114,7 +109,6 @@ löi
 löi
 löö
 löö
-
 tap
 tapeti
 tape
@@ -139,8 +133,6 @@ tap
 tape
 tap
 tap
-
-
 abikaasa
 vigase
 klohmiv
@@ -152,7 +144,6 @@ ja
 jätka
 eduka
 karjääri
-
 abikaasa
 abikaasa
 abikaasa
@@ -230,7 +221,6 @@ karjääri
 karjääri
 karjääre
 karjääri
-
 trike
 hobu
 kana
@@ -246,7 +236,6 @@ lapsiku
 sambla
 hülge
 kõrbe
-
 kast
 kasti
 kasti
@@ -255,7 +244,6 @@ kasti
 kasti
 kast
 kasti
-
 tort
 tordi
 torti
@@ -304,7 +292,6 @@ hobuse
 hobus
 hobuse
 hobus
-
 hal
 halba
 hal
@@ -355,14 +342,12 @@ heleda
 heleda
 heleda
 heledaimi
-
 saade
 saa
 saade
 saate
 saade
 saate
-
 tark
 targa
 tarka
@@ -391,7 +376,6 @@ targi
 targi
 targi
 targi
-
 hinnangulise
 koku
 leki
@@ -434,20 +418,16 @@ nime
 turvakaalutlus
 nimeta
 soovi
-
-
 luba
 sööma
 joo
 laul
-
 kirjuta
 rõõmusta
 sündi
 sündi
 õpi
 õpi
-
 nimeta
 nimeta
 nimeta
@@ -467,7 +447,6 @@ nimeta
 nimeta
 nimeta
 nimeta
-
 tõus
 tõus
 tõusta
@@ -479,7 +458,6 @@ tõusev
 tõus
 tõus
 tõus
-
 haka
 haka
 haka
@@ -500,7 +478,6 @@ hakatav
 haka
 hakatagu
 hakata
-
 ohu
 ohu
 ohu
@@ -525,7 +502,6 @@ ohu
 ohu
 ohu
 ohu
-
 laulma 
 laulda
 laula
@@ -542,8 +518,6 @@ laul
 laul
 laul
 laul
-
-
 küll
 ma
 magistrikraa
@@ -775,4 +749,3 @@ video
 video
 video
 video
-
