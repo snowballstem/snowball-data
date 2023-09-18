@@ -18,12 +18,12 @@ plaati
 konnatiiki
 konnatiigi
 bioloogi
-puusärk
+puusärki
 kingi
 kinki
 seda
 värki
-masinavärk
+masinavärki
 läk
 hüpa
 kirjuta
@@ -502,7 +502,7 @@ ohu
 ohu
 ohu
 ohu
-laulma
+laul
 laulda
 laula
 laula
