@@ -549,7 +549,7 @@ saa
 saa
 saa
 kui
-ministrikoht
+ministrikoh
 ministrikoha
 ministrikohta
 ministrikoha
@@ -608,7 +608,7 @@ hulga
 hulka
 hulki
 hulka
-punkt
+punk
 punkti
 punkti
 punkti
@@ -682,7 +682,7 @@ siis
 programmi
 sees
 sisse
-seest
+sees
 hääleta
 hääleta
 hääleta
