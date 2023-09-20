@@ -227,7 +227,7 @@ kana
 kanali
 kanale
 kanale
-kote
+kott
 tort
 ahikü
 alusas
@@ -534,7 +534,7 @@ käsi
 käe
 kätt
 käele
-käte
+kätt
 käed
 käte
 käsi
