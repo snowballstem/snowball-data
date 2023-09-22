@@ -597,7 +597,7 @@ advokat
 advokatenarbeit
 advokatenkreis
 advokatenzimm
-aeternitatis
+aternitatis
 affar
 affch
 aff
@@ -686,7 +686,7 @@ aktion
 aktivdienstgeneration
 aktiv
 aktivitat
-aktuell
+aktull
 akust
 akustikfrei
 akust
@@ -1313,7 +1313,7 @@ angstlich
 angstvoll
 anguckt
 anguckt
-angu
+angus
 angustia
 anhab
 anhab
@@ -1659,7 +1659,7 @@ anzog
 anzog
 anzublick
 anzudreh
-anzuerkenn
+anzurkenn
 anzufahr
 anzufang
 anzufecht
@@ -1802,7 +1802,7 @@ arglos
 arglos
 argst
 argst
-arguet
+argut
 argument
 argumentation
 argument
@@ -2378,7 +2378,7 @@ aufzubrech
 aufzubring
 aufzuburd
 aufzuckt
-aufzuess
+aufzuss
 aufzufass
 aufzufuhr
 aufzug
@@ -3113,7 +3113,7 @@ bahnhof
 bahnt
 bahrtuch
 bajonett
-balaena
+balana
 balanc
 bald
 baldig
@@ -5170,7 +5170,7 @@ blousenmann
 blousenmann
 blubb
 blubberquack
-bluet
+blut
 bluh
 bluhend
 bluhend
@@ -5241,7 +5241,7 @@ bockt
 bod
 bodenraum
 bod
-boell
+boll
 bog
 bog
 bohmerwald
@@ -5833,9 +5833,9 @@ claud
 clos
 club
 co
-coel
-coelesti
-coelestis
+col
+colesti
+colestis
 cogitar
 col
 colleg
@@ -6706,7 +6706,7 @@ duckt
 duckt
 duckt
 dudlerei
-duell
+dull
 duft
 duftend
 duftend
@@ -7875,8 +7875,8 @@ elt
 elternhaus
 elternpaar
 elzaphan
-emanuel
-emanuela
+emanul
+emanula
 emes
 emigrant
 emigriert
@@ -9284,7 +9284,7 @@ evangel
 evangel
 evangel
 evangelium
-eventuell
+eventull
 evident
 evidenz
 ewig
@@ -10080,7 +10080,7 @@ flut
 focht
 focis
 fod
-foemina
+fomina
 fohnstiefel
 fohr
 fohrenstrunk
@@ -10579,7 +10579,7 @@ fuchsin
 fuchsriegeln
 fuchtelnd
 fuchtelt
-fuerunt
+furunt
 fufzg
 fug
 fug
@@ -13074,7 +13074,7 @@ gnomm
 gnug
 gockelhahn
 gockelhahn
-goeth
+goth
 gog
 gohl
 gold
@@ -13435,7 +13435,7 @@ grosst
 grosst
 grosst
 grosstmog
-grosstuerei
+grossturei
 grossvat
 grossvat
 grossvat
@@ -13557,7 +13557,7 @@ guckfen
 guckt
 guckt
 guckt
-guet
+gut
 guillotin
 guisan
 guld
@@ -13680,7 +13680,7 @@ hadep
 had
 haderlump
 had
-haemorrheos
+hamorrheos
 hafelein
 haferbrei
 haft
@@ -15909,7 +15909,7 @@ imago
 imbiss
 imgleich
 immanent
-immanuel
+immanul
 immateriell
 immateriell
 immenstand
@@ -16067,11 +16067,11 @@ inszeniert
 integration
 intellecta
 intellectual
-intellektuell
-intellektuell
-intellektuell
-intellektuell
-intellektuell
+intellektull
+intellektull
+intellektull
+intellektull
+intellektull
 intelligent
 intelligent
 intelligenz
@@ -16192,11 +16192,11 @@ ismail
 isolation
 isolationist
 isoliert
-israel
-israelit
-israelit
-israelit
-israel
+isral
+isralit
+isralit
+isralit
+isral
 iss
 iss
 isset
@@ -16234,7 +16234,7 @@ jach
 jack
 jacobi
 jadwiga
-jael
+jal
 jagd
 jagdart
 jagdaufseh
@@ -16402,7 +16402,7 @@ jemand
 jemand
 jemand
 jemand
-jemuel
+jemul
 jen
 jen
 jen
@@ -16440,8 +16440,8 @@ jim
 jisaschar
 jischak
 jischak
-jischmael
-jischmael
+jischmal
+jischmal
 jizhar
 jizhar
 jletscherhaft
@@ -16457,7 +16457,7 @@ joch
 joch
 jodellauf
 jodl
-joel
+jol
 joh
 johann
 johann
@@ -16537,7 +16537,7 @@ julitag
 julius
 juliusstrass
 juliusstrass
-jumoeidev
+jumoidev
 jung
 jung
 jung
@@ -18120,8 +18120,8 @@ ladi
 ladt
 ladung
 lady
-laert
-laertius
+lart
+lartius
 lag
 lag
 lag
@@ -18996,7 +18996,7 @@ lockruf
 lockt
 locus
 lodenmantel
-loeb
+lob
 loffel
 loffeln
 log
@@ -19552,7 +19552,7 @@ maxim
 maxim
 mechan
 mechanismus
-mechujael
+mechujal
 meck
 meckernd
 meckert
@@ -19757,7 +19757,7 @@ methodenlehr
 method
 method
 method
-methuschael
+methuschal
 methuschelach
 methuschelach
 meti
@@ -19857,7 +19857,7 @@ minutenzeig
 mir
 mirakel
 mirl
-mischael
+mischal
 misch
 mischt
 mischt
@@ -20294,7 +20294,7 @@ mud
 mud
 mud
 mudig
-muess
+muss
 muesst
 muh
 muhelos
@@ -21993,7 +21993,7 @@ pfutz
 pfutz
 pfutznass
 phaakenaufschw
-phaethon
+phathon
 phanom
 phanom
 phantasi
@@ -22135,7 +22135,7 @@ pocht
 podium
 podium
 podiumsgesprach
-poesi
+posi
 pokalsieg
 polack
 polackei
@@ -22246,8 +22246,8 @@ prachtvoll
 prachtvoll
 pradikat
 pradikat
-praedestination
-praedestination
+pradestination
+pradestination
 prag
 praga
 pragmateia
@@ -22465,7 +22465,7 @@ publikum
 pudel
 pudelhund
 pudelmutz
-puerulus
+purulus
 puff
 puff
 puff
@@ -22638,7 +22638,7 @@ rannt
 ranzch
 ranzel
 ranz
-raphael
+raphal
 rappeln
 rappelt
 rapps
@@ -22951,8 +22951,8 @@ regner
 regnet
 regt
 regt
-reguel
-reguel
+regul
+regul
 regula
 regular
 regulativ
@@ -23513,8 +23513,8 @@ rud
 rudert
 rudi
 rudig
-rue
-ruedi
+ru
+rudi
 ruf
 ruf
 ruf
@@ -23667,7 +23667,7 @@ sack
 sackgass
 sackuhr
 sacrosanctum
-saeculi
+saculi
 saet
 saffianschuh
 saft
@@ -23755,8 +23755,8 @@ samtlich
 samtlich
 samtlich
 samtwamsch
-samuel
-samuel
+samul
+samul
 sand
 sand
 sand
@@ -23835,7 +23835,7 @@ sattig
 sattig
 sattig
 sattsam
-sattzuess
+sattzuss
 saturnali
 satz
 satz
@@ -25539,7 +25539,7 @@ seufzt
 seufzt
 seufzt
 sexologi
-sexuell
+sexull
 shakespear
 shoa
 shylock
@@ -25807,7 +25807,7 @@ sodann
 sodass
 sodom
 sodom
-soeb
+sob
 sofa
 sof
 sofort
@@ -28159,8 +28159,8 @@ tuchtig
 tuck
 tuck
 tuckisch
-tue
-tuest
+tu
+tust
 tuftelt
 tugend
 tugend
@@ -31513,7 +31513,7 @@ vip
 vip
 vipernart
 virgini
-virtuell
+virtull
 virtuos
 visi
 vision
@@ -32573,7 +32573,7 @@ wehend
 wehend
 weh
 wehet
-wehetu
+wehetund
 wehklag
 wehklag
 wehklag
@@ -33008,7 +33008,7 @@ wichtig
 wichtig
 wichtig
 wichtig
-wichtigtuerei
+wichtigturei
 wickelkindch
 wickelt
 widd
@@ -33526,7 +33526,7 @@ wohltat
 wohltat
 wohltat
 wohltat
-wohltuend
+wohltund
 wohltun
 wohltun
 wohlverdient
@@ -34369,13 +34369,13 @@ zudring
 zudring
 zudring
 zudring
-zueign
-zueign
-zueilt
-zueilt
-zueinand
-zuerkannt
-zuerst
+zuign
+zuign
+zuilt
+zuilt
+zuinand
+zurkannt
+zurst
 zufall
 zufall
 zufall
@@ -34665,7 +34665,7 @@ zuruckwend
 zuruckzieh
 zuruckzog
 zuruckzubring
-zuruckzuerob
+zuruckzurob
 zuruckzufuhr
 zuruckzugeb
 zuruckzuhalt
