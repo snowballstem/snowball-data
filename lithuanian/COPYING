@@ -2,7 +2,7 @@ voc.txt was generated from a dump of the Lithuanian wikipedia by the script
 wikipedia-most-common-words like so:
 
 WikiExtractor.py ltwiki-latest-pages-articles.xml.bz2
-cat text/*/* | ./wikipedia-most-common-words 10 latin > voc.txt
+cat text/*/* | scripts/wikipedia-most-common-words 10 latin > voc.txt
 
 The dump used was dated May 3rd 2018.
 

@@ -2,7 +2,7 @@ voc.txt was generated from a dump of the Armenian wikipedia by the script
 wikipedia-most-common-words like so:
 
 WikiExtractor.py hywiki-latest-pages-articles.xml.bz2
-cat text/*/* | ./wikipedia-most-common-words 10 armenian > voc.txt
+cat text/*/* | scripts/wikipedia-most-common-words 10 armenian > voc.txt
 
 The dump used was dated 2021-01-01.
 

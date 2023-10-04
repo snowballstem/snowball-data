@@ -2,7 +2,7 @@ voc.txt was generated from a dump of the Hindi wikipedia by the script
 wikipedia-most-common-words like so:
 
 WikiExtractor.py hiwiki-latest-pages-articles.xml.bz2
-cat text/*/* | ./wikipedia-most-common-words 10 devanagari > voc.txt
+cat text/*/* | scripts/wikipedia-most-common-words 10 devanagari > voc.txt
 
 The dump used was dated May 3rd 2018.
 

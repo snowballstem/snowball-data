@@ -2,7 +2,7 @@ voc.txt was generated from a dump of the Catalan Wikipedia by the
 script wikipedia-most-common-words like so:
 
 WikiExtractor.py cawiki-latest-pages-articles.xml.bz2
-cat text/*/* | ./wikipedia-most-common-words 50 latin1 > voc.txt
+cat text/*/* | scripts/wikipedia-most-common-words 50 latin1 > voc.txt
 
 The dump used was dated 02-Aug-2019
 

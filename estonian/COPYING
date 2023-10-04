@@ -2,7 +2,7 @@ voc.txt was mostly generated from a dump of the Estonian wikipedia by the
 script wikipedia-most-common-words like so:
 
 WikiExtractor.py etwiki-latest-pages-articles.xml.bz2
-cat text/*/* | ./wikipedia-most-common-words 32 latin > voc.txt
+cat text/*/* | scripts/wikipedia-most-common-words 32 latin > voc.txt
 
 The dump used was dated September 1st 2023.
 

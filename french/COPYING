@@ -5,7 +5,7 @@ voc.txt was derived in part from a dump of the French Wikipedia by the
 script wikipedia-most-common-words like so:
 
 WikiExtractor.py frwiki-latest-pages-articles.xml.bz2
-cat text/*/* | ./wikipedia-most-common-words 50 latin1 > voc.txt
+cat text/*/* | scripts/wikipedia-most-common-words 50 latin1 > voc.txt
 
 The dump used was dated June 1st 2018.
 

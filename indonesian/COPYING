@@ -2,7 +2,7 @@ voc.txt was derived in part from a dump of the Indonesian wikipedia by the
 script wikipedia-most-common-words like so:
 
 WikiExtractor.py idwiki-latest-pages-articles.xml.bz2
-cat text/*/* | ./wikipedia-most-common-words 7 ascii > voc.txt
+cat text/*/* | scripts/wikipedia-most-common-words 7 ascii > voc.txt
 
 The dump used was dated April 2nd 2018.
 
