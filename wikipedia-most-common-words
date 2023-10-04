@@ -57,6 +57,7 @@ available, see https://dumps.wikimedia.org/mirrors.html):
 
 wget https://dumps.wikimedia.org/XXwiki/latest/XXwiki-latest-pages-articles.xml.bz2
 WikiExtractor.py XXwiki-latest-pages-articles.xml.bz2
+# or: python -m wikiextractor.WikiExtractor XXwiki-latest-pages-articles.xml.bz2
 cat text/*/wiki_*|$0 42 ascii > voc.txt
 
 This will extract a list of words that occur at least 42 times, treating
