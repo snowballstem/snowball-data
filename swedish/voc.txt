@@ -1386,6 +1386,10 @@ bart
 basar
 baserad
 basilisken
+basröst
+basrösten
+basröster
+basrösterna
 bastanta
 bastigt
 bastu
@@ -5531,6 +5535,9 @@ fi
 fiaddra
 fiat
 fibrer
+fibrös
+fibrösa
+fibröst
 fichn
 ficj
 fick
@@ -8181,6 +8188,9 @@ förökat
 förökning
 förövas
 fösa
+föst
+föste
+föstes
 fött
 föttcrna
 fötter
@@ -8370,6 +8380,11 @@ generat
 generation
 generationer
 generations
+generös
+generösa
+generösare
+generöse
+generöst
 gengäld
 geni
 genier
@@ -8571,6 +8586,10 @@ gladja
 gladlynt
 gladt
 glam
+glamorös
+glamorösa
+glamorösare
+glamoröst
 glan
 glans
 glansen
@@ -9209,6 +9228,7 @@ gummiring
 gummor
 gummorna
 gummors
+gumröst
 gung
 gunga
 gungade
@@ -11361,6 +11381,9 @@ inbränt
 inbunden
 inburen
 inbäddad
+incestuös
+incestuösa
+incestuöst
 ind
 indad
 inde
@@ -12989,6 +13012,8 @@ kolsyran
 kolt
 kolv
 kom
+komatösa
+komatöst
 komediantfolk
 komedien
 komedier
@@ -16193,6 +16218,9 @@ monark
 monda
 mondäna
 monsieur
+monstruös
+monstruösa
+monstruöst
 monte
 montmartre
 mor
@@ -18645,6 +18673,7 @@ pastorn
 pastorns
 pastorsadjunkt
 pastorsadjunkten
+pastöst
 patent
 pater
 paternoster
@@ -19046,6 +19075,10 @@ politiker
 politiska
 polityr
 polityrkärl
+pompös
+pompösa
+pompöse
+pompöst
 pomril
 ponerar
 ponken
@@ -19089,6 +19122,10 @@ portvalvet
 portvin
 portör
 portören
+porös
+porösa
+porösare
+poröst
 pose
 poserande
 poserar
@@ -19590,6 +19627,7 @@ påverkan
 pöbeln
 pöbelvanan
 pölar
+pösa
 pöser
 pöste
 qu
@@ -20044,6 +20082,9 @@ rierna
 rigeln
 riggad
 rigla
+rigorös
+rigorösa
+rigoröst
 rigtad
 rigtig
 rigtiga
@@ -20715,7 +20756,9 @@ röst
 rösten
 röstens
 röster
+röstern
 rösterna
+rösters
 rösts
 röt
 röta
@@ -24711,6 +24754,9 @@ sybågen
 sydamerika
 sydde
 sydhavspalm
+sydöst
+sydösta
+sydöstra
 syfilidologi
 syforening
 syforeningens
@@ -25247,6 +25293,8 @@ talorgan
 talrika
 talriken
 talrikhet
+talröst
+talrösten
 talt
 talte
 taltes
@@ -28017,6 +28065,8 @@ utöfvade
 utöfvandet
 utöfvat
 utöfver
+utösa
+utöst
 utöva
 utövade
 utövar
@@ -28853,6 +28903,10 @@ viskningar
 viskningarna
 viskningen
 visky
+viskös
+viskösa
+viskösare
+visköst
 visligen
 visor
 visorna
@@ -30179,6 +30233,7 @@ zuaver
 ödas
 ödda
 öde
+ödematöst
 öden
 ödesbestämda
 ödesbestämt
@@ -30438,6 +30493,7 @@ zuaver
 ösa
 ösregn
 ösregna
+öst
 östan
 östanvinden
 öste
@@ -30615,6 +30671,15 @@ zuaver
 överväldigad
 överändakastad
 överändakastade
+överösa
+överösas
+överöser
+överöses
+överöst
+överösta
+överöste
+överöstes
+överösts
 övning
 övningen
 övre

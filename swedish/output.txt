@@ -1060,7 +1060,7 @@ avlägsn
 avlägsn
 avlång
 avlöp
-avlöst
+avlös
 avlöv
 avmagr
 avmät
@@ -1349,7 +1349,7 @@ barnmorskan
 barnmorskan
 barnmorsk
 barnpension
-barnröst
+barnrös
 barn
 barnsbörd
 barnskaran
@@ -1386,6 +1386,10 @@ bart
 bas
 baser
 basilisk
+basrös
+basrös
+basrös
+basrös
 bastant
 bast
 bastu
@@ -4440,7 +4444,7 @@ duv
 duvan
 duv
 duv
-duvoröst
+duvorös
 duvoving
 duvoögon
 duvung
@@ -5531,6 +5535,9 @@ fi
 fiaddr
 fiat
 fibr
+fibrös
+fibrös
+fibrös
 fichn
 ficj
 fick
@@ -5760,7 +5767,7 @@ flickan
 flick
 flickbarn
 flickb
-flickbröst
+flickbrös
 flickdrömmeri
 flickförtjusning
 flickhufvud
@@ -5773,7 +5780,7 @@ flick
 flick
 flick
 flickor
-flickröst
+flickrös
 flickskolan
 flicksnärt
 flicktid
@@ -6468,7 +6475,7 @@ fruntimmershat
 fruntimmershistori
 fruntimmerskapp
 fruntimmerskjortel
-fruntimmersröst
+fruntimmersrös
 fruntimr
 fruntimr
 fruntimret
@@ -8015,11 +8022,11 @@ förträff
 förträff
 förträff
 förträff
-förtröst
+förtrös
 förtröstan
-förtröst
+förtrös
 förtröstansfull
-förtröst
+förtrös
 förtröt
 fört
 förtun
@@ -8181,6 +8188,9 @@ förök
 förökning
 föröv
 fös
+föst
+föst
+föst
 fött
 föttcrn
 fött
@@ -8370,6 +8380,11 @@ gener
 generation
 generation
 generation
+generös
+generös
+generös
+generös
+generös
 gengäld
 geni
 geni
@@ -8571,6 +8586,10 @@ gladj
 gladlynt
 gladt
 glam
+glamorös
+glamorös
+glamorös
+glamorös
 glan
 glan
 glans
@@ -9209,6 +9228,7 @@ gummiring
 gumm
 gumm
 gummor
+gumrös
 gung
 gung
 gung
@@ -11361,6 +11381,9 @@ inbränt
 inbund
 inbur
 inbäd
+incestuös
+incestuös
+incestuös
 ind
 ind
 ind
@@ -12989,6 +13012,8 @@ kolsyran
 kolt
 kolv
 kom
+komatös
+komatös
 komediantfolk
 komedi
 komedi
@@ -13717,8 +13742,8 @@ kvinn
 kvinn
 kvinnorov
 kvinnor
-kvinnoröst
-kvinnoröst
+kvinnorös
+kvinnorös
 kvinnosidan
 kvinnoskep
 kvinnovar
@@ -16145,7 +16170,7 @@ mod
 modernt
 moder
 modersbarm
-modersbröst
+modersbrös
 modersbröstet
 modershjert
 modershjärt
@@ -16193,6 +16218,9 @@ monark
 mond
 mondän
 monsieur
+monstruös
+monstruös
+monstruös
 mont
 montmartr
 mor
@@ -17054,7 +17082,7 @@ nervtråd
 nervvärk
 nervös
 nervös
-nervöst
+nervös
 nes
 net
 net
@@ -18645,6 +18673,7 @@ pastorn
 pastorn
 pastorsadjunk
 pastorsadjunk
+pastös
 patent
 pat
 paternost
@@ -19046,6 +19075,10 @@ politik
 politisk
 polityr
 polityrkärl
+pompös
+pompös
+pompös
+pompös
 pomril
 poner
 ponk
@@ -19089,6 +19122,10 @@ portvalvet
 portvin
 portör
 portör
+porös
+porös
+porös
+porös
 pos
 poser
 poser
@@ -19591,6 +19628,7 @@ pöbeln
 pöbelvanan
 pöl
 pös
+pös
 pöst
 qu
 qualis
@@ -19887,7 +19925,7 @@ religionslär
 religiositet
 religiös
 religiös
-religiöst
+religiös
 reling
 reling
 reling
@@ -20044,6 +20082,9 @@ riern
 rigeln
 rigg
 rigl
+rigorös
+rigorös
+rigorös
 rigt
 rigt
 rigt
@@ -20717,6 +20758,8 @@ röst
 röst
 röst
 röst
+röster
+röst
 röt
 röt
 rötmånadshet
@@ -21319,7 +21362,7 @@ silverkling
 silverkniv
 silverpapp
 silverpokal
-silverröst
+silverrös
 silversked
 silverskål
 silverslant
@@ -21827,7 +21870,7 @@ skivan
 skiv
 skjort
 skjortan
-skjortbröst
+skjortbrös
 skjortkrag
 skjort
 skjortsöm
@@ -24711,6 +24754,9 @@ sybåg
 sydamerik
 sydd
 sydhavspalm
+sydöst
+sydöst
+sydöstr
 syfilidologi
 syforening
 syforening
@@ -25247,6 +25293,8 @@ talorgan
 talrik
 talrik
 talrik
+talrös
+talrös
 talt
 talt
 talt
@@ -27799,7 +27847,7 @@ utlånt
 utlåt
 utlåt
 utlösning
-utlöst
+utlös
 utman
 utmark
 utmarscher
@@ -28017,6 +28065,8 @@ utöfv
 utöfv
 utöfv
 utöfv
+utös
+utöst
 utöv
 utöv
 utöv
@@ -28853,6 +28903,10 @@ viskning
 viskning
 viskning
 visky
+viskös
+viskös
+viskös
+viskös
 vis
 vis
 vis
@@ -30179,6 +30233,7 @@ zuav
 ödas
 ödd
 öde
+ödematös
 öden
 ödesbestämd
 ödesbestämt
@@ -30438,6 +30493,7 @@ zuav
 ösa
 ösregn
 ösregn
+öst
 östan
 östanvind
 öst
@@ -30561,7 +30617,7 @@ zuav
 överrock
 överräkn
 överräkn
-överröst
+överrös
 översat
 överseendet
 översh
@@ -30615,6 +30671,15 @@ zuav
 överväld
 överändakast
 överändakast
+överös
+överös
+överös
+överös
+överös
+överös
+överös
+överös
+överös
 övning
 övning
 övr
