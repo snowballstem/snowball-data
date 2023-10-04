@@ -1,0 +1,113 @@
+#!/usr/bin/perl
+use warnings;
+use strict;
+use autodie;
+if (@ARGV != 3) {
+    print <<"__END__";
+Syntax: $0 VOC OUT1 OUT2
+
+Compare the outputs OUT1 and OUT2 from stemming input VOC with a stemmer and
+with a modified version of that stemmer.
+
+Example usage for evaluating a change made in a sibling snowball checkout:
+
+../snowball/stemwords -l english < english/voc.txt > tmp.english.output.txt
+$0 english/voc.txt english/output.txt tmp.english.output.txt
+__END__
+    exit(1);
+}
+
+my ($voc, $out1, $out2) = @ARGV;
+my (%v, %o1, %o2, @d);
+my ($VOC, $OUT1, $OUT2);
+open $VOC, '<', $voc;
+open $OUT1, '<', $out1;
+open $OUT2, '<', $out2;
+while (<$VOC>) {
+    chomp(my $v = $_);
+    chomp(my $out1 = <$OUT1>);
+    chomp(my $out2 = <$OUT2>);
+    warn "Duplicate for word $v\n" if exists $v{$v};
+    $v{$v} = [$out1, $out2];
+    push @d, $v if $out1 ne $out2;
+    push @{$o1{$out1}}, $v;
+    push @{$o2{$out2}}, $v;
+}
+
+my %reported;
+my (@boring, @merges, @splits, %changes);
+for my $v (@d) {
+    my ($s1, $s2) = @{$v{$v}};
+    if (join("\0", @{$o1{$s1}}) eq join("\0", @{$o2{$s2}})) {
+        # Stem changed but set of words mapping to this stem is unchanged, so
+        # no problem (at least for this vocabulary).
+        push @boring, $v;
+    } elsif (exists $o1{$s2} && !exists $o2{$s1} &&
+             scalar(@{$o1{$s1}}) + scalar(@{$o1{$s2}}) == scalar(@{$o2{$s2}})) {
+        if (!$reported{"$s1\0$s2"}++) {
+            push @merges,
+                "{ " . join(', ', @{$o1{$s1}}) . " } + { " . join(', ', @{$o1{$s2}}) . " }";
+        }
+    } elsif (exists $o2{$s1} && !exists $o1{$s2} &&
+             scalar(@{$o2{$s1}}) + scalar(@{$o2{$s2}}) == scalar(@{$o1{$s1}})) {
+        if (!$reported{"$s1\0$s2"}++) {
+            push @splits,
+                "{ " . join(', ', @{$o2{$s1}}) . " | " . join(', ', @{$o2{$s2}}) . " }";
+        }
+    } else {
+        push @{$changes{"$s1\0$s2"}}, $v;
+    }
+}
+
+printf "A total of %d words changed stem\n", scalar(@d);
+
+if (scalar @boring) {
+    printf "\n* %d words changed stem but aren't interesting:\n", scalar(@boring);
+    print "  ", join(', ', @boring), "\n";
+}
+
+if (@merges) {
+    printf "\n* %d merges of groups of stems:\n", scalar(@merges);
+    for (@merges) {
+        print "  ", $_, "\n";
+    }
+}
+
+if (@splits) {
+    printf "\n* %d splits of groups of stems:\n", scalar(@splits);
+    for (@splits) {
+        print "  ", $_, "\n";
+    }
+}
+
+if (keys %changes) {
+    printf "\n* %d words moving between stem groups:\n", scalar(keys %changes);
+    for (sort keys %changes) {
+        my ($s1, $s2) = split /\0/;
+        my $rev = "$s2\0$s1";
+        if (exists $changes{$rev}) {
+            # We have words moving both ways between two groups.  Report
+            # together but only once.
+            if ($s1 le $s2) {
+                my $b1 = join(', ', @{$o1{$s1}});
+                my $b2 = join(', ', @{$o1{$s2}});
+                my $d = length($b1) - length($b2);
+                my $p1 = '';
+                my $p2 = '';
+                if ($d > 0) {
+                    $p2 = ' ' x $d;
+                } else {
+                    $p1 = ' ' x (-$d);
+                }
+                print "  { $b1 } $p1-\\ /-{ ", join(', ', @{$changes{$rev}}), " }--> { ", join(', ', @{$o2{$s1}}), " }\n";
+                print ' ' x (length($b1) + 9), $p1, "X\n";
+                print "  { $b2 } $p2-/ \\-{ ", join(', ', @{$changes{$_}}), " }--> { ", join(', ', @{$o2{$s2}}), " }\n";
+                print "\n";
+            }
+        } else {
+            # A word or words moved from one stem group to another.
+            print "  { ", join(', ', @{$o1{$s1}}), " } --{ ", join(', ', @{$changes{$_}}), " }--> { ", join(', ', @{$o2{$s2}}), " }\n";
+            print "\n";
+        }
+    }
+}
