@@ -34,6 +34,12 @@ while (<$VOC>) {
     push @{$o2{$out2}}, $v;
 }
 
+# Now:
+#
+# $v{WORD} -> [OLDSTEM, NEWSTEM]
+# $o1{STEM} -> [WORD for which oldstem(WORD) == STEM]
+# $o2{STEM} -> [WORD for which newstem(WORD) == STEM]
+
 my %reported;
 my (@boring, @merges, @splits, %changes);
 for my $v (@d) {
