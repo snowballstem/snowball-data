@@ -29,9 +29,9 @@ my ($voc, $out1, $out2) = @ARGV;
 my (%v, %o1, %o2);
 my $changed_stem = 0;
 my ($VOC, $OUT1, $OUT2);
-open $VOC, '<', $voc;
-open $OUT1, '<', $out1;
-open $OUT2, '<', $out2;
+open $VOC, '<:encoding(UTF-8)', $voc;
+open $OUT1, '<:encoding(UTF-8)', $out1;
+open $OUT2, '<:encoding(UTF-8)', $out2;
 while (<$VOC>) {
     chomp(my $v = $_);
     chomp(my $out1 = <$OUT1>);
@@ -158,7 +158,7 @@ if (@splits) {
 if (keys %changes) {
     printf HTML "<li>%d words moving between stem groups:\n", scalar(keys %changes);
     my $png_file = 'compare.png';
-    open DOT, "|dot -Tpng -o \Q$png_file\E" or die $!;
+    open DOT, "|-:encoding(UTF-8)", "dot -Tpng -o \Q$png_file\E" or die $!;
     print DOT "digraph {\nrankdir=LR\nnode [shape=box]\n";
     for (reverse sort keys %changes) {
         my ($s1, $s2) = split /\0/;
