@@ -17,8 +17,17 @@ __END__
     exit(1);
 }
 
+sub encode_entities {
+    my $s = shift;
+    $s =~ s/&/&amp;/g;
+    $s =~ s/</&lt;/g;
+    $s =~ s/>/&gt;/g;
+    return $s;
+}
+
 my ($voc, $out1, $out2) = @ARGV;
-my (%v, %o1, %o2, @d);
+my (%v, %o1, %o2);
+my $changed_stem = 0;
 my ($VOC, $OUT1, $OUT2);
 open $VOC, '<', $voc;
 open $OUT1, '<', $out1;
@@ -29,7 +38,7 @@ while (<$VOC>) {
     chomp(my $out2 = <$OUT2>);
     warn "Duplicate for word $v\n" if exists $v{$v};
     $v{$v} = [$out1, $out2];
-    push @d, $v if $out1 ne $out2;
+    ++$changed_stem if $out1 ne $out2;
     push @{$o1{$out1}}, $v;
     push @{$o2{$out2}}, $v;
 }
@@ -42,78 +51,136 @@ while (<$VOC>) {
 
 my %reported;
 my (@boring, @merges, @splits, %changes);
-for my $v (@d) {
+for my $v (sort keys %v) {
     my ($s1, $s2) = @{$v{$v}};
-    if (join("\0", @{$o1{$s1}}) eq join("\0", @{$o2{$s2}})) {
-        # Stem changed but set of words mapping to this stem is unchanged, so
-        # no problem (at least for this vocabulary).
-        push @boring, $v;
-    } elsif (exists $o1{$s2} && !exists $o2{$s1} &&
-             scalar(@{$o1{$s1}}) + scalar(@{$o1{$s2}}) == scalar(@{$o2{$s2}})) {
-        if (!$reported{"$s1\0$s2"}++) {
-            push @merges,
-                "{ " . join(', ', @{$o1{$s1}}) . " } + { " . join(', ', @{$o1{$s2}}) . " }";
-        }
-    } elsif (exists $o2{$s1} && !exists $o1{$s2} &&
-             scalar(@{$o2{$s1}}) + scalar(@{$o2{$s2}}) == scalar(@{$o1{$s1}})) {
-        if (!$reported{"$s1\0$s2"}++) {
-            push @splits,
-                "{ " . join(', ', @{$o2{$s1}}) . " | " . join(', ', @{$o2{$s2}}) . " }";
-        }
-    } else {
-        push @{$changes{"$s1\0$s2"}}, $v;
+    if (scalar(@{$o1{$s1}}) == scalar(@{$o2{$s2}}) &&
+        join("\0", @{$o1{$s1}}) eq join("\0", @{$o2{$s2}})) {
+        # The same set of words map together before and after.
+        # If the stem they map to is the same that's of no interest.
+        # If the stem they map to have changed, that's a boring change.
+        push @boring, $v if $s1 ne $s2;
+        next;
     }
+
+    # Check for a merge.  This is the case if:
+    #
+    # For each word which now stems to $s2, all the words which
+    # used to stem to its old stem now also stem to $s2.
+    my %m = ();
+    M: for my $w (@{$o2{$s2}}) {
+        # $w is a word which now stems to s2, $os is its old stem.
+        my $os = ${$v{$w}}[0];
+        $m{$os}++;
+        for my $x (@{$o1{$os}}) {
+            # $x is a word which used to stem to $os.
+            if (${$v{$x}}[1] ne $s2) {
+                %m = ();
+                last M;
+            }
+        }
+    }
+    if (scalar keys %m > 1) {
+        my @k = sort keys %m;
+        if ($v eq ${$o1{$k[0]}}[0]) {
+            # We find the merge for every word in it, so only report once for
+            # the first word of the first stem.
+            push @merges, join(' + ', map {'{ ' . join(' ', @{$o1{$_}}) . ' }'} @k);
+        }
+        next;
+    } elsif (scalar keys %m == 1) {
+        die "Solitary stem: " . (keys %m)[0];
+    }
+
+    # Check for a split.  This is the case if:
+    #
+    # For each word which used to stem to $s1, all the words which
+    # now stem to its new stem also used to stem to $s1.
+    my %s = ();
+    S: for my $w (@{$o1{$s1}}) {
+        # $w is a word which used to stem to s1, $ns is its new stem.
+        my $ns = ${$v{$w}}[1];
+        $s{$ns}++;
+        for my $x (@{$o2{$ns}}) {
+            # $x is a word which now stems to $ns.
+            if (${$v{$x}}[0] ne $s1) {
+                %s = ();
+                last S;
+            }
+        }
+    }
+    if (scalar keys %s > 1) {
+        my @k = sort keys %s;
+        if ($v eq ${$o2{$k[0]}}[0]) {
+            # We find the split for every word in it, so only report once for
+            # the first word of the first stem.
+            push @splits, "{ " . join(' | ', map {join(' ', @{$o2{$_}})} @k) . " }";
+        }
+        next;
+    } elsif (scalar keys %s == 1) {
+        die "Solitary stem: " . (keys %s)[0];
+    }
+
+    push @{$changes{"$s1\0$s2"}}, $v;# if $s1 ne $s2;
 }
 
-printf "A total of %d words changed stem\n", scalar(@d);
+open HTML, '>', 'compare.html' or die $!;
+
+print HTML "<html><head><meta charset='utf-8'><title>";
+print HTML encode_entities("stemmer-compare $voc $out1 $out2");
+print HTML "</title></head>\n<body>\n";
+
+print HTML "<ul>\n";
+printf HTML "<li>A total of %d words changed stem\n", $changed_stem;
 
 if (scalar @boring) {
-    printf "\n* %d words changed stem but aren't interesting:\n", scalar(@boring);
-    print "  ", join(', ', @boring), "\n";
+    printf HTML "<li>%d words changed stem but aren't interesting\n", scalar(@boring);
+    #print "  ", join(' ', @boring), "\n" if $verbose;
 }
 
 if (@merges) {
-    printf "\n* %d merges of groups of stems:\n", scalar(@merges);
+    printf HTML "<li>%d merges of groups of stems:\n", scalar(@merges);
+    print HTML "<div>\n";
     for (@merges) {
-        print "  ", $_, "\n";
+        print HTML encode_entities($_), "<br>\n";
     }
+    print HTML "</div>\n";
 }
 
 if (@splits) {
-    printf "\n* %d splits of groups of stems:\n", scalar(@splits);
+    printf HTML "<li>%d splits of groups of stems:\n", scalar(@splits);
+    print HTML "<div>\n";
     for (@splits) {
-        print "  ", $_, "\n";
+        print HTML encode_entities($_), "<br>\n";
     }
+    print HTML "</div>\n";
 }
 
 if (keys %changes) {
-    printf "\n* %d words moving between stem groups:\n", scalar(keys %changes);
-    for (sort keys %changes) {
+    printf HTML "<li>%d words moving between stem groups:\n", scalar(keys %changes);
+    my $png_file = 'compare.png';
+    open DOT, "|dot -Tpng -o \Q$png_file\E" or die $!;
+    print DOT "digraph {\nrankdir=LR\nnode [shape=box]\n";
+    for (reverse sort keys %changes) {
         my ($s1, $s2) = split /\0/;
-        my $rev = "$s2\0$s1";
-        if (exists $changes{$rev}) {
-            # We have words moving both ways between two groups.  Report
-            # together but only once.
-            if ($s1 le $s2) {
-                my $b1 = join(', ', @{$o1{$s1}});
-                my $b2 = join(', ', @{$o1{$s2}});
-                my $d = length($b1) - length($b2);
-                my $p1 = '';
-                my $p2 = '';
-                if ($d > 0) {
-                    $p2 = ' ' x $d;
-                } else {
-                    $p1 = ' ' x (-$d);
-                }
-                print "  { $b1 } $p1-\\ /-{ ", join(', ', @{$changes{$rev}}), " }--> { ", join(', ', @{$o2{$s1}}), " }\n";
-                print ' ' x (length($b1) + 9), $p1, "X\n";
-                print "  { $b2 } $p2-/ \\-{ ", join(', ', @{$changes{$_}}), " }--> { ", join(', ', @{$o2{$s2}}), " }\n";
-                print "\n";
-            }
-        } else {
-            # A word or words moved from one stem group to another.
-            print "  { ", join(', ', @{$o1{$s1}}), " } --{ ", join(', ', @{$changes{$_}}), " }--> { ", join(', ', @{$o2{$s2}}), " }\n";
-            print "\n";
+        my $old_ref = $o1{$s1};
+        my $new_ref = $o2{$s2};
+        $s1 =~ y/'/_/;
+        $s2 =~ y/'/_/;
+        print DOT "o_$s1 [label=\"";
+        for (@$old_ref) {
+            print DOT "\Q$_\E\\l";
         }
+        print DOT "\"]\n";
+        print DOT "n_$s2 [label=\"";
+        for (@$new_ref) {
+            print DOT "\Q$_\E\\l";
+        }
+        print DOT "\"]\n";
+        print DOT "o_$s1 -> n_$s2\n"
     }
+    print DOT "}\n";
+    close DOT or die $!;
+    print HTML "<br><img src=\"", encode_entities($png_file), "\">\n";
 }
+
+print HTML "</body></html>\n";
