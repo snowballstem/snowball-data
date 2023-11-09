@@ -17351,7 +17351,7 @@ knuppert
 knusprig
 knutenpeitsch
 koalitionskris
-koalitionssyst
+koalitionssystem
 koalitionsversuch
 koan
 kobold
@@ -26029,7 +26029,7 @@ sozial
 sozial
 sozialhilf
 sozialist
-sozialsyst
+sozialsystem
 sozinian
 sozusag
 spah
@@ -27237,7 +27237,7 @@ synthet
 synthet
 syri
 syri
-syst
+system
 systemat
 systemat
 systemat
@@ -28795,7 +28795,7 @@ umtun
 umundum
 umverteil
 umverteil
-umverteilungssyst
+umverteilungssystem
 umwand
 umwandl
 umwarf
