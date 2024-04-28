@@ -1,0 +1,19 @@
+voc.txt and output.txt are derived from the Digital Pāḷi Dictionary which is licensed under a Creative Commons License: https://digitalpalidictionary.github.io/
+
+To create the files, I downloaded their latest SQL Database and ran the following query:
+
+```sql
+SELECT DISTINCT lemma_2, stem
+FROM dpd_headwords
+WHERE
+  stem IS NOT "*" AND
+  stem IS NOT "-" AND 
+  stem NOT LIKE "!%";
+```
+
+I then exported the lemma_2 column to voc.txt and the stem column to output.txt.
+
+Note: to run the Pali stemmer, run:
+
+stemwords -l pali -c UTF_8 -i pali/voc.txt -o pali/real_output.txt
+
