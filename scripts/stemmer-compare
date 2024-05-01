@@ -158,6 +158,13 @@ if (@splits) {
     print HTML "</div>\n";
 }
 
+sub dot_id {
+    local $_ = shift;
+    return $_ unless /^[0-9]/ || /[^a-zA-Z0-9_\x80-\xff]/;
+    s/"/\\"/g;
+    return '"' . $_ . '"';
+}
+
 if (keys %changes) {
     printf HTML "<li>%d words moving between stem groups:\n", scalar(keys %changes);
     my $png_file = 'compare.png';
@@ -167,19 +174,19 @@ if (keys %changes) {
         my ($s1, $s2) = split /\0/;
         my $old_ref = $o1{$s1};
         my $new_ref = $o2{$s2};
-        $s1 =~ y/'/_/;
-        $s2 =~ y/'/_/;
-        print DOT "o_$s1 [label=\"";
+        $s1 = dot_id("o_$s1");
+        $s2 = dot_id("n_$s2");
+        print DOT "$s1 [label=\"";
         for (@$old_ref) {
             print DOT "\Q$_\E\\l";
         }
         print DOT "\"]\n";
-        print DOT "n_$s2 [label=\"";
+        print DOT "$s2 [label=\"";
         for (@$new_ref) {
             print DOT "\Q$_\E\\l";
         }
         print DOT "\"]\n";
-        print DOT "o_$s1 -> n_$s2\n"
+        print DOT "$s1 -> $s2\n"
     }
     print DOT "}\n";
     close DOT or die $!;
