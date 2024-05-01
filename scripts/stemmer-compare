@@ -36,7 +36,10 @@ while (<$VOC>) {
     chomp(my $v = $_);
     chomp(my $out1 = <$OUT1>);
     chomp(my $out2 = <$OUT2>);
-    warn "Duplicate for word $v\n" if exists $v{$v};
+    if (exists $v{$v}) {
+	warn "$voc: Ignoring duplicate of word '$v'\n";
+	next;
+    }
     $v{$v} = [$out1, $out2];
     ++$changed_stem if $out1 ne $out2;
     push @{$o1{$out1}}, $v;
