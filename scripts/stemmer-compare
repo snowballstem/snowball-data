@@ -17,6 +17,21 @@ __END__
     exit(1);
 }
 
+# 'svgz' would seem the best option, except it requires the web server to
+# be configured to send the right headers, and doesn't seem to work for
+# file: URLs in firefox.
+#
+# 'svg' works but is larger than 'svgz' (but smaller than PNG options).
+#
+# 'png' works, but typically seems to give a larger file, and above a certain
+# size the output is scaled down and can become unreadable:
+#
+# dot: graph is too large for cairo-renderer bitmaps. Scaling by 0.370127 to fit
+#
+# 'png:gd' works, but typically seems to give a larger file.  Also Firefox does
+# not seem to like really tall PNGs made with gd.
+my $image_format = 'svg';
+
 sub encode_entities {
     my $s = shift;
     $s =~ s/&/&amp;/g;
@@ -167,8 +182,9 @@ sub dot_id {
 
 if (keys %changes) {
     printf HTML "<li>%d words moving between stem groups:\n", scalar(keys %changes);
-    my $png_file = 'compare.png';
-    open DOT, "|-:encoding(UTF-8)", "dot -Tpng -o \Q$png_file\E" or die $!;
+    my ($ext) = ($image_format =~ /^([^:]+)/);
+    my $image_file = "compare.$ext";
+    open DOT, "|-:encoding(UTF-8)", "dot -T$image_format -o \Q$image_file\E" or die $!;
     print DOT "digraph {\nrankdir=LR\nnode [shape=box]\n";
     for (reverse sort keys %changes) {
         my ($s1, $s2) = split /\0/;
@@ -190,7 +206,7 @@ if (keys %changes) {
     }
     print DOT "}\n";
     close DOT or die $!;
-    print HTML "<br><img src=\"", encode_entities($png_file), "\">\n";
+    print HTML "<br><img src=\"", encode_entities($image_file), "\">\n";
 }
 
 print HTML "</body></html>\n";
