@@ -209,4 +209,5 @@ if (keys %changes) {
     print HTML "<br><img src=\"", encode_entities($image_file), "\">\n";
 }
 
+print HTML "</ul>\n";
 print HTML "</body></html>\n";
