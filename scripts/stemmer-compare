@@ -49,16 +49,32 @@ open $OUT1, '<:encoding(UTF-8)', $out1;
 open $OUT2, '<:encoding(UTF-8)', $out2;
 while (<$VOC>) {
     chomp(my $v = $_);
-    chomp(my $out1 = <$OUT1>);
-    chomp(my $out2 = <$OUT2>);
-    if (exists $v{$v}) {
-	warn "$voc: Ignoring duplicate of word '$v'\n";
-	next;
+    my $o1 = <$OUT1>;
+    if (!defined $o1) {
+        warn "$voc: Contains more lines than '$out1', ignoring from word '$v'\n";
+        last;
     }
-    $v{$v} = [$out1, $out2];
-    ++$changed_stem if $out1 ne $out2;
-    push @{$o1{$out1}}, $v;
-    push @{$o2{$out2}}, $v;
+    my $o2 = <$OUT2>;
+    if (!defined $o2) {
+        warn "$voc: Contains more lines than '$out2', ignoring from word '$v'\n";
+        last;
+    }
+    chomp($o1);
+    chomp($o2);
+    if (exists $v{$v}) {
+        warn "$voc: Ignoring duplicate of word '$v'\n";
+        next;
+    }
+    $v{$v} = [$o1, $o2];
+    ++$changed_stem if $o1 ne $o2;
+    push @{$o1{$o1}}, $v;
+    push @{$o2{$o2}}, $v;
+}
+if (defined(my $o1 = <$OUT1>)) {
+    warn "$out1: Contains more lines than '$voc', ignoring from stem '$o1'\n";
+}
+if (defined(my $o2 = <$OUT2>)) {
+    warn "$out2: Contains more lines than '$voc', ignoring from stem '$o2'\n";
 }
 
 # Now:
