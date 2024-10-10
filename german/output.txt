@@ -338,7 +338,7 @@ abschrieb
 abschrift
 abschuss
 abschuss
-abschutteln
+abschuttel
 abschuttelt
 abschwacht
 abschweif
@@ -451,7 +451,7 @@ abwes
 abwes
 abwes
 abwich
-abwickeln
+abwickel
 abwinkt
 abwisch
 abwischt
@@ -462,7 +462,7 @@ abzieh
 abzieh
 abziel
 abzielt
-abzubeuteln
+abzubeutel
 abzubind
 abzubring
 abzufind
@@ -493,7 +493,7 @@ abzuschick
 abzuschlag
 abzuschliess
 abzuschreck
-abzuschutteln
+abzuschuttel
 abzuseh
 abzuspreng
 abzusteh
@@ -513,7 +513,7 @@ achias
 achijas
 achis
 achitophel
-achseln
+achsel
 achselzuck
 achselzuck
 acht
@@ -586,7 +586,7 @@ adern
 adieu
 adjektiv
 adl
-adlerflugeln
+adlerflugel
 adlerweibch
 adn
 adoration
@@ -1204,7 +1204,7 @@ angelegt
 angelegt
 angeleitet
 angelika
-angeln
+angel
 angelrut
 angelt
 angemacht
@@ -1628,7 +1628,7 @@ anvisiert
 anwach
 anwachs
 anwalt
-anwandeln
+anwandel
 anwandl
 anwandt
 anweis
@@ -1693,7 +1693,7 @@ anzuschliess
 anzuschliess
 anzuseh
 anzusetz
-anzusiedeln
+anzusiedel
 anzuspann
 anzusprech
 anzustell
@@ -1702,7 +1702,7 @@ anzutreib
 anzuweis
 anzuw
 anzuzeig
-anzuzetteln
+anzuzettel
 anzuzieh
 apfel
 apfel
@@ -1712,7 +1712,7 @@ apfelbaum
 apfelblut
 apfelblutenhauch
 apfelch
-apfeln
+apfel
 apfelsaft
 aphras
 apodikt
@@ -1855,7 +1855,7 @@ artig
 artig
 artig
 artikel
-artikeln
+artikel
 artikuliert
 artilleriegeneral
 artilleriewes
@@ -2237,7 +2237,7 @@ aufpasst
 aufpflanzt
 aufputz
 aufrag
-aufrappeln
+aufrappel
 aufraum
 aufrechn
 aufrecht
@@ -3102,7 +3102,7 @@ badeplatz
 badepuppch
 badewann
 badisch
-bagatellwechseln
+bagatellwechsel
 bagel
 bah
 bahn
@@ -3228,7 +3228,7 @@ bassgeig
 bassstimm
 bassstimm
 bast
-basteln
+bastel
 bastelt
 basthaar
 bat
@@ -3267,7 +3267,7 @@ bauernklotz
 bauernknecht
 bauernmadl
 bauernpack
-bauernregeln
+bauernregel
 bauernsohn
 bauernstub
 bauernwirt
@@ -3286,7 +3286,7 @@ baumblatt
 baumch
 baum
 baum
-baumeln
+baumel
 baumelnd
 baumelt
 baum
@@ -3300,7 +3300,7 @@ baumstamm
 baumstock
 baumstumpf
 baumwipfel
-baumwipfeln
+baumwipfel
 baumwoll
 baumwoll
 baumwurzel
@@ -3709,7 +3709,7 @@ behalt
 behaltet
 behaltnis
 behaltnis
-behandeln
+behandel
 behandelt
 behandelt
 behandelt
@@ -4679,7 +4679,7 @@ bettch
 bett
 bettelei
 bettelj
-betteln
+bettel
 bettelt
 bett
 bettentruh
@@ -4869,7 +4869,7 @@ bezwang
 bezweck
 bezweckt
 bezweckt
-bezweifeln
+bezweifel
 bezweifl
 bezwing
 bezwingt
@@ -5024,7 +5024,7 @@ blast
 blatt
 blattch
 blatt
-blatteln
+blattel
 blatt
 blatt
 blatt
@@ -5048,11 +5048,11 @@ blaulich
 blausamt
 blauseid
 blauweiss
-bleamerln
+bleamerl
 blech
 blechern
 blechkerl
-blechloffeln
+blechloffel
 blechmus
 blechschachtel
 blechschild
@@ -5075,7 +5075,7 @@ bleich
 bleich
 bleich
 bleihand
-bleikugeln
+bleikugel
 bleischw
 bleistift
 bleistift
@@ -5113,7 +5113,7 @@ blindling
 blinkend
 blinkend
 blinkt
-blinzeln
+blinzel
 blinzelnd
 blinzelt
 blitz
@@ -5447,7 +5447,7 @@ britisch
 britisch
 brit
 broch
-brockeln
+brockel
 brockelt
 brock
 brokat
@@ -5506,7 +5506,7 @@ brunn
 brunnenbank
 brunn
 brunnenschwengel
-brunnenschwengeln
+brunnenschwengel
 brunnenstrahl
 brunstig
 brunstig
@@ -5610,7 +5610,7 @@ bund
 bundel
 bundelch
 bundelein
-bundeln
+bundel
 bundelturm
 bundelweis
 bund
@@ -5903,7 +5903,7 @@ dacht
 dachtrauf
 dachturmch
 dackel
-dackeln
+dackel
 dackel
 dackelzuchterei
 dadrauf
@@ -6471,7 +6471,7 @@ disputier
 disputier
 disputiert
 distel
-disteln
+distel
 distelstaud
 distinktion
 disziplin
@@ -6696,7 +6696,7 @@ drum
 drunt
 drunt
 druppelei
-druppeln
+druppel
 druppelu
 drus
 du
@@ -6753,7 +6753,7 @@ dunkelgrun
 dunkelhaar
 dunkel
 dunkel
-dunkeln
+dunkel
 dunkelrot
 dunkelrot
 dunkelrot
@@ -7592,7 +7592,7 @@ einsam
 einsam
 einsam
 einsam
-einsammeln
+einsammel
 einsam
 einsatz
 einsatz
@@ -7728,7 +7728,7 @@ einzahl
 einzelfrag
 einzel
 einzel
-einzeln
+einzel
 einzeln
 einzeln
 einzeln
@@ -7809,7 +7809,7 @@ eisschloss
 eitel
 eitel
 eitel
-eiteln
+eitel
 eitl
 eitl
 eitl
@@ -7817,7 +7817,7 @@ eitl
 eitrig
 ekd
 ekelhaft
-ekeln
+ekel
 ekel
 ekelt
 ekkehard
@@ -7998,7 +7998,7 @@ engelgeist
 engel
 engel
 engelland
-engeln
+engel
 engel
 engelschar
 engelsgeist
@@ -8327,7 +8327,7 @@ entwich
 entwich
 entwich
 entwich
-entwickeln
+entwickel
 entwickelt
 entwickelt
 entwickelt
@@ -8604,7 +8604,7 @@ ergreift
 ergriff
 ergriff
 ergrimmt
-ergrubeln
+ergrubel
 ergrund
 erhab
 erhab
@@ -9186,7 +9186,7 @@ erzieher
 erzieh
 erziehungskun
 erziehungsleut
-erziehungsmassregeln
+erziehungsmassregel
 erziehungsmuh
 erziehungsresultat
 erziehungswerk
@@ -9209,7 +9209,7 @@ eschenstab
 esel
 eselein
 eselfull
-eseln
+esel
 esel
 eser
 espenlaub
@@ -9338,7 +9338,7 @@ ezw
 f
 fabelhaft
 fabelhaft
-fabeln
+fabel
 fabrik
 fabrikant
 fabrikant
@@ -9347,7 +9347,7 @@ fach
 facil
 facit
 fackel
-fackeln
+fackel
 facto
 factor
 fad
@@ -9696,7 +9696,7 @@ fertig
 fertig
 fertiggestellt
 fertigzubring
-fesseln
+fessel
 fesselt
 fest
 festband
@@ -10043,7 +10043,7 @@ flugel
 flugelch
 flugelein
 flugelmann
-flugeln
+flugel
 flugelschlag
 flugeltur
 flugelzug
@@ -10135,7 +10135,7 @@ formation
 formel
 formell
 formell
-formeln
+formel
 form
 formenwes
 formiert
@@ -10576,7 +10576,7 @@ fuch
 fuchs
 fuchs
 fuchsin
-fuchsriegeln
+fuchsriegel
 fuchtelnd
 fuchtelt
 furunt
@@ -10671,7 +10671,7 @@ fungiert
 funk
 funkch
 funkelhell
-funkeln
+funkel
 funkelnd
 funkelt
 funkelt
@@ -11585,7 +11585,7 @@ geldklemm
 geldmach
 geldmann
 geldmittel
-geldmitteln
+geldmittel
 geldnot
 geldstuck
 geldsumm
@@ -12792,7 +12792,7 @@ gezweig
 gezwitsch
 gezwung
 gezwung
-gfahln
+gfahl
 gfall
 gfallt
 gflickt
@@ -12841,7 +12841,7 @@ ging
 ging
 ging
 gipfel
-gipfeln
+gipfel
 gipfelpunkt
 gipsarbeit
 gissg
@@ -12886,7 +12886,7 @@ glasschneid
 glassteinch
 glasstoff
 glaswand
-glasziegeln
+glasziegel
 glatt
 glatt
 glatt
@@ -13113,7 +13113,7 @@ goldig
 goldkett
 goldkiesweg
 goldknecht
-goldkugeln
+goldkugel
 goldlack
 goldn
 goldn
@@ -13242,7 +13242,7 @@ grasslich
 grasslich
 grasslich
 grast
-grasteufeln
+grasteufel
 grasuberwachs
 grat
 gratis
@@ -13312,7 +13312,7 @@ gret
 greuel
 greuelhaft
 greuelhaft
-greueln
+greuel
 greuel
 greueltat
 greulich
@@ -13530,7 +13530,7 @@ grusst
 grusswort
 gsagt
 gsangl
-gsangln
+gsangl
 gschaft
 gscheid
 gscheid
@@ -13545,7 +13545,7 @@ gspart
 gsperrt
 gspitzt
 gstand
-gstanzln
+gstanzl
 gstorb
 gstorb
 gstritt
@@ -13583,14 +13583,14 @@ gunstig
 gunstig
 gur
 gurgel
-gurgeln
+gurgel
 gurgelnd
 gurk
 gurpinar
 gurr
 gurt
 gurtel
-gurteln
+gurtel
 gurt
 gurtet
 gussbild
@@ -13693,7 +13693,7 @@ hag
 hagel
 hagelflut
 hagelhan
-hageln
+hagel
 hagelperl
 hagelreg
 hagelreg
@@ -13736,7 +13736,7 @@ halbjahr
 halbkreis
 halbkreis
 halbkugel
-halbkugeln
+halbkugel
 halblang
 halblaut
 halblaut
@@ -13815,8 +13815,8 @@ handeklatsch
 handel
 handel
 handelfuhr
-handeln
-handeln
+handel
+handel
 handelnd
 handel
 handelsabkomm
@@ -14324,7 +14324,7 @@ helmzi
 helvetas
 hemd
 hemdarmel
-hemdarmeln
+hemdarmel
 hemdarm
 hemdch
 hemd
@@ -14333,7 +14333,7 @@ hemdenmatz
 hemdkrag
 hemdzipfelch
 hemm
-hendeln
+hendel
 henkel
 henk
 henk
@@ -14410,7 +14410,7 @@ heraufsteig
 heraufsteigt
 heraufzieh
 heraufzuhol
-heraufzusauseln
+heraufzusausel
 heraus
 herausbracht
 herausbring
@@ -14701,7 +14701,7 @@ herumstreif
 herumstreift
 herumstreit
 herumstrich
-herumtanzeln
+herumtanzel
 herumtappt
 herumtrag
 herumtreib
@@ -14717,13 +14717,13 @@ herumzerrt
 herumzerrt
 herumzieh
 herumzuarg
-herumzufuchteln
+herumzufuchtel
 herumzukreuz
 herumzuras
 herumzuschweif
 herumzustreich
 herumzusumm
-herumzutummeln
+herumzutummel
 herumzuturn
 herumzuzieh
 herunt
@@ -14738,7 +14738,7 @@ herunterhol
 herunterkam
 herunterkomm
 herunternehm
-herunterpurzeln
+herunterpurzel
 herunterpurzelt
 herunterstreift
 herunterwarf
@@ -14794,7 +14794,7 @@ hervorschimm
 hervorschimmert
 hervorsprang
 hervorspross
-hervorsprudeln
+hervorsprudel
 hervorstech
 hervorstrahl
 hervorstrahlt
@@ -14808,7 +14808,7 @@ hervortritt
 hervortritt
 hervortut
 hervorwall
-hervorwimmeln
+hervorwimmel
 hervorzieh
 hervorzog
 hervorzubring
@@ -14876,7 +14876,7 @@ hetzt
 heu
 heubod
 heuchelei
-heucheln
+heuchel
 heuchelt
 heuchl
 heuchler
@@ -14984,7 +14984,7 @@ himmelerschutternd
 himmelhoch
 himmelhoh
 himmelhoh
-himmeln
+himmel
 himmelreich
 himmel
 himmelsbes
@@ -15202,7 +15202,7 @@ hineinzulass
 hineinzuschreit
 hineinzuseh
 hineinzuspring
-hineinzuwandeln
+hineinzuwandel
 hinfiel
 hinfort
 hinfuhr
@@ -15686,7 +15686,7 @@ hornblas
 hornch
 horn
 horn
-hornstriegeln
+hornstriegel
 horon
 horrohr
 horspielabteil
@@ -15732,7 +15732,7 @@ hugel
 hugelch
 hugel
 hugel
-hugeln
+hugel
 hugel
 hugliem
 huhn
@@ -15763,7 +15763,7 @@ hum
 hum
 humisch
 humkok
-hummeln
+hummel
 humor
 humorlos
 humus
@@ -16040,7 +16040,7 @@ insekt
 insektenbefall
 insel
 inselgrupp
-inseln
+insel
 inseratenkampagn
 inservit
 insgeheim
@@ -16308,7 +16308,7 @@ jahrig
 jahrl
 jahrlich
 jahrlich
-jahrln
+jahrl
 jahrmarkt
 jahrmarkt
 jahr
@@ -16715,7 +16715,7 @@ kannt
 kannt
 kanon
 kanonenkugelch
-kanonenkugeln
+kanonenkugel
 kanonenlauf
 kanonenmund
 kanonenrohr
@@ -16744,7 +16744,7 @@ kapitalist
 kapitalti
 kapitan
 kapitel
-kapiteln
+kapitel
 kapitel
 kapitelsherr
 kapp
@@ -16775,7 +16775,7 @@ kartoffelack
 kartoffelbrei
 kartoffelfeld
 kartoffelgebirg
-kartoffeln
+kartoffel
 kartoffelsupp
 karton
 karton
@@ -16976,7 +16976,7 @@ kielwass
 kienholzgefullt
 kiepenheu
 kiesel
-kieseln
+kiesel
 kieselstein
 kiesig
 kiesweg
@@ -17319,7 +17319,7 @@ knisternd
 knistert
 knistert
 knitternd
-knobeln
+knobel
 knobelt
 knochel
 knoch
@@ -17765,7 +17765,7 @@ kreuzwegbau
 kreuzweghof
 kreuzweghofbau
 kreuzweis
-kribbeln
+kribbel
 krick
 kriech
 kriechend
@@ -17879,7 +17879,7 @@ kuchentell
 kuchentur
 kuckuck
 kugel
-kugeln
+kugel
 kugelrund
 kugelrund
 kugelrund
@@ -17994,7 +17994,7 @@ kupf
 kupf
 kupferstich
 kuppel
-kuppeln
+kuppel
 kupp
 kuppl
 kur
@@ -18076,7 +18076,7 @@ laboratorium
 labyrinth
 labyrinth
 lachchor
-lacheln
+lachel
 lachelnd
 lachelnd
 lachelnd
@@ -18418,11 +18418,11 @@ lebenslust
 lebenslust
 lebensmittel
 lebensmittelembargos
-lebensmitteln
+lebensmittel
 lebensmut
 lebensordn
 lebensordn
-lebensregeln
+lebensregel
 lebensrett
 lebenssach
 lebenssachverhalt
@@ -18479,7 +18479,7 @@ led
 lederkappch
 lederkleid
 ledern
-lederpantoffeln
+lederpantoffel
 ledersackch
 ledersofa
 ledertapet
@@ -18879,7 +18879,7 @@ lied
 lied
 lied
 liedl
-liedln
+liedl
 lief
 lief
 lief
@@ -18943,7 +18943,7 @@ lipps
 liquidiert
 lisch
 lischsprach
-lispeln
+lispel
 lissabon
 list
 list
@@ -18998,7 +18998,7 @@ locus
 lodenmantel
 lob
 loffel
-loffeln
+loffel
 log
 log
 logik
@@ -19235,7 +19235,7 @@ madel
 madelein
 madel
 madl
-madln
+madl
 mag
 magazin
 magd
@@ -19328,7 +19328,7 @@ manchesterjack
 manchmal
 mandat
 mandelk
-mandeln
+mandel
 mandeltort
 mandi
 manfred
@@ -19413,7 +19413,7 @@ marionettenspiel
 maritata
 mark
 markiert
-markln
+markl
 mark
 markstuckl
 marksubstanz
@@ -19490,7 +19490,7 @@ massiv
 masslos
 massnahm
 massnehm
-massregeln
+massregel
 massstab
 massstab
 massstab
@@ -19625,7 +19625,7 @@ meint
 meinung
 meinung
 meis
-meisseln
+meissel
 meist
 meistbiet
 meist
@@ -19892,7 +19892,7 @@ missgestaltet
 missgluckt
 missgriff
 missgun
-misshandeln
+misshandel
 misshandelt
 misshandelt
 misshandelt
@@ -19995,7 +19995,7 @@ mithalt
 mithelf
 mithilf
 mithin
-mithumpeln
+mithumpel
 mititium
 mitkomm
 mitkommt
@@ -20050,7 +20050,7 @@ mittelding
 mittelgross
 mittelgross
 mittelmass
-mitteln
+mittel
 mittelpunkt
 mittelpunkt
 mittel
@@ -20095,7 +20095,7 @@ moab
 moabit
 moab
 mobel
-mobeln
+mobel
 mobelpack
 mobelstuck
 mobil
@@ -20204,7 +20204,7 @@ montur
 monument
 moorlach
 moorwies
-moorzotteln
+moorzottel
 moos
 moos
 moosfas
@@ -20343,7 +20343,7 @@ mundtot
 mundung
 mundwerk
 mundwinkel
-mundwinkeln
+mundwinkel
 munsing
 munt
 munt
@@ -20357,8 +20357,8 @@ murb
 murb
 murk
 murk
-murmelkugeln
-murmeln
+murmelkugel
+murmel
 murmelt
 murmelti
 murmelti
@@ -20369,7 +20369,7 @@ murrt
 murrt
 mus
 muschelform
-muscheln
+muschel
 muschelschiff
 muschi
 museum
@@ -20693,10 +20693,10 @@ nadelohr
 nadelz
 nagel
 nagelein
-nageln
+nagel
 nagelschuh
 nagend
-nagerln
+nagerl
 nagerlstock
 nah
 nah
@@ -20728,7 +20728,7 @@ nahm
 nahm
 nahr
 nahrhaft
-nahrmitteln
+nahrmittel
 nahrt
 nahrung
 nahrungsmittel
@@ -20874,7 +20874,7 @@ nebelhaft
 nebelkrah
 nebelluft
 nebelmass
-nebeln
+nebel
 nebelspalt
 nebelstreif
 nebelweg
@@ -20949,7 +20949,7 @@ nervos
 nervos
 nervos
 nessel
-nesseln
+nessel
 nest
 nest
 nesterch
@@ -21651,7 +21651,7 @@ packt
 packt
 packt
 padagog
-paddeln
+paddel
 pafft
 pag
 pair
@@ -21678,7 +21678,7 @@ panorama
 panspfeif
 pantinengang
 pantoffelfuss
-pantoffeln
+pantoffel
 panz
 panzerfahrzeug
 panzerreit
@@ -21797,7 +21797,7 @@ pavia
 pavillon
 pavillon
 pech
-pechdunkeln
+pechdunkel
 pech
 pechfin
 pechnarb
@@ -22437,7 +22437,7 @@ prufungsmerkmal
 prufungsraum
 prugel
 prugelfert
-prugeln
+prugel
 prugelstraf
 prugelt
 prugl
@@ -22449,7 +22449,7 @@ prunkwag
 prust
 prustend
 prustet
-prutzeln
+prutzel
 ps
 psalm
 psych
@@ -22504,7 +22504,7 @@ purpurrot
 purzelbaum
 purzelbaumch
 purzelbaum
-purzeln
+purzel
 purzelnd
 purzelt
 purzelt
@@ -22616,7 +22616,7 @@ ragt
 ragt
 rahm
 rahm
-rahmschusseln
+rahmschussel
 rain
 rain
 raka
@@ -22639,14 +22639,14 @@ ranzch
 ranzel
 ranz
 raphal
-rappeln
+rappel
 rappelt
 rapps
 rar
 rasant
 rasch
 rasch
-rascheln
+raschel
 raschelnd
 raschelt
 raschelt
@@ -22665,8 +22665,8 @@ rasierapparat
 rasi
 rasonni
 rasselfritz
-rasseln
-rasseln
+rassel
+rassel
 rasselt
 rasselt
 rast
@@ -22900,7 +22900,7 @@ regelmass
 regelmass
 regelmass
 regelmass
-regeln
+regel
 regelrecht
 regelrecht
 reg
@@ -23227,7 +23227,7 @@ riegel
 riegelt
 riem
 ries
-rieseln
+riesel
 rieselt
 rieselt
 rieselt
@@ -23505,7 +23505,7 @@ ruckwirk
 ruckzahlungsrat
 ruckzug
 rudel
-rudeln
+rudel
 rudel
 rud
 ruderbank
@@ -23593,7 +23593,7 @@ rundschrift
 rundung
 rung
 runterbracht
-runzeln
+runzel
 runzelreich
 runzlig
 runzlig
@@ -23622,7 +23622,7 @@ rutenwald
 rutschbahn
 rutschbahn
 rutscht
-rutteln
+ruttel
 ruttelt
 ruttelt
 s
@@ -23732,7 +23732,7 @@ samenr
 sam
 samm
 sammelaktion
-sammeln
+sammel
 sammelnd
 sammelt
 sammelt
@@ -23828,8 +23828,8 @@ satir
 satrap
 satt
 sattelbandag
-satteln
-satteln
+sattel
+sattel
 sattgegess
 sattig
 sattig
@@ -23888,7 +23888,7 @@ saumnis
 saumt
 saus
 sauschwab
-sauseln
+sausel
 sauselt
 saus
 sausend
@@ -23914,7 +23914,7 @@ schabrack
 schach
 schachtel
 schachtelch
-schachteln
+schachtel
 schad
 schaddai
 schaddais
@@ -24139,7 +24139,7 @@ schem
 schenk
 schenk
 schenkelauf
-schenkeln
+schenkel
 schenk
 schenk
 schenkstub
@@ -24201,7 +24201,7 @@ schied
 schief
 schief
 schief
-schiefertafeln
+schiefertafel
 schief
 schielaug
 schiel
@@ -24332,7 +24332,7 @@ schlag
 schlagt
 schlang
 schlang
-schlangeln
+schlangel
 schlangelt
 schlang
 schlangengift
@@ -24489,7 +24489,7 @@ schlupft
 schlupft
 schlupft
 schlupfwinkel
-schlupfwinkeln
+schlupfwinkel
 schlurf
 schlurft
 schluss
@@ -24543,7 +24543,7 @@ schmeichel
 schmeichelei
 schmeichelhaft
 schmeichelhaft
-schmeicheln
+schmeichel
 schmeichelnd
 schmeichelt
 schmeichelt
@@ -24609,7 +24609,7 @@ schmuck
 schmuckkamm
 schmuck
 schmuckt
-schmunzeln
+schmunzel
 schmunzelnd
 schmunzelt
 schmutz
@@ -24711,7 +24711,7 @@ schneuz
 schneuz
 schnippch
 schnippel
-schnippeln
+schnippel
 schnippisch
 schnitt
 schnitthaar
@@ -24895,7 +24895,7 @@ schuh
 schuh
 schuhlad
 schuhmach
-schuhnageln
+schuhnagel
 schuhsohl
 schul
 schulbuch
@@ -24946,14 +24946,14 @@ schuss
 schuss
 schuss
 schussel
-schusseln
+schussel
 schuss
 schusslini
 schussplatz
 schust
 schustert
 schutt
-schutteln
+schuttel
 schuttelt
 schuttelt
 schuttelt
@@ -25475,7 +25475,7 @@ seltsam
 sem
 sem
 sem
-semmelbroseln
+semmelbrosel
 send
 sendeminut
 send
@@ -25547,7 +25547,7 @@ si
 sialiquid
 sich
 sichbearbeit
-sicheln
+sichel
 sich
 sich
 sich
@@ -25563,7 +25563,7 @@ sicherheitskraft
 sicherheitskraft
 sicherheitsleut
 sicherheitspolizei
-sicherheitsregeln
+sicherheitsregel
 sicherheitsstation
 sich
 sich
@@ -25616,14 +25616,14 @@ siebzig
 siebzigmal
 siech
 sied
-siedeln
+siedel
 siedend
 siedendheiss
 sieg
 sieg
 siegel
 siegellack
-siegeln
+siegel
 siegelring
 sieg
 siegend
@@ -25939,7 +25939,7 @@ sonnenland
 sonnenlicht
 sonnenluft
 sonnennebel
-sonnennebeln
+sonnennebel
 sonnenringel
 sonnenschein
 sonnenschein
@@ -26178,7 +26178,7 @@ spielgesell
 spielkamerad
 spielkugel
 spielraum
-spielregeln
+spielregel
 spielschuld
 spielstatt
 spielt
@@ -26273,7 +26273,7 @@ spreemetropol
 spreiz
 spreizt
 spreng
-sprengkapseln
+sprengkapsel
 sprengt
 sprengt
 spreu
@@ -26364,7 +26364,7 @@ stach
 stachel
 stachelgestrauch
 stachelgewach
-stacheln
+stachel
 stachelstrauch
 stach
 stachlig
@@ -26392,7 +26392,7 @@ stadtschreib
 stadtschul
 stadtteil
 stadtviertel
-stadtvierteln
+stadtviertel
 stadtwohn
 stadtzurch
 staffiert
@@ -26699,13 +26699,13 @@ steyrerhut
 steyrerhut
 stibitzt
 stich
-sticheln
+stichel
 stickerei
 stickstoffgehalt
 stickstoffhalt
 stiebt
 stiefel
-stiefeln
+stiefel
 stiefelsohl
 stiefmutt
 stieg
@@ -26817,7 +26817,7 @@ stolziert
 stonsdorf
 stopft
 stoppelbart
-stoppeln
+stoppel
 storb
 storch
 stor
@@ -26908,7 +26908,7 @@ stratagemata
 strateg
 straubt
 strauch
-straucheln
+strauchel
 strauchelt
 strauch
 strauch
@@ -26929,7 +26929,7 @@ streckt
 streckt
 streich
 streich
-streicheln
+streichel
 streichelt
 streichelt
 streichelt
@@ -27252,14 +27252,14 @@ tabaksqualm
 tabaksteig
 tadel
 tadellos
-tadeln
+tadel
 tadelswurd
 tadelt
 tafel
 tafeldeck
 tafeldeck
 tafelgeschenk
-tafeln
+tafel
 tafelseit
 tafeltuch
 taferlklass
@@ -27426,7 +27426,7 @@ tauig
 tauig
 taumariech
 taumariech
-taumeln
+taumel
 taumelnd
 taumelnd
 taumelt
@@ -27685,7 +27685,7 @@ tischtuch
 tischwein
 titel
 titelblatt
-titeln
+titel
 titelt
 tl
 to
@@ -27751,7 +27751,7 @@ tolpatsch
 tolpatsch
 tolpel
 tolpelhaft
-tolpeln
+tolpel
 tolz
 tombakschnall
 ton
@@ -27918,7 +27918,7 @@ trauert
 trauerzeit
 trauet
 trauf
-traufeln
+traufel
 traufelt
 traufelt
 traulich
@@ -28052,14 +28052,14 @@ trocknend
 trocknet
 trocknet
 troddel
-troddeln
+troddel
 trog
 trog
 troll
 trollt
 trommel
 trommelfell
-trommeln
+trommel
 trommelt
 trompet
 trompet
@@ -28115,7 +28115,7 @@ trubsel
 trubsel
 trubt
 trubt
-truffeln
+truffel
 trug
 trug
 trug
@@ -28217,7 +28217,7 @@ turschloss
 turseit
 turteltaubch
 turteltaub
-tuscheln
+tuschel
 tust
 tut
 tvn
@@ -28236,7 +28236,7 @@ ubelgenomm
 ubelgeruch
 ubelgeruch
 ubelklang
-ubeln
+ubel
 ubel
 ubeltat
 ubeltun
@@ -28251,7 +28251,7 @@ uberaus
 uberbelegt
 uberbiet
 uberbleibsel
-uberbleibseln
+uberbleibsel
 uberbleibsel
 uberblick
 uberbot
@@ -28296,7 +28296,7 @@ uberfliess
 uberfliess
 uberflog
 uberfloss
-uberflugeln
+uberflugel
 uberfluss
 uberfluss
 uberfluss
@@ -28427,7 +28427,7 @@ uberr
 uberr
 uberrock
 uberrock
-uberrumpeln
+uberrumpel
 uber
 ubersaet
 ubersandt
@@ -28461,7 +28461,7 @@ ubersetz
 ubersetzt
 ubersetzt
 ubersetz
-ubersiedeln
+ubersiedel
 ubersiedelt
 ubersiedelt
 ubersiedelt
@@ -30137,7 +30137,7 @@ verdriess
 verdross
 verdruss
 verdruss
-verdunkeln
+verdunkel
 verdunkelt
 verdunkelt
 verdunkelt
@@ -30174,7 +30174,7 @@ vereint
 vereinzelt
 vereinzelt
 vereinzelt
-vereiteln
+vereitel
 vereitelt
 verena
 verendet
@@ -30388,7 +30388,7 @@ verhaltnismass
 verhaltnis
 verhaltnis
 verhaltnis
-verhandeln
+verhandel
 verhandelt
 verhandl
 verhandl
@@ -30749,7 +30749,7 @@ vernunftbestimm
 vernunfteinsicht
 vernunftelei
 vernunftelei
-vernunfteln
+vernunftel
 vernunftelnd
 vernunftelt
 vernunftelt
@@ -30853,7 +30853,7 @@ versagt
 versagt
 versagt
 versah
-versammeln
+versammel
 versammelt
 versammelt
 versammelt
@@ -31212,7 +31212,7 @@ vertrieb
 vertrockn
 vertrocknet
 vertrocknet
-vertrodeln
+vertrodel
 vertrost
 vertrostet
 vertrug
@@ -31258,7 +31258,7 @@ verwalt
 verwaltungsmann
 verwaltungsrat
 verwaltungsrechn
-verwandeln
+verwandel
 verwandelt
 verwandelt
 verwandelt
@@ -31311,7 +31311,7 @@ verwendet
 verwend
 verwerf
 verwerf
-verwickeln
+verwickel
 verwickelt
 verwickelt
 verwickelt
@@ -31532,17 +31532,17 @@ vitium
 vivificandum
 vogel
 vogel
-vogelbeerbuscheln
+vogelbeerbuschel
 vogelbe
 vogelch
-vogeln
+vogel
 vogel
 vogelstell
 vogelstimm
 voglein
 vogt
 vogt
-vokabeln
+vokabel
 vokabular
 vokativ
 vokativ
@@ -31990,7 +31990,7 @@ vortreff
 vortritt
 vortrug
 vortuch
-vortuchbandeln
+vortuchbandel
 vorub
 voruberdreht
 vorubergegang
@@ -32106,13 +32106,13 @@ wachsweiss
 wacht
 wacht
 wachtel
-wachteln
+wachtel
 wacht
 wacht
 wacht
 wachtmeist
 wackel
-wackeln
+wackel
 wackelt
 wack
 wack
@@ -32120,7 +32120,7 @@ wack
 wack
 wack
 wad
-wadenmuskeln
+wadenmuskel
 wadenstrumpf
 waff
 waffeleis
@@ -32306,7 +32306,7 @@ wand
 wand
 wandel
 wandellos
-wandeln
+wandel
 wandelnd
 wandelnd
 wandelnd
@@ -32466,7 +32466,7 @@ wechsel
 wechselbalg
 wechselbrief
 wechselgesang
-wechseln
+wechsel
 wechselnd
 wechselseit
 wechselt
@@ -32546,7 +32546,7 @@ wegtreib
 wegtreibt
 wegtrieb
 wegtrieb
-wegvernunfteln
+wegvernunftel
 wegwend
 wegwerf
 wegwerf
@@ -32699,7 +32699,7 @@ wein
 weinbe
 weinberg
 weinberg
-weinbergswachteln
+weinbergswachtel
 wein
 wein
 weinend
@@ -33198,7 +33198,7 @@ wildschutz
 wildschutz
 wildschwein
 wildtaub
-wildwechseln
+wildwechsel
 wildweg
 wilfried
 wilhelmin
@@ -33232,7 +33232,7 @@ willkur
 willkur
 willkur
 will
-wimmeln
+wimmel
 wimmelt
 wimmelt
 wimmelt
@@ -33262,7 +33262,7 @@ winkelei
 winkelei
 winkelform
 winkelmass
-winkeln
+winkel
 winkelschenk
 wink
 winklig
@@ -33270,7 +33270,7 @@ winkt
 winkt
 winkt
 winkt
-winseln
+winsel
 wint
 winterfeld
 winterf
@@ -33289,7 +33289,7 @@ winzig
 winzig
 winzig
 wipfel
-wipfeln
+wipfel
 wipp
 wippespiel
 wippt
@@ -33734,7 +33734,7 @@ wurdig
 wurdig
 wurdigt
 wurd
-wurfeln
+wurfel
 wurf
 wurg
 wurgt
@@ -33748,7 +33748,7 @@ wurtemberg
 wurz
 wurzel
 wurzelknorr
-wurzeln
+wurzel
 wurzelstock
 wurzelstock
 wurzelt
@@ -33851,7 +33851,7 @@ zankt
 zankt
 zankt
 zapfenbrett
-zappeln
+zappel
 zappelt
 zarg
 zarg
@@ -34164,7 +34164,7 @@ zied
 ziedert
 ziegel
 ziegelmach
-ziegeln
+ziegel
 ziegelof
 ziegelstein
 ziegelstein
@@ -34224,7 +34224,7 @@ zigarett
 zigarettenasch
 zigarettendos
 zigarettenschachtel
-zigarettenschachteln
+zigarettenschachtel
 zigarr
 zigarr
 zigarrenbengel
@@ -34233,7 +34233,7 @@ zigeunerband
 zillah
 zill
 zimbel
-zimbeln
+zimbel
 zimm
 zimmerdeck
 zimmergewehr
@@ -34258,7 +34258,7 @@ zipfelhaub
 zipfelkapp
 zipfelkapp
 zipfelmutz
-zipfeln
+zipfel
 zippora
 zirka
 zirkel
@@ -34335,7 +34335,7 @@ zornig
 zornig
 zorn
 zottel
-zotteln
+zottel
 zottelt
 zruck
 zruckfahr
@@ -34770,7 +34770,7 @@ zusammenstimm
 zusammenstimmt
 zusammenstimmt
 zusammenstimm
-zusammenstoppeln
+zusammenstoppel
 zusammenstoppelt
 zusammenstoss
 zusammenstoss
@@ -34947,7 +34947,7 @@ zweifelhaft
 zweifelhaft
 zweifellehr
 zweifellos
-zweifeln
+zweifel
 zweifelsfrei
 zweifelsohn
 zweifelt
