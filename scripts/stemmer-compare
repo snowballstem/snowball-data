@@ -32,6 +32,11 @@ __END__
 # not seem to like really tall PNGs made with gd.
 my $image_format = 'svg';
 
+# Inline image into HTML.
+#
+# Currently ignored unless $image_format is 'svg'.
+my $image_inline = 1;
+
 sub encode_entities {
     my $s = shift;
     $s =~ s/&/&amp;/g;
@@ -196,10 +201,10 @@ sub dot_id {
     return '"' . $_ . '"';
 }
 
+my ($ext) = ($image_format =~ /^([^:]+)/);
+my $image_file = "compare.$ext";
 if (keys %changes) {
     printf HTML "<li>%d words moving between stem groups:\n", scalar(keys %changes);
-    my ($ext) = ($image_format =~ /^([^:]+)/);
-    my $image_file = "compare.$ext";
     open DOT, "|-:encoding(UTF-8)", "dot -T$image_format -o \Q$image_file\E" or die $!;
     print DOT "digraph {\nrankdir=LR\nnode [shape=box]\n";
     for (reverse sort keys %changes) {
@@ -222,7 +227,23 @@ if (keys %changes) {
     }
     print DOT "}\n";
     close DOT or die $!;
-    print HTML "<br><img src=\"", encode_entities($image_file), "\">\n";
+    if ($image_inline && $image_format eq 'svg') {
+        print HTML "<br>";
+        open my $SVG, '<:encoding(UTF-8)', $image_file;
+        while (<$SVG>) {
+            last if /<svg/;
+        }
+        print HTML $_;
+        while (<$SVG>) {
+            next if /^<!--.*-->$/;
+            s/<title>[on]_/<title>/g;
+            print HTML $_;
+        }
+        close $SVG;
+        unlink $image_file;
+    } else {
+        print HTML "<br><img src=\"", encode_entities($image_file), "\">\n";
+    }
 }
 
 print HTML "</ul>\n";
