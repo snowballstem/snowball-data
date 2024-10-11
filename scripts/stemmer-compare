@@ -123,7 +123,7 @@ for my $v (sort keys %v) {
         if ($v eq ${$o1{$k[0]}}[0]) {
             # We find the merge for every word in it, so only report once for
             # the first word of the first stem.
-            push @merges, [$v, join(' + ', map {'{ ' . join(' ', @{$o1{$_}}) . ' }'} @k)];
+            push @merges, [$s2, join(' + ', map {'{ ' . join(' ', @{$o1{$_}}) . ' }'} @k)];
         }
         next;
     } elsif (scalar keys %m == 1) {
@@ -152,7 +152,7 @@ for my $v (sort keys %v) {
         if ($v eq ${$o2{$k[0]}}[0]) {
             # We find the split for every word in it, so only report once for
             # the first word of the first stem.
-            push @splits, [$v, "{ " . join(' | ', map {join(' ', @{$o2{$_}})} @k) . " }"];
+            push @splits, [map {($_, join(' ', @{$o2{$_}}))} @k];
         }
         next;
     } elsif (scalar keys %s == 1) {
@@ -189,7 +189,16 @@ if (@splits) {
     printf HTML "<li>%d splits of groups of stems:\n", scalar(@splits);
     print HTML "<div>\n";
     for (@splits) {
-        print HTML "<div title=\"", encode_entities($_->[0]), "\">", encode_entities($_->[1]), "</div>\n";
+        my @list = @{$_};
+        my $inter = "<div>{ ";
+        while (scalar @list) {
+            my $stem = shift @list;
+            my $group = shift @list;
+            print HTML $inter;
+            print HTML "<span title=\"", encode_entities($stem), "\">", encode_entities($group), "</span>";
+            $inter = " | ";
+        }
+        print HTML " }</div>";
     }
     print HTML "</div>\n";
 }
