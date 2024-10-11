@@ -1327,7 +1327,7 @@ anhang
 anhang
 anhang
 anhang
-anhangerinn
+anhang
 anhang
 anhang
 anhangsel
@@ -1963,7 +1963,7 @@ aufbaut
 aufbaut
 aufbehalt
 aufbewahr
-aufbewahrerin
+aufbewahr
 aufbewahrt
 aufbewahrt
 aufbewahrt
@@ -3167,7 +3167,7 @@ banknot
 bankratib
 bankraub
 bankraub
-bankrauberin
+bankraub
 bankuberfall
 bankuberfall
 bann
@@ -3194,7 +3194,7 @@ barmherz
 barmherz
 barmherz
 bar
-barsangerin
+barsang
 barsch
 barschaft
 barsch
@@ -3251,8 +3251,8 @@ bauchwitz
 baudenweib
 bau
 bau
-bauerin
-bauerinn
+bau
+bau
 bauerlein
 bau
 bau
@@ -4426,7 +4426,7 @@ besitz
 besitz
 besitz
 besitz
-besitzerin
+besitz
 besitz
 besitzlust
 besitzstand
@@ -5597,7 +5597,7 @@ bugelt
 buhler
 buhlerlohn
 buhlet
-buhnenmanagerin
+buhnenmanag
 bujv
 bull
 bull
@@ -5652,7 +5652,7 @@ burg
 burg
 burg
 burgerhut
-burgerinn
+burg
 burgerkrieg
 burg
 burg
@@ -5779,7 +5779,7 @@ cherub
 cherub
 cherubim
 cherub
-chethiterin
+chethit
 chezron
 chiddekel
 chig
@@ -6302,7 +6302,7 @@ deutsch
 deutsch
 deutschland
 deutschland
-deutschlehrerin
+deutschlehr
 deutschschweiz
 deutschsein
 deutseh
@@ -6493,7 +6493,7 @@ dogd
 dogmata
 doktor
 dokumenti
-dolmetscherin
+dolmetsch
 dolmusfahr
 dom
 dom
@@ -6718,7 +6718,7 @@ duftwolk
 duht
 dukat
 duld
-dulderin
+duld
 duldet
 duldet
 duldsam
@@ -7063,7 +7063,7 @@ ehrbar
 ehr
 ehr
 ehrenamt
-ehrenburgerin
+ehrenburg
 ehrenburgerinfur
 ehrenburgerrecht
 ehrend
@@ -7720,7 +7720,7 @@ einwirkt
 einwirkt
 einwirk
 einwohn
-einwohnerin
+einwohn
 einwurf
 einwurzelt
 einzahl
@@ -8019,7 +8019,7 @@ englisch
 englisch
 englisch
 englisch
-englischlehrerin
+englischlehr
 englischsprach
 englischsprach
 english
@@ -9172,7 +9172,7 @@ erzengel
 erz
 erzeug
 erzeug
-erzeugerin
+erzeug
 erzeugnis
 erzeugnis
 erzeugnis
@@ -9181,7 +9181,7 @@ erzeugt
 erzieh
 erzieh
 erzieherei
-erzieherin
+erzieh
 erzieher
 erzieh
 erziehungskun
@@ -10150,12 +10150,12 @@ formulier
 forsch
 forschend
 forschend
-forscherin
+forsch
 forschung
 forschung
 forst
 forsterbart
-forsterin
+forst
 forstgehilf
 forsthaus
 forsthaus
@@ -10943,7 +10943,7 @@ gebardenspiel
 gebardet
 gebardet
 gebar
-gebarerin
+gebar
 gebaud
 gebauet
 gebaumelt
@@ -10976,7 +10976,7 @@ gebiet
 gebiet
 gebiet
 gebiet
-gebieterin
+gebiet
 gebieter
 gebiet
 gebietet
@@ -12342,7 +12342,7 @@ gesetzesubertret
 gesetzgeb
 gesetzgeb
 gesetzgeb
-gesetzgeberin
+gesetzgeb
 gesetzgeb
 gesetz
 gesetz
@@ -12833,7 +12833,7 @@ gift
 giftig
 giftig
 giftig
-giftmischerinn
+giftmisch
 giftpilz
 gilead
 gilt
@@ -13849,7 +13849,7 @@ handkuss
 handkuss
 handl
 handl
-handlerin
+handl
 handlich
 handlich
 handlich
@@ -14139,7 +14139,7 @@ hebet
 hebopf
 hebr
 hebra
-hebraerinn
+hebra
 hebraisch
 hebraisch
 hebraisch
@@ -14627,7 +14627,7 @@ herrschend
 herrschend
 herrschend
 herrsch
-herrscherinn
+herrsch
 herrsch
 herrschet
 herrscht
@@ -15423,7 +15423,7 @@ hirt
 hirt
 histori
 histor
-historikerin
+histor
 histor
 histor
 histor
@@ -15675,7 +15675,7 @@ horend
 horend
 hor
 horerbrief
-horerin
+hor
 hor
 horet
 horfolg
@@ -15943,7 +15943,7 @@ indian
 indi
 indi
 indiennekleid
-indierinn
+indi
 indifferent
 indirekt
 indisch
@@ -16706,7 +16706,7 @@ kann
 kannch
 kann
 kannegiess
-kannegiesserin
+kannegiess
 kannegiess
 kann
 kann
@@ -16916,8 +16916,8 @@ kellerei
 kellerhal
 kellerpflanz
 kelln
-kellnerin
-kellnerinn
+kelln
+kelln
 kelt
 kelt
 kenan
@@ -17212,7 +17212,7 @@ kleinlich
 kleinmachnow
 kleinmut
 kleinod
-kleinstadterinn
+kleinstadt
 klein
 klein
 klein
@@ -18527,7 +18527,7 @@ lehrend
 lehrend
 lehr
 lehr
-lehrerin
+lehr
 lehr
 lehrerpult
 lehret
@@ -18665,7 +18665,7 @@ leit
 leit
 leit
 leiterch
-leiterin
+leit
 leit
 leit
 leitet
@@ -18680,7 +18680,7 @@ lend
 leni
 lenis
 lenk
-lenkerin
+lenk
 lenkt
 lenkt
 lenzlicht
@@ -19125,7 +19125,7 @@ lugenbericht
 lugenhaft
 lugenhaft
 lugn
-lugnerin
+lugn
 lugn
 lugst
 lugst
@@ -19635,8 +19635,8 @@ meistenteil
 meist
 meisterhaft
 meisterhand
-meisterin
-meisterinn
+meist
+meist
 meist
 meist
 meist
@@ -19944,7 +19944,7 @@ mitanand
 mitarbeit
 mitarbeit
 mitarbeit
-mitarbeiterinn
+mitarbeit
 mitarbeit
 mitass
 mitass
@@ -20088,7 +20088,7 @@ mitzumach
 mitzunehm
 mitzuteil
 mitzuzahl
-mitzwanzigerin
+mitzwanz
 mix
 mo
 moab
@@ -21181,7 +21181,7 @@ nistet
 nit
 nitrit
 nitritkapsel
-nitroglyzerin
+nitroglyz
 nivellier
 nix
 no
@@ -23161,7 +23161,7 @@ rett
 rettend
 rettend
 rett
-retterin
+rett
 rettet
 rettung
 rettungsank
@@ -23790,7 +23790,7 @@ sang
 sang
 sang
 sang
-sangerin
+sang
 sangesbrud
 sank
 sank
@@ -23865,7 +23865,7 @@ saug
 saugend
 saugend
 saugend
-saugerin
+saug
 saugerohrch
 sauget
 saugling
@@ -24060,7 +24060,7 @@ schaurig
 schauspiel
 schauspiel
 schauspiel
-schauspielerin
+schauspiel
 schauspiel
 schauspielkun
 schauspielschul
@@ -25440,7 +25440,7 @@ selbstzufried
 seldwyl
 seldwyla
 seldwyl
-seldwylerinn
+seldwyl
 seldwyl
 seldwyl
 seldwylertag
@@ -25496,7 +25496,7 @@ senkt
 senkt
 senkt
 senkung
-sennerin
+senn
 sennhutt
 sensatio
 sens
@@ -26642,7 +26642,7 @@ sterb
 sterbebegleiterdi
 sterbebegleit
 sterbebett
-sterbeforscherin
+sterbeforsch
 sterbeforsch
 sterb
 sterbend
@@ -30679,7 +30679,7 @@ vermittelnd
 vermittelnd
 vermittel
 vermittel
-vermittlerin
+vermittl
 vermittl
 vermittl
 vermocht
@@ -31955,7 +31955,7 @@ vorstadtstrass
 vorstand
 vorstand
 vorsteh
-vorsteherin
+vorsteh
 vorstell
 vorstell
 vorstell
@@ -32145,7 +32145,7 @@ wahlablauf
 wahlbehinder
 wahlbenachricht
 wahlbeobacht
-wahlbeobachterinn
+wahlbeobacht
 wahlbeobacht
 wahlberechtigt
 wahlberechtigt
@@ -32161,7 +32161,7 @@ wahlend
 wahl
 wahlergebnis
 wahlergebnis
-wahlerinn
+wahl
 wahlet
 wahlgeschaft
 wahlhandl
@@ -32397,7 +32397,7 @@ wasch
 wasch
 waschepack
 wascherei
-wascherin
+wasch
 waschestuck
 waschtisch
 waschung
@@ -33882,7 +33882,7 @@ zauberfrau
 zauberhaft
 zauberhaft
 zauberhaft
-zauberin
+zaub
 zauber
 zauberkun
 zauberlatern
@@ -34239,7 +34239,7 @@ zimmerdeck
 zimmergewehr
 zimm
 zimm
-zimmervermieterin
+zimmervermiet
 zimmet
 zimmetbuchsch
 zimp
@@ -34477,13 +34477,13 @@ zugschlag
 zugun
 zugut
 zugut
-zuhalterin
+zuhalt
 zuhielt
 zuhilfenahm
 zuhinterst
 zuhor
 zuhor
-zuhorerinn
+zuhor
 zuhor
 zuhort
 zukam
