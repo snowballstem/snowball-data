@@ -107,7 +107,7 @@ for my $v (sort keys %v) {
     # used to stem to its old stem now also stem to $s2.
     my %m = ();
     M: for my $w (@{$o2{$s2}}) {
-        # $w is a word which now stems to s2, $os is its old stem.
+        # $w is a word which now stems to $s2, $os is its old stem.
         my $os = ${$v{$w}}[0];
         $m{$os}++;
         for my $x (@{$o1{$os}}) {
@@ -136,7 +136,7 @@ for my $v (sort keys %v) {
     # now stem to its new stem also used to stem to $s1.
     my %s = ();
     S: for my $w (@{$o1{$s1}}) {
-        # $w is a word which used to stem to s1, $ns is its new stem.
+        # $w is a word which used to stem to $s1, $ns is its new stem.
         my $ns = ${$v{$w}}[1];
         $s{$ns}++;
         for my $x (@{$o2{$ns}}) {
