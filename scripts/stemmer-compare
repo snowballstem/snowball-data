@@ -2,9 +2,14 @@
 use warnings;
 use strict;
 use autodie;
-if (@ARGV != 3) {
+if (@ARGV < 1 || @ARGV > 3) {
     print <<"__END__";
 Syntax: $0 VOC OUT1 OUT2
+Syntax: $0 DIRECTORY [OUT2]
+
+If a DIRECTORY is specified, VOC is DIRECTORY/voc.txt and OUT1 is
+DIRECTORY/output.txt.  If OUT2 is omitted, it defaults to ../snowball/tmp.txt
+(which is where the output is left in the snowball testsuite fails).
 
 Compare the outputs OUT1 and OUT2 from stemming input VOC with a stemmer and
 with a modified version of that stemmer.
@@ -15,6 +20,14 @@ Example usage for evaluating a change made in a sibling snowball checkout:
 $0 english/voc.txt english/output.txt tmp.english.output.txt
 __END__
     exit(1);
+}
+
+if (@ARGV <= 2) {
+    my $directory = shift @ARGV;
+    unshift @ARGV, "$directory/voc.txt", "$directory/output.txt";
+    if (@ARGV == 2) {
+        push @ARGV, "../snowball/tmp.txt";
+    }
 }
 
 # 'svgz' would seem the best option, except it requires the web server to
