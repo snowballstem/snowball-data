@@ -245,6 +245,10 @@ if (keys %changes) {
         print HTML $_;
         while (<$SVG>) {
             next if /^<!--.*-->$/;
+            # Improve labels on arrows.
+            s!^<title>o_([^<]*)(?:\&#45;|-)\&gt;n_\1</title>!<title>$1</title>!;
+            s!^<title>o_([^<]*)(?:\&#45;|-)\&gt;n_([^<]*)</title>!<title>$1\x{2192}$2</title>!;
+            # Improve labels on nodes.
             s/<title>[on]_/<title>/g;
             print HTML $_;
         }
