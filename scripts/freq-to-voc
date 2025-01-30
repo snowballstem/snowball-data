@@ -1,0 +1,29 @@
+#!/usr/bin/perl -CS
+use warnings;
+use strict;
+use autodie;
+
+my $MIN_FREQ = 1;
+if (@ARGV == 1 && $ARGV[0] =~ /^[0-9]+$/) {
+    $MIN_FREQ = shift @ARGV;
+}
+
+if (@ARGV > 1) {
+    print STDERR <<"__END__";
+Usage: $0 [MIN_FREQ] < FREQ_FILE > VOC_FILE
+
+MIN_FREQ is the minimum number of occurrences needed for a word to be
+included.  The default is to include all words.
+__END__
+    exit ($ARGV[0] eq '--help' ? 0 : 1);
+}
+
+my @words;
+while (<>) {
+    chomp;
+    my ($freq, $word) = split /\t/, $_, 2;
+    push @words, $word if $freq >= $MIN_FREQ;
+}
+for (sort @words) {
+    print $_, "\n";
+}

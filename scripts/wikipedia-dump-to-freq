@@ -1,0 +1,187 @@
+#!/usr/bin/perl -CS
+use warnings;
+use strict;
+use autodie;
+use HTML::Entities;
+use MediaWiki::DumpFile;
+use Text::MediawikiFormat;
+
+# Minimum number of occurrences of a word.
+my $MIN_FREQ = 10;
+
+# Regex for letter (can be overridden to restrict to appropriate alphabet).
+my $LETTER_RE = '\p{Word}';
+
+my $file;
+if (@ARGV && $ARGV[0] !~ /^-/) {
+    if (@ARGV) {
+	$file = shift @ARGV;
+    }
+
+    if (@ARGV) {
+	$MIN_FREQ = shift @ARGV;
+    }
+
+    if (@ARGV) {
+	$LETTER_RE = shift @ARGV;
+	if ($LETTER_RE eq 'ascii') {
+	    $LETTER_RE = '[A-Za-z]';
+	} elsif ($LETTER_RE eq 'latin1') {
+	    $LETTER_RE = '[A-Za-z\x{c0}-\x{d6}\x{d8}-\x{f6}\x{f8}-\x{ff}]';
+	} elsif ($LETTER_RE eq 'latin2') {
+	    $LETTER_RE = '[A-Za-z\x{c1}\x{c2}\x{c4}\x{c7}\x{c9}\x{cb}\x{cd}\x{ce}\x{d3}\x{d4}\x{d6}\x{da}\x{dc}\x{dd}\x{df}\x{e1}\x{e2}\x{e4}\x{e7}\x{e9}\x{eb}\x{ed}\x{ee}\x{f3}-\x{f4}\x{f6}\x{fa}\x{fc}\x{fd}\x{102}-\x{107}\x{10c}-\x{111}\x{118}-\x{11b}\x{139}-\x{13a}\x{13d}\x{13e}\x{141}-\x{144}\x{147}\x{148}\x{150}\x{151}\x{154}\x{155}\x{158}-\x{15b}\x{15e}-\x{165}\x{16e}-\x{171}\x{179}-\x{17e}]';
+	} elsif ($LETTER_RE =~ /^[A-Za-z]+$/) {
+	    # Perl handles script names case-insensitively.
+	    $LETTER_RE = "\\p{Script: $LETTER_RE}";
+	} else {
+	    $LETTER_RE = "(?:$LETTER_RE)";
+	}
+    }
+}
+
+if (!defined $file || @ARGV) {
+    my $basedir = $0;
+    $basedir =~ s![^/]*$!!;
+    print <<"__END__";
+Usage: $0 MEDIAWIKI_DUMP_FILE [MIN_FREQ [SCRIPT]]
+
+MEDIAWIKI_DUMP_FILE is a mediawiki XML dump file, which can be uncompressed
+or compressed with bzip2, gzip, xz or zstd.
+
+MIN_FREQ is the minimum number of occurrences needed for a word to be
+included.  The default is 10.
+
+SCRIPT can be:
+
+* A Unicode script name (the first letter gets upper-cased and the Perl
+  regex used is: \\p{Script: ...} which generally seems suitable.  This
+  has been tested for at least: "armenian", "devanagari", "greek", "latin",
+  and "tamil".
+* "ascii" to match only ASCII letters.
+* "latin1" to match only Latin1 (ISO-8859-1) letters.
+* "latin2" to match only Latin2 (ISO-8859-2) letters.
+* A regular expression to match a letter in the script.
+
+If not specified, the default regex used is \\p{Word} which matches any
+Unicode "letter" character.
+
+The script only considers words which match the regex \\b(?:\$SCRIPT)+\b and
+are not changed by the Perl "lc" function.
+
+For example:
+
+Download a dump for language with ISO 639-1 language code XX (mirrors are
+available, see https://dumps.wikimedia.org/mirrors.html):
+
+wget https://dumps.wikimedia.org/XXwiki/latest/XXwiki-latest-pages-articles.xml.bz2
+$0 XXwiki-latest-pages-articles.xml.bz2 42 ascii > voc.freq
+
+This will output a line for each word, preceded by its frequency separated
+by a tab.  The words are in descending frequency order.  Only words occurring
+at least 42 times are included, and only ASCII letters are treated as word
+characters.
+
+You should specify an appropriate alphabet for the language.  The MIN_FREQ
+value at this stage just serves as a crude threshold - the default is
+probably reasonable for languages with a lot of wikipedia pages, but for
+languages with fewer pages you may want to set it as low as 2 (including
+words which only occur once is likely to include a lot of typos, etc
+without greatly improving the breadth of genuine words included).
+
+You can then scan down this output to find a plausible frequency to cut
+off at and use the companion script freq-to-voc to turn the output of this
+script into a sorted list of words which occur at least a specified
+number of times, which is the format of the voc.txt files in the snowball-data
+repo.  E.g. if your cut-off threshold is 123:
+
+${basedir}freq-to-voc 123 < voc.freq > voc.txt
+__END__
+    exit ($ARGV[0] eq '--help' ? 0 : 1);
+}
+
+my $reader_pid = 0;
+my $dump;
+if ($file =~ /\.xml$/) {
+    $reader_pid = $$;
+    open $dump, '<', $file;
+} elsif ($file =~ /\.xml\.bz2$/) {
+    $reader_pid = open $dump, '-|';
+    if ($reader_pid == 0) {
+	exec 'bzip2', '-dc', $file;
+    }
+} elsif ($file =~ /\.xml\.gz$/) {
+    $reader_pid = open $dump, '-|';
+    if ($reader_pid == 0) {
+	exec 'gzip', '-dc', $file;
+    }
+} elsif ($file =~ /\.xml\.xz$/) {
+    $reader_pid = open $dump, '-|';
+    if ($reader_pid == 0) {
+	exec 'xz', '-dc', $file;
+    }
+} elsif ($file =~ /\.xml\.zstd$/) {
+    $reader_pid = open $dump, '-|';
+    if ($reader_pid == 0) {
+	exec 'zstd', '-dc', $file;
+    }
+} else {
+    die "No handling for file type of '$file'\n";
+}
+
+my $fdinfo = "/proc/$reader_pid/fdinfo/3";
+my $input_size = -s $file;
+
+my %f;
+
+my $mw = MediaWiki::DumpFile->new;
+my $pages = $mw->fastpages($dump);
+my ($title, $body);
+my $c = 0;
+my $t = time;
+while (($title, $body) = $pages->next) {
+    if (++$c % 100000 == 0) {
+	my $e = time - $t;
+	printf STDERR "%d in %ds %d/hour : %s\n", $c, $e, int($c*3600/$e), $title;
+    }
+    if (defined $fdinfo && $c % 100 == 0) {
+	no autodie qw(open);
+	if (open my $f, '<', $fdinfo) {
+	    local $_ = <$f>;
+	    close $f;
+	    if (/^pos:\s*(\d+)/) {
+		use integer;
+		my $progress = 640 * $1 / $input_size;
+		my $full = $progress / 8;
+		my $part = $progress % 8;
+		print STDERR "\x{2588}" x $full;
+		print STDERR chr(0x2590 - $part) if $part;
+		print STDERR "\xb7" x (80 - $full - ($part > 0));
+		print STDERR "\r";
+	    }
+	}
+    }
+    local $_ = $body;
+    s!\{ (?: [^{}]++ | (?R) )* \}! !sxg;
+    s,<(?:\w+[^>]*/|!--.*?--)>,,sg;
+    s!<(\w+)[^>]*>.*?</\1 *>!!sg;
+    s!<.*?>!!sg;
+    s!\[\[(?:.*?\|)?([^|]*?)\]\]!$1!sg;
+    s!\[(?:.*? )?(.*?)\]!$1!sg;
+    decode_entities($_);
+    next if /^#REDIRECT\b/i;
+    next if /^__[A-Za-z]+__\s*$/;
+    while (/\b$LETTER_RE+\b/go) {
+	# Perl lc is Unicode-aware for strings with the UTF8 flag set (which it
+	# will be here).
+	++$f{lc($&)};
+    }
+}
+
+my @f;
+while (my @p = each %f) {
+    push @f, \@p if $p[1] >= $MIN_FREQ;
+}
+
+for my $p (sort {$b->[1] <=> $a->[1]} @f) {
+    print "$p->[1]\t$p->[0]\n";
+}
