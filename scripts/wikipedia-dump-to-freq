@@ -97,7 +97,7 @@ repo.  E.g. if your cut-off threshold is 123:
 
 ${basedir}freq-to-voc 123 < voc.freq > voc.txt
 __END__
-    exit ($ARGV[0] eq '--help' ? 0 : 1);
+    exit (@ARGV && $ARGV[0] eq '--help' ? 0 : 1);
 }
 
 my $reader_pid = 0;
