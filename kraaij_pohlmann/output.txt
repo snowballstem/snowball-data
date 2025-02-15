@@ -15354,8 +15354,8 @@ grootma
 grootmacht
 grootmama
 grootmarna
-grootmeest
-gròotmeest
+grootmee
+gròotmee
 grootmoeder
 grootouder
 grootpapa
@@ -15907,7 +15907,7 @@ hechtmiddel
 hecht
 hectar
 hectaar
-hect
+hectaar
 hectoliter
 hectoliter
 hedel
@@ -22920,7 +22920,7 @@ meestal
 meest
 meest
 meester
-meest
+meester
 meesuf
 meet
 meetapparatuur
@@ -27892,7 +27892,7 @@ opoffer
 oppas
 oppas
 oppasser
-oppas
+oppasser
 oppast
 oppast
 opper
@@ -33110,7 +33110,7 @@ schild
 schilder
 schilder
 schilder
-schild
+schilder
 schilderge
 schild
 schilder
@@ -39990,7 +39990,7 @@ verleg
 verleid
 verleid
 verleider
-verleid
+verleider
 verleid
 verleid
 verlelie
@@ -44680,7 +44680,7 @@ zandwin
 zandwinningsbedrijf
 zandwinningsbedrijf
 zang
-zang
+zanger
 zang
 zanik
 zanik
