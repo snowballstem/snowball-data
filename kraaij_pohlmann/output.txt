@@ -814,7 +814,7 @@ actie
 actiebereid
 actiecomité
 actiecomitees
-actiecomités
+actiecomité
 actiedoelwit
 actief
 actiefafval
@@ -2648,7 +2648,7 @@ atrazine
 atriumbouw
 atsign
 att
-attachés
+attaché
 attentie
 attest
 attesteer
@@ -6690,7 +6690,7 @@ cadmiumvrije
 caep
 caepi
 café
-cafés
+café
 cafetaria
 cairo
 caisson
@@ -18239,7 +18239,7 @@ inviteer
 inviteer
 inviteert
 inviter
-invités
+invité
 invloed
 invloed
 invloedrijk
@@ -30245,7 +30245,7 @@ problem
 procedé
 procédé
 procedeer
-procédés
+procédé
 procedur
 procedureel
 procedur
@@ -37453,7 +37453,7 @@ tracébesluit
 tracékeuze
 tracénota
 tracer
-tracés
+tracé
 tracévariant
 tracéwet
 tracht
@@ -37608,7 +37608,7 @@ treinproject
 treinreis
 treinreis
 treinstation
-treintracés
+treintracé
 treinverkeer
 treinwagon
 treiter
