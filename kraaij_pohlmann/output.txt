@@ -714,7 +714,7 @@ acetaat
 aceton
 acetoncyaanhydrine
 ach
-acheloö
+acheloös
 achievabl
 achievements
 acht
@@ -814,7 +814,7 @@ actie
 actiebereid
 actiecomité
 actiecomitees
-actiecomité
+actiecomités
 actiedoelwit
 actief
 actiefafval
@@ -1864,13 +1864,13 @@ allaert
 allah
 allang
 al
-àlle
+àl
 allebei
 alledaags
 allee
 alleen
-allé
-allè
+alléen
+allèen
 alleén
 alléén
 alleenop
@@ -2419,7 +2419,7 @@ area
 areaal
 areas
 arebei
-arebèien
+arebèi
 aar
 arloos
 arntijns
@@ -2648,7 +2648,7 @@ atrazine
 atriumbouw
 atsign
 att
-attaché
+attachés
 attentie
 attest
 attesteer
@@ -5304,7 +5304,7 @@ blank
 blank
 blansch
 blaar
-blâren
+blââr
 blauw
 blauw
 blauwe
@@ -5647,7 +5647,7 @@ bogor
 boheem
 bohémien
 bohin
-böhlen
+böhl
 boiler
 boiler
 bok
@@ -6690,7 +6690,7 @@ cadmiumvrije
 caep
 caepi
 café
-café
+cafés
 cafetaria
 cairo
 caisson
@@ -7744,7 +7744,7 @@ controlekost
 controlelijst
 controlepunt
 controler
-contrôleer
+contrôler
 controler
 controol
 controleschema
@@ -7832,7 +7832,7 @@ corrup
 corruptie
 corsa
 corset
-corvée
+corvées
 cos
 cosmopoliet
 cosmopolitisch
@@ -7884,7 +7884,7 @@ creatinine
 creativ
 creative
 creatuur
-crèches
+crèche
 creëert
 creër
 creil
@@ -7917,7 +7917,7 @@ crockett
 cromstrij
 crone
 crosfield
-croût
+croûte
 crow
 crowcon
 crowd
@@ -8338,8 +8338,8 @@ delijk
 délijk
 dèlijk
 delijk
-délijke
-délijker
+délijk
+délijk
 delijk
 delijk
 delijk
@@ -8460,7 +8460,7 @@ denkbar
 denkbeel
 denkelijk
 denk
-dènken
+dènk
 denk
 denk
 denkensstilt
@@ -9902,7 +9902,7 @@ duracell
 durban
 dure
 duur
-düren
+düür
 duur
 duur
 durf
@@ -10935,7 +10935,7 @@ england
 enichem
 een
 een
-énige
+één
 enigszin
 enist
 enkel
@@ -11168,7 +11168,7 @@ estuariene
 estuarium
 esva
 et
-étage
+étag
 étagèr
 étagêr
 etalag
@@ -11178,7 +11178,7 @@ etbe
 etc
 etcetera
 eet
-éten
+éét
 eet
 etensrest
 etenstijd
@@ -11278,7 +11278,7 @@ evaluer
 evd
 evebat
 eef
-éven
+ééf
 even
 evenal
 eveneen
@@ -11926,7 +11926,7 @@ fluctueer
 fluctueert
 fluctuer
 fluid
-fluï
+fluïde
 fluidised
 fluidized
 fluim
@@ -12882,7 +12882,7 @@ gee
 ëerbiedig
 ëerbied
 geef
-geëf
+ëf
 ef
 ëig
 ëig
@@ -12907,7 +12907,7 @@ géén
 ëngageer
 ënquêteer
 en
-geënt
+ën
 ënter
 ëquilibreer
 ërger
@@ -12983,7 +12983,7 @@ glimp
 gloeid
 goede
 golf
-gegòlfd
+gòlf
 golf
 gooid
 goot
@@ -13080,8 +13080,8 @@ implanteer
 ïmpregneer
 gein
 ïncrusteer
-geïnd
-geïnd
+ïn
+ïn
 ïndustrialiseer
 ïnfiltreer
 ïnformeer
@@ -13143,7 +13143,7 @@ klaag
 klede
 kleed
 klem
-geklê
+klês
 klets
 kleur
 kleur
@@ -13594,7 +13594,7 @@ netisch
 netisch
 neurie
 neutraliseer
-genève
+nève
 nees
 nees
 nformeer
@@ -13869,7 +13869,7 @@ gerrk
 gerst
 gertr
 rtrude
-gertrù
+rtrùde
 rucht
 rucht
 ruchtmaak
@@ -13900,7 +13900,7 @@ schat
 gesc
 schemer
 scheen
-geschén
+schéén
 schenk
 schep
 schets
@@ -13953,7 +13953,7 @@ selecteer
 seel
 seel
 sel
-gesèl
+sèl
 sellschaf
 sel
 shredder
@@ -14296,7 +14296,7 @@ volg
 volg
 volgtrek
 von
-gevónd
+vón
 vorder
 vor
 vorm
@@ -14424,7 +14424,7 @@ zan
 zeef
 zeef
 zeg
-gezègd
+zèg
 zeg
 zegel
 zevier
@@ -15400,7 +15400,7 @@ gruizelreeg
 grumbly
 grundfos
 grüne
-grünen
+grüün
 gruppe
 gruwel
 gruwelijk
@@ -15831,7 +15831,7 @@ hatelijk
 haat
 haat
 haule
-hausgerät
+hausrät
 haut
 have
 havel
@@ -15892,7 +15892,7 @@ heavy
 heb
 hèb
 heb
-hèbben
+hèb
 heb
 hebh
 hebreeuw
@@ -16541,7 +16541,7 @@ hosnelheidslijn
 hosnelheidstrein
 hosnelheidstrein
 höhn
-höhns
+höhn
 hok
 hok
 hok
@@ -16569,7 +16569,7 @@ hóllands
 hòllands
 holland
 hol
-hölle
+höl
 hol
 holman
 holstein
@@ -17216,7 +17216,7 @@ iers
 iet
 ièt
 iet
-ièts
+ièt
 iets
 ietwat
 if
@@ -18239,7 +18239,7 @@ inviteer
 inviteer
 inviteert
 inviter
-invité
+invités
 invloed
 invloed
 invloedrijk
@@ -18558,7 +18558,7 @@ japon
 japon
 japon
 jaar
-járen
+jáár
 jarenlang
 jarenlang
 jaar
@@ -18631,12 +18631,12 @@ jong
 jòng
 jongblauwe
 jong
-jònge
+jòng
 jonheer
 jongelui
 jonmeisjesdroom
 jong
-jòngen
+jòng
 jongen
 jongensge
 jonnsgezicht
@@ -19639,7 +19639,7 @@ klep
 klep
 klepper
 kleer
-kléren
+kléér
 klerenkast
 klet
 klets
@@ -20544,7 +20544,7 @@ kund
 kund
 kund
 kun
-kùnnen
+kùn
 kun
 kunst
 kunstband
@@ -21426,7 +21426,7 @@ levantestreek
 leve
 level
 leef
-léven
+lééf
 leef
 levendbaar
 leef
@@ -21503,7 +21503,7 @@ levy
 leys
 leyt
 lees
-lèzen
+lèès
 lees
 lees
 lezer
@@ -21629,7 +21629,7 @@ lieshout
 liesveld
 liet
 liet
-liè
+lièt
 lieu
 lieve
 lievel
@@ -22189,7 +22189,7 @@ lutterade
 luttmer
 luvo
 luw
-lùwen
+lùw
 luwt
 luxe
 luxemburg
@@ -22368,7 +22368,7 @@ mainport
 mainports
 maintenance
 mainz
-maï
+maïs
 maïskolvenschroot
 maïsland
 maisonnet
@@ -23135,7 +23135,7 @@ menselijk
 menselijk
 menselijk
 mens
-mènsen
+mèns
 mensenhaar
 mensenkennis
 mensenleef
@@ -24312,7 +24312,7 @@ moet
 mòet
 moèt
 moet
-mòeet
+mòet
 moèt
 mof
 mogadishu
@@ -24367,7 +24367,7 @@ momenteel
 moment
 momentenmethode
 mompel
-mönchen
+mönch
 mönchengladbach
 mond
 mondainitei
@@ -24611,12 +24611,12 @@ multistaproce
 multiway
 mum
 mummie
-münchen
+münch
 munich
 municipal
 munsflow
 mun
-münster
+mün
 münsterland
 munt
 munt
@@ -25154,7 +25154,7 @@ negeer
 negeer
 neer
 neeg
-négen
+néég
 neeg
 negeen
 nenhonder
@@ -25316,7 +25316,7 @@ niet
 niet
 nietleef
 niet
-nièts
+nièt
 nietsbetekeen
 nietszeg
 niettenstaand
@@ -26839,7 +26839,7 @@ onrust
 onrust
 onrustpolder
 on
-òns
+òn
 onsamenhang
 onschadelijk
 onschadelijk
@@ -28404,7 +28404,7 @@ overbracht
 overdacht
 overdraag
 overef
-overgeërf
+overërf
 overgaan
 overhaal
 overhevel
@@ -30245,7 +30245,7 @@ problem
 procedé
 procédé
 procedeer
-procédé
+procédés
 procedur
 procedureel
 procedur
@@ -30916,7 +30916,7 @@ ran
 ransuil
 rantsoensamenstel
 ranze
-raoûts
+raoût
 rap
 raap
 rappe
@@ -31265,7 +31265,7 @@ reef
 reehorst
 reek
 reek
-reël
+reële
 reëler
 reep
 rees
@@ -32167,7 +32167,7 @@ rol
 rol
 rolf
 rolluid
-röling
+rööl
 roll
 rollaag
 rol
@@ -32419,7 +32419,7 @@ rue
 rug
 rugby
 rugdek
-rügen
+rüüg
 rünwasser
 ruggraat
 rug
@@ -32799,7 +32799,7 @@ scarborough
 scenario
 scenarioberekeen
 scène
-scènes
+scène
 scepsis
 sceptic
 scepticism
@@ -32992,7 +32992,7 @@ scheldt
 scheldwoord
 schele
 scheel
-schèlen
+schèèl
 schel
 scheller
 schel
@@ -34212,7 +34212,7 @@ snijd
 snijd
 snijder
 snijkamerafmet
-snijmaï
+snijmaïs
 snik
 snikke
 snik
@@ -34295,7 +34295,7 @@ soil
 soil
 soir
 soirée
-soirée
+soirées
 soit
 soja
 sojaboon
@@ -34521,7 +34521,7 @@ spel
 spel
 spelderholt
 speel
-spélen
+spéél
 speel
 speel
 speler
@@ -34721,7 +34721,7 @@ spreid
 sprei
 spreitzer
 spreek
-spréken
+spréék
 spreek
 spreker
 sprenkel
@@ -34893,7 +34893,7 @@ stadsverwarmingsproject
 stadswarmt
 stadswerk
 stadswijk
-städtische
+städtisch
 stadtwerke
 staf
 staffe
@@ -36446,7 +36446,7 @@ tegel
 temoet
 temoetkoom
 teeg
-tégen
+téég
 tenaanval
 tendeel
 tendruk
@@ -36938,7 +36938,7 @@ thuiskoom
 thuiskwam
 thuismark
 thuiswerk
-thüring
+thüür
 thüringer
 thuringiensis
 thüringsche
@@ -37453,7 +37453,7 @@ tracébesluit
 tracékeuze
 tracénota
 tracer
-tracé
+tracés
 tracévariant
 tracéwet
 tracht
@@ -37608,7 +37608,7 @@ treinproject
 treinreis
 treinreis
 treinstation
-treintracé
+treintracés
 treinverkeer
 treinwagon
 treiter
@@ -39118,7 +39118,7 @@ velduitbreid
 vele
 véle
 veel
-vélen
+véél
 velerlei
 veligheidsinformatieblaad
 vel
@@ -39623,7 +39623,7 @@ verzel
 verzel
 verzicht
 verzicht
-verghelék
+vergheléék
 vergheet
 vergheef
 vergiffenis
@@ -41876,7 +41876,7 @@ voorkeurstracé
 voorkeurstraject
 voorkom
 voorkoom
-voorkóm
+voorkóóm
 vóórkoom
 voorkoom
 voorkoom
@@ -43454,7 +43454,7 @@ weke
 wekelijk
 wekelijks
 week
-wéken
+wéék
 weker
 wek
 wekkerradio
@@ -43782,7 +43782,7 @@ wet
 wetboek
 wetbudep
 weet
-wéten
+wéét
 wetèn
 weet
 weet
@@ -44403,7 +44403,7 @@ woordwein
 word
 wórd
 wor
-wòrden
+wòr
 word
 word
 word
@@ -44798,7 +44798,7 @@ zevier
 zevier
 zevier
 zeg
-zèggen
+zèg
 zeg
 zeg
 zegnschap
@@ -45352,7 +45352,7 @@ zoos
 zotteklap
 zou
 zoud
-zoù
+zoùd
 zoudt
 zout
 zoute
@@ -45476,7 +45476,7 @@ zulk
 zulke
 zulk
 zul
-zùllen
+zùl
 zult
 zum
 zure
