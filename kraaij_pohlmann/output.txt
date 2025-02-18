@@ -1836,7 +1836,7 @@ alg
 alndoek
 algengroei
 alnvorm
-alrije
+algerije
 alrijns
 algrauwe
 alhoewel
@@ -12800,7 +12800,7 @@ dien
 dier
 diffameer
 differentieer
-dij
+gedij
 dijt
 dimensioneer
 dineer
