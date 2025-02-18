@@ -7886,7 +7886,7 @@ creative
 creatuur
 crèche
 creëert
-creeer
+creëer
 creil
 crem
 cremeer
@@ -17182,7 +17182,7 @@ ideality
 ideas
 idee
 ideeën
-ideeel
+ideëel
 idees
 idem
 identiek
@@ -31138,7 +31138,7 @@ recreatievaart
 recreeer
 recreatiewoon
 recreatiewoon
-recreeer
+recreëer
 rectificeer
 recupereer
 recupereer
