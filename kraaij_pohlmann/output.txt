@@ -2337,7 +2337,7 @@ application
 appraisal
 apprecieer
 apprecieert
-appreciër
+apprecieer
 approach
 april
 apv
@@ -2864,7 +2864,7 @@ backer
 backus
 baco
 bacterie
-bacteriël
+bacterieel
 bacterielef
 bacteriën
 bacteriepopuleer
@@ -6928,7 +6928,7 @@ ceralia
 cercariën
 cerebraal
 ceremonie
-ceremoniël
+ceremonieel
 ceremoniëler
 cerestar
 cerf
@@ -7350,7 +7350,7 @@ commercial
 commercialiser
 commercialiser
 commercieel
-commerciël
+commercieel
 commie
 commissariaat
 commissaris
@@ -7755,12 +7755,12 @@ controlewijzer
 controller
 control
 controvers
-controversiël
+controversieel
 convenant
 convenant
 convenantenpolitiek
 convenieert
-conveniër
+convenieer
 conventie
 convention
 conventionaal
@@ -7886,7 +7886,7 @@ creative
 creatuur
 crèche
 creëert
-creër
+creeer
 creil
 crem
 cremeer
@@ -8324,8 +8324,8 @@ defensief
 defensiebied
 defensietechnoloog
 defensief
-definiër
-definiër
+definieer
+definieer
 definitie
 definitief
 definitief
@@ -8929,7 +8929,7 @@ discussiepartner
 discussieplatform
 discussiepunt
 discussiepunt
-discussiër
+discussieer
 discussie
 discutabel
 disnoot
@@ -11154,7 +11154,7 @@ es
 essence
 essencestank
 essentieel
-essentiël
+essentieel
 esser
 esso
 essoraffinaad
@@ -11257,7 +11257,7 @@ eurotainer
 eurotunnel
 eurovignet
 eurowoon
-eutrofiër
+eutrofieer
 eutrofiëringsmodel
 evacueer
 evacuatieplan
@@ -11402,7 +11402,7 @@ explosief
 explosion
 explosif
 expo
-exponentiël
+exponentieel
 export
 exportartikel
 exportbedrijf
@@ -11772,7 +11772,7 @@ finance
 financial
 financieel
 financieel
-financiël
+financieel
 financiën
 financier
 financier
@@ -15786,7 +15786,7 @@ harmel
 harmelerwaard
 harmonie
 harmonieer
-harmoniër
+harmonieer
 harmonieuze
 harmoniseer
 harmonisch
@@ -17182,7 +17182,7 @@ ideality
 ideas
 idee
 ideeën
-ideël
+ideeel
 idees
 idem
 identiek
@@ -17345,7 +17345,7 @@ imiteer
 imiteer
 imitation
 imiter
-immateriël
+immaterieel
 immen
 immens
 immens
@@ -17514,8 +17514,8 @@ industriegigant
 industriehaaf
 industrieland
 industrielawaai
-industriël
-industriël
+industrieel
+industrieel
 industriepolitieke
 industrier
 industrie
@@ -17762,8 +17762,8 @@ initiatiefnemer
 initiatief
 initiative
 initiator
-initiël
-initiër
+initieel
+initieer
 injecteert
 injecteer
 injectie
@@ -17871,7 +17871,7 @@ innoven
 innover
 innover
 inode
-inofficiël
+inofficieel
 inpak
 inpalm
 inpas
@@ -18749,7 +18749,7 @@ jurist
 jury
 jus
 justitie
-justitiël
+justitieel
 juut
 jutland
 juwel
@@ -22682,7 +22682,7 @@ material
 material
 materie
 materieel
-materiël
+materieel
 matha
 mat
 mathematisch
@@ -23447,7 +23447,7 @@ michigan
 micon
 micro
 microob
-microbiël
+microbieel
 microbioloog
 microbiologisch
 microbiologisch
@@ -24080,7 +24080,7 @@ min
 mini
 ministerconferentie
 ministerie
-ministeriël
+ministerieel
 ministerie
 ministerraad
 mini
@@ -25306,7 +25306,7 @@ nieert
 niellé
 niemand
 niendorf
-niër
+nieer
 niet
 niét
 nièt
@@ -25881,7 +25881,7 @@ official
 official
 officieel
 officieel
-officiël
+officieel
 officier
 officier
 officierstafel
@@ -28631,7 +28631,7 @@ overstroom
 overstroom
 overstroom
 overstuur
-oversubsidiër
+oversubsidieer
 overteek
 overtocht
 overtol
@@ -28942,7 +28942,7 @@ parelsnoer
 paar
 parfumer
 paribas
-pariër
+parieer
 parijs
 parijs
 paris
@@ -28986,7 +28986,7 @@ particulier
 particulier
 particulier
 partie
-partiël
+partieel
 partij
 partij
 partijkeur
@@ -29945,7 +29945,7 @@ potentiaal
 potentiaalverschil
 potentie
 potentieel
-potentiël
+potentieel
 potentie
 potgrond
 pothoof
@@ -30184,7 +30184,7 @@ princeton
 principe
 principe
 principieel
-principiël
+principieel
 principl
 principl
 prin
@@ -31138,7 +31138,7 @@ recreatievaart
 recreeer
 recreatiewoon
 recreatiewoon
-recreër
+recreeer
 rectificeer
 recupereer
 recupereer
@@ -35978,15 +35978,15 @@ subsidiepot
 subsidieprogramma
 subsidieregeel
 subsidieregeel
-subsidiër
-subsidiër
+subsidieer
+subsidieer
 subsidie
 subsidiesysteem
 subsone
 substance
 substantie
 substantieel
-substantiël
+substantieel
 substantiëler
 substitutie
 substraat
@@ -38857,8 +38857,8 @@ varieer
 varieer
 varieer
 varieert
-variër
-variër
+varieer
+varieer
 variëteit
 varir
 varkelsingel
@@ -39795,7 +39795,7 @@ verificeer
 verificer
 verifieer
 verifieerbar
-verifiër
+verifieer
 verijl
 verijl
 verijl
