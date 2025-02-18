@@ -1741,7 +1741,7 @@ airmil
 airport
 air
 airstrip
-airway
+airways
 aisance
 aj
 ajakke
@@ -2571,7 +2571,7 @@ aspirotor
 asrug
 assainissement
 assay
-assay
+assays
 asselberg
 assem
 assemblag
@@ -6423,7 +6423,7 @@ brüter
 bruto
 bruusk
 bruut
-bruy
+bruys
 bs
 bsa
 bsb
@@ -7212,7 +7212,7 @@ clausuul
 clayton
 clb
 clean
-cleanaway
+cleanaways
 cleaner
 clean
 cleanroom
@@ -7897,7 +7897,7 @@ creosoot
 creosootolie
 cresson
 crest
-crey
+creys
 cri
 cricket
 cricketclub
@@ -7922,7 +7922,7 @@ crow
 crowcon
 crowd
 crown
-croy
+croyd
 cruciaal
 crucial
 cruise
@@ -11147,7 +11147,7 @@ esp
 espoo
 esprit
 essai
-essay
+essays
 esseboom
 esselink
 es
@@ -14307,7 +14307,7 @@ vraag
 vrees
 vrees
 vreet
-vrey
+gevrey
 vrijwaar
 vudo
 vulcaniseer
@@ -14411,7 +14411,7 @@ wreef
 wricht
 wrok
 wuif
-gey
+ysel
 zaag
 zaaid
 zag
@@ -15405,7 +15405,7 @@ gruppe
 gruwel
 gruwelijk
 gruwelijk
-gruyèr
+gruyère
 gs
 gt
 gti
@@ -17092,7 +17092,7 @@ huw
 huwlijk
 huydekoper
 huyg
-huy
+huys
 huzaar
 huzaar
 huzarenuniform
@@ -19087,7 +19087,7 @@ kavelruil
 kavelsloot
 kaviaar
 kawasaki
-kaay
+kayen
 kazachstan
 kaas
 kazerne
@@ -20894,7 +20894,7 @@ lager
 lager
 largeschool
 lager
-larwey
+lagerwey
 lagune
 laidlaw
 lak
@@ -22723,7 +22723,7 @@ maximum
 maximumgren
 maximumsnel
 maximumsnel
-maay
+mayen
 mayr
 mazda
 mbb
@@ -29066,7 +29066,7 @@ pawex
 pax
 paxon
 pay
-pay
+pays
 pb
 pbeg
 pbts
@@ -32372,7 +32372,7 @@ rowland
 rowohlt
 royaal
 royal
-royaal
+royale
 roze
 rozekleur
 roos
@@ -36061,7 +36061,7 @@ sumatra
 sumimoto
 sumito
 sumitomo
-summerhaye
+summerhayes
 summier
 sump
 sun
@@ -39739,7 +39739,7 @@ verhemelt
 verheugd
 verheug
 verheef
-verheey
+verheyen
 verhief
 verhief
 verhinderd
@@ -44561,9 +44561,9 @@ your
 ype
 ysselstein
 ysselsteyn
-ytsen
+yts
 yunnan
-yves
+yve
 z
 zaad
 zaadbalkanker
