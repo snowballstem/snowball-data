@@ -11466,6 +11466,7 @@ eyck
 ez
 ezh
 ezw
+ève
 f
 faalde
 faam
@@ -20894,7 +20895,6 @@ lager
 lagere
 lagergeschoolden
 lagers
-lagerweij
 lagerwey
 lagune
 laidlaw
