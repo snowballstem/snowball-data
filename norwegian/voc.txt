@@ -772,6 +772,11 @@ avdraga
 avdragsplanen
 avdød
 avdødes
+avers
+aversane
+aversar
+aversen
+averser
 averterer
 avfall
 avfallshandtering
@@ -10974,6 +10979,9 @@ merkostnader
 merksam
 merksame
 merkverdig
+mers
+mersa
+merset
 merutgiftene
 messing
 mest
@@ -12739,6 +12747,7 @@ overprøvinga
 overraskelse
 overraskende
 overrasket
+overs
 oversendelsesforslag
 oversendes
 oversendt
@@ -13148,6 +13157,11 @@ permittering
 permitteringer
 permittert
 permitterte
+pers
+persane
+persar
+persen
+perser
 person
 personane
 personar
@@ -17478,6 +17492,11 @@ terminer
 terminvise
 terne
 terner
+ters
+tersane
+tersar
+tersen
+terser
 terskelverdier
 tett
 tettbebyggelsen
@@ -19988,6 +20007,9 @@ vernet
 vernetiltak
 verneverdier
 verre
+vers
+versa
+verset
 versjonen
 verst
 verste

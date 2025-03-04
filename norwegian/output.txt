@@ -772,6 +772,11 @@ avdrag
 avdragsplan
 avdød
 avdød
+avers
+avers
+avers
+avers
+avers
 averter
 avfall
 avfallshandtering
@@ -10974,6 +10979,9 @@ merkostnad
 merksam
 merksam
 merkverd
+mers
+mers
+mers
 merutgift
 messing
 mest
@@ -12739,6 +12747,7 @@ overprøving
 overrask
 overrask
 overrask
+overs
 oversendelsesforslag
 overs
 oversend
@@ -13148,6 +13157,11 @@ permittering
 permittering
 permitter
 permitter
+pers
+pers
+pers
+pers
+pers
 person
 person
 person
@@ -17478,6 +17492,11 @@ termin
 terminvis
 tern
 tern
+ters
+ters
+ters
+ters
+ters
 terskelverdi
 tett
 tettbebygg
@@ -18486,7 +18505,7 @@ tverrbjelk
 tverrgå
 tverrpolitisk
 tverrsektoriell
-tver
+tvers
 tvert
 tvertimot
 tvi
@@ -19988,6 +20007,9 @@ vern
 vernetiltak
 verneverdi
 verr
+vers
+vers
+vers
 versjon
 verst
 verst
@@ -20344,7 +20366,7 @@ yggdrasil
 yh
 yin
 ymer
-ymer
+ymers
 yms
 yngr
 yngst
