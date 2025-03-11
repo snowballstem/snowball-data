@@ -11332,7 +11332,7 @@ cim
 cim
 cim
 cim
-cin
+ci
 cinabr
 cinam
 cinamaldehid
@@ -12870,7 +12870,7 @@ dek-naŭ
 dek-ok
 dek-ses
 dek-tri
-dek-un
+dek-unu
 dek-unu
 dek
 dekadenc
@@ -26178,7 +26178,7 @@ gimnazi
 gimnokreks
 gimnosperm
 gimnazium
-gin
+gi
 ginekologi
 ginekologi
 ginekolog
@@ -27312,7 +27312,7 @@ gvid
 gvine
 ĝ
 ĝi
-ĝin
+ĝi
 gy
 gyakorlat
 gyakorlata
@@ -28377,7 +28377,7 @@ himn
 himnoverkist
 himnoverkist
 himself
-hin
+hi
 hind
 hind
 hind
@@ -42170,7 +42170,7 @@ limvalor
 limzon
 limŝton
 limŝton
-lin
+li
 lin
 linalil
 linalol
@@ -47753,7 +47753,7 @@ milv
 mim
 mimik
 mim
-min
+mi
 min
 minac
 minacad
@@ -51651,7 +51651,7 @@ nimf
 nimf
 nim
 nim
-nin
+ni
 nincs
 nineteenth
 ningun
@@ -53648,7 +53648,7 @@ onidir
 onidir
 onies
 oniks
-onin
+oni
 oni
 onklin
 onklin
@@ -65583,7 +65583,7 @@ rim
 rim
 rim
 rim
-rin
+ri
 rincon
 ring
 ring
@@ -69477,7 +69477,7 @@ simul
 simulil
 simultan
 simum
-sin
+si
 sin
 sinagog
 sinagog
@@ -80519,7 +80519,7 @@ vilagaban
 vimen
 vime
 vimpl
-vin
+vi
 vin
 vinagr
 vinagr
@@ -82911,14 +82911,14 @@ uton
 ĉi-supr
 ĉi-supr
 ĉi-tem
-ĉi-ti
 ĉi-tie
 ĉi-tie
-ĉi-ti
-ĉi-ti
-ĉi-ti
-ĉi-tiuj
-ĉi-tiun
+ĉi-tie
+ĉi-tie
+ĉi-tio
+ĉi-tiu
+ĉi-tiu
+ĉi-tiu
 ĉi-vesper
 ĉia
 ĉia
@@ -83354,7 +83354,7 @@ uton
 ĝibul
 ĝig
 ĝihadist
-ĝin
+ĝi
 ĝin
 ĝinz
 ĝinz
@@ -83967,7 +83967,7 @@ uton
 ŝim
 ŝim
 ŝim
-ŝin
+ŝi
 ŝind
 ŝind
 ŝink
