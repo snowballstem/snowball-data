@@ -2,9 +2,8 @@ voc.txt is licensed as CC BY-SA.
 
 voc.txt was derived in part from a dump of the Esperanto Wikipedia like so:
 
-scripts/wikipedia-dump-to-freq eowiki-latest-pages-articles.xml.bz2 10 '[-0-9a-z\x{E1}\x{E9}\x{ED}\x{F3}\x{FA}\x{109}\x{11D}\x{125}\x{135}\x{15D}\x{16D}]' \
-| grep -v $'\t-\\|-$\\|\t[-0-9]*$' > voc.freq
-scripts/freq-to-voc < voc.freq > voc.txt
+scripts/wikipedia-dump-to-freq eowiki-latest-pages-articles.xml.bz2 10 '[-0-9a-z\x{E1}\x{E9}\x{ED}\x{F3}\x{FA}\x{109}\x{11D}\x{125}\x{135}\x{15D}\x{16D}]' > voc.freq
+scripts/freq-to-voc < voc.freq | grep -v '^-\|-$\|^[-0-9]*$' > voc.txt
 
 The dump used was dated 2025-03-01.
 
