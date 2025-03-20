@@ -175,7 +175,7 @@ for my $v (sort keys %v) {
     push @{$changes{"$s1\0$s2"}}, $v;# if $s1 ne $s2;
 }
 
-open HTML, '>:encoding(UTF-8)', 'compare.html' or die $!;
+open HTML, '>:encoding(UTF-8)', 'compare.html';
 
 print HTML "<html><head><meta charset='utf-8'><title>";
 print HTML encode_entities("stemmer-compare $voc $out1 $out2");
@@ -227,7 +227,7 @@ my ($ext) = ($image_format =~ /^([^:]+)/);
 my $image_file = "compare.$ext";
 if (keys %changes) {
     printf HTML "<li>%d words moving between stem groups:\n", scalar(keys %changes);
-    open DOT, "|-:encoding(UTF-8)", "dot -T$image_format -o \Q$image_file\E" or die $!;
+    open DOT, "|-:encoding(UTF-8)", "dot -T$image_format -o \Q$image_file\E";
     print DOT "digraph {\nrankdir=LR\nnode [shape=box]\n";
     for (reverse sort keys %changes) {
         my ($s1, $s2) = split /\0/;
@@ -248,7 +248,7 @@ if (keys %changes) {
         print DOT "$s1 -> $s2\n"
     }
     print DOT "}\n";
-    close DOT or die $!;
+    close DOT;
     if ($image_inline && $image_format eq 'svg') {
         print HTML "<br>";
         open my $SVG, '<:encoding(UTF-8)', $image_file;
