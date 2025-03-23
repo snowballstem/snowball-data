@@ -141,7 +141,7 @@ aerograf
 aeroklub
 aeronautk
 aeronomij
-aerostat
+aerostatyczn
 aerostatyko
 aerostep
 aerotropizm
@@ -202,7 +202,7 @@ agresyjn
 agrocentrum
 agrochemicznym
 agrofizyczne
-agrofiz
+agrofizyczn
 agrogaz
 agrolotniczk
 agronomówk
@@ -475,7 +475,7 @@ amnestyjn
 amoniakowane
 amonifikacjo
 amorf
-amotor
+amotoryczn
 amper
 amperomierz
 amper
@@ -503,7 +503,7 @@ anachoret
 anadromiczn
 anadyrsk
 anaerob
-anafilakt
+anafilaktyczn
 anafrodyzj
 anagramat
 anagramow
@@ -534,7 +534,7 @@ ananińskim
 anankazm
 anaplazj
 anarch
-anarch
+anarchiczn
 anarchizow
 anastrofo
 anastygmat
@@ -613,7 +613,7 @@ anoduj
 anodyzow
 anodyzuj
 anoksem
-anom
+anomiczn
 anonimizowań
 anonimowc
 anonimowość
@@ -698,7 +698,7 @@ antynowotwor
 antyodleżyn
 antyoksydacyjne
 antyormiańsk
-antypan
+antypaniczn
 antypapieros
 antypolonizm
 antypolsc
@@ -742,7 +742,7 @@ aparatur
 apartheid
 aparycyjn
 apatetyczn
-apatet
+apatetyczn
 apati
 apeiron
 apelatiw
@@ -782,7 +782,7 @@ aporetyczne
 aport
 aportowan
 apostatyczn
-aposterior
+aposterioryczn
 apostolat
 apoteozowanym
 apoteozuj
@@ -821,7 +821,7 @@ arabsk
 arachidon
 arachidon
 arachnofobi
-arachnolog
+arachnologiczn
 arachnolog
 araraun
 araukaryj
@@ -1078,7 +1078,7 @@ autodydakt
 autodyscyplino
 autofagocytoz
 autofil
-autog
+autogamiczn
 autogenn
 autogoni
 autograficzn
@@ -1237,7 +1237,7 @@ baligrodzian
 baligrodziank
 bal
 balistyk
-ballad
+balladyczn
 balladyśc
 balneodietetyk
 balneolodz
@@ -1372,7 +1372,7 @@ batorsk
 batożyc
 battledress
 batybiont
-batygraf
+batygraficzn
 batymetrycznym
 batyst
 baud
@@ -1744,7 +1744,7 @@ bioakustyk
 bioastronautyk
 biocenotyk
 biocenoz
-biochem
+biochemiczn
 biochip
 biodegradowaln
 biodynamicznym
@@ -1790,7 +1790,7 @@ biosyntetycznym
 biotechniczn
 biotechnolog
 bioterroryzm
-biot
+biotyczn
 bipolaryzm
 birbantow
 biret
@@ -2346,7 +2346,7 @@ buław
 bułczyn
 bułgarsk
 bułgarszczyzn
-bułgaryst
+bułgarystyczn
 bułgarystyk
 bułgaryzow
 bułkow
@@ -2633,7 +2633,7 @@ chciejstw
 cheironomiczn
 cheironom
 chemiczk
-chem
+chemiczn
 chemik
 chemiochłonn
 chemioodporn
@@ -3083,7 +3083,7 @@ cok
 cokan
 coko
 collage
-comiesi
+comiesięczn
 comiesięcznym
 concertin
 cong
@@ -3942,7 +3942,7 @@ dichroit
 dictamen
 dicynodont
 diecezjank
-dieget
+diegetyczn
 diegetycznym
 dier
 difenyl
@@ -6395,7 +6395,7 @@ fotar
 fotergill
 fotoamator
 fotobloger
-fotochem
+fotochemiczn
 fotochem
 fotochemigrafio
 fotoefekt
@@ -6435,7 +6435,7 @@ fototechnik
 fototerap
 fototoksyczn
 fototraser
-fototrop
+fototropiczn
 fototropijne
 fototyp
 fotowoltaik
@@ -7598,7 +7598,7 @@ hekatompedon
 hekatonchejr
 heksabiblos
 heksabioz
-heksametr
+heksametryczn
 heksod
 heksod
 heksodz
@@ -7744,7 +7744,7 @@ hiphop
 hiphopowc
 hiphopowc
 hipnagogiczn
-hipnagog
+hipnagogiczn
 hipnoanalgezje
 hipnotyzer
 hipnotyzujcież
@@ -7813,7 +7813,7 @@ homerologicznym
 homeryczn
 homiletyczne
 homodontyczn
-homodont
+homodontyczn
 homogenat
 homoglikan
 homologacyjnym
@@ -7823,7 +7823,7 @@ homolog
 homologujże
 homomorfizm
 homonim
-homonim
+homonimiczn
 homonimi
 homosejś
 homoseksualizm
@@ -7967,7 +7967,7 @@ idealizacyjn
 idealizuje
 ideat
 identyfikow
-ideodyn
+ideodynamiczn
 ideologizowań
 idioadaptacje
 idiociejm
@@ -8172,7 +8172,7 @@ inkunabuł
 inkwiruj
 inkwizycyjnym
 inkwizytorskość
-innojęz
+innojęzyczn
 innoplemieńc
 innostrańc
 innowatorskośc
@@ -8380,7 +8380,7 @@ jagódk
 jajarz
 jajarz
 jajcarskich
-jaje
+jajeczn
 jajkowat
 jajo
 jaj
@@ -8661,7 +8661,7 @@ jurylingwist
 jurysdykcyjn
 juryskonsulc
 jurystk
-juryst
+jurystyczn
 juryst
 justyniańsk
 jutrosińskich
@@ -8714,7 +8714,7 @@ kaczor
 kaczuchn
 kaczuszk
 kadastrow
-kadawer
+kadaweryczn
 kadaweryczn
 kadaweryn
 kadeckich
@@ -9739,7 +9739,7 @@ komercjalnym
 komers
 komfort
 komiczniejs
-kom
+komiczn
 komin
 komisarsk
 komisarskość
@@ -10328,7 +10328,7 @@ krioliz
 kriometr
 kriometryczn
 krioskop
-kriotechn
+kriotechniczn
 kriotechnik
 krioterape
 kroazo
@@ -10414,7 +10414,7 @@ krypton
 kryptoportyk
 kryptoportyk
 kryptorekl
-kryptozo
+kryptozoiczn
 kryp
 krystaloopt
 krysze
@@ -10566,7 +10566,7 @@ kubańskim
 kubeb
 kubeczk
 kubełkowate
-kubist
+kubistyczn
 kubofuturystko
 kubraczk
 kub
@@ -11333,7 +11333,7 @@ liściokształtn
 liźn
 lobbingowano
 lobbow
-lobbyst
+lobbystyczn
 lobeliowat
 lobel
 lochowanym
@@ -11616,7 +11616,7 @@ makatk
 makatkowo
 makatk
 makdonaldyz
-makiawel
+makiaweliczn
 makoszowskim
 makowc
 makrel
@@ -11752,7 +11752,7 @@ marchołt
 marchwian
 marcjaln
 marcow
-mareograf
+mareograficzn
 margarynown
 margaryn
 margines
@@ -12240,7 +12240,7 @@ mikropyl
 mikrorelief
 mikroreportaż
 mikrosekund
-mikroskop
+mikroskopiczn
 mikrosom
 mikrostan
 mikrotermiczn
@@ -12289,7 +12289,7 @@ minier
 minifabryk
 minifelieton
 minihotel
-minimalist
+minimalistyczn
 minimalizacyjn
 minimalizowanym
 mininotebook
@@ -14540,7 +14540,7 @@ nieamortyzowan
 nieamputuj
 nieamursk
 nieanaerob
-nieanafor
+nieanaforyczn
 nieanaln
 nieananasowat
 nieananińsc
@@ -14634,7 +14634,7 @@ nieatrakcyjn
 nieatrakcyjnym
 nieatroficzn
 nieatroficzn
-nieatrof
+nieatroficzn
 nieattyk
 nieatutuj
 nieaudytowan
@@ -14800,7 +14800,7 @@ niebisior
 niebitlesowsk
 niebitnikowskim
 niebit
-niebitum
+niebitumiczn
 niebitumin
 niebitumowan
 niebizanck
@@ -15322,7 +15322,7 @@ niediet
 niedigestywn
 niediketon
 niediluj
-niedioptr
+niedioptryczn
 niediżońskich
 niedmosińsk
 niedobież
@@ -15737,7 +15737,7 @@ nieelamickich
 nieelbląskich
 nieeleganc
 nieelektrod
-nieelipt
+nieeliptyczn
 nieeliptyczn
 nieemanuj
 nieememesuj
@@ -15766,7 +15766,7 @@ nieestymuj
 nieetablowan
 nieetabluj
 nieetapowanym
-nieetn
+nieetniczn
 nieetniczn
 nieetologiczn
 nieetos
@@ -15806,7 +15806,7 @@ niefalsetowan
 niefanaberyjn
 niefanowsk
 niefantast
-niefantast
+niefantastyczn
 niefarbiersk
 niefarbiersk
 niefarbuj
@@ -15933,7 +15933,7 @@ niegallursk
 niegalman
 niegalop
 niegalowo
-niegalwan
+niegalwaniczn
 niegambit
 niegangrenowat
 niegank
@@ -15968,7 +15968,7 @@ niegejowat
 niegejzer
 niegelbrynuj
 niegelbrynuj
-niegelolog
+niegelologiczn
 niegencjan
 niegender
 niegeneratywn
@@ -16076,7 +16076,7 @@ niegranitoid
 niegranit
 niegranulowane
 niegratis
-niegrecyst
+niegrecystyczn
 niegremialn
 niegrill
 niegrisejowan
@@ -16388,7 +16388,7 @@ niejednonożnym
 niejednorej
 niejednorożn
 niejednorożn
-niejednor
+niejednoręczn
 niejednoręcznym
 niejednosłown
 niejednot
@@ -17244,7 +17244,7 @@ niemejl
 niemeklembursk
 niemelamin
 niemelatonin
-niemel
+niemeliczn
 niememoratywnym
 niemendowate
 niemendykanck
@@ -18468,7 +18468,7 @@ nieomącz
 nieonegdajsz
 nieonieśmielań
 nieonlin
-nieonomast
+nieonomastyczn
 nieoolit
 nieopack
 nieopacko
@@ -18542,7 +18542,7 @@ nieorbituj
 nieordowicc
 nieordynacyjn
 nieorenbursk
-nieorf
+nieorficzn
 nieorficzn
 nieorgank
 nieorienbursc
@@ -18759,8 +18759,8 @@ niepapuańsk
 niepapusian
 niepapus
 niepapusiań
-nieparabol
-nieparabol
+nieparaboliczn
+nieparaboliczn
 nieparadysk
 nieparadyz
 nieparagwajsk
@@ -21378,7 +21378,7 @@ nietalerz
 nietalibańsk
 nietalkowań
 nietalkuj
-nietame
+nietameczn
 nietanagryjsk
 nietaniej
 nietanin
@@ -21816,7 +21816,7 @@ nieuroczen
 nieurodz
 nieurodzeń
 nieurodzon
-nieurometr
+nieurometryczn
 nieuros
 nieuruchomion
 nieururkowane
@@ -23309,7 +23309,7 @@ niezbunt
 niezbydlęcaj
 niezbydlęcan
 niezbystrzen
-niezbyte
+niezbyteczn
 niezbytkuj
 niezbywan
 niezbzikowane
@@ -23854,7 +23854,7 @@ nieżywozielon
 nieżółciutkim
 nieżółtopiór
 nieżółtozłot
-nieżęt
+nieżętyczn
 nieżłob
 nieżłopan
 nieżłop
@@ -26200,7 +26200,7 @@ olejno
 oligocen
 oligoelement
 oligofag
-oligofren
+oligofreniczn
 oligofren
 oligopol
 oligotrofizm
@@ -26570,7 +26570,7 @@ orend
 orfeusz
 organell
 organicznik
-organ
+organiczn
 organistow
 organistow
 organistuj
@@ -26580,9 +26580,9 @@ organizer
 organizow
 organk
 organograficzn
-organolog
+organologiczn
 organum
-orgatechn
+orgatechniczn
 orgiastyczn
 orgiastycznym
 orgietk
@@ -27222,7 +27222,7 @@ palatalizow
 palataln
 palatynack
 palcuj
-palearkt
+palearktyczn
 palemk
 palenisk
 paleoastronauc
@@ -27377,7 +27377,7 @@ parasport
 paraszybowc
 paraszybowiec
 paraszyt
-paratakt
+parataktyczn
 parataktyczn
 parathormon
 paratymicznym
@@ -28727,7 +28727,7 @@ podobij
 podobojczyk
 podoboz
 podobłoczn
-podobło
+podobłoczn
 podochocisz
 podochodz
 pododaw
@@ -30310,7 +30310,7 @@ poremanent
 poremontowane
 poretuszow
 poretuszow
-poreumat
+poreumatyczn
 pornograf
 porodz
 porodz
@@ -32035,7 +32035,7 @@ propagand
 propagandyst
 propagujmyż
 proparoksyton
-propedeut
+propedeutyczn
 propergol
 propinacyjn
 propinator
@@ -32336,7 +32336,7 @@ przedfeudaln
 przedfiltr
 przedfront
 przedgrodz
-przedlog
+przedlogiczn
 przedlogicznym
 przedmiejsko
 przedmiot
@@ -34139,7 +34139,7 @@ purpurowiej
 purusz
 puryfikator
 puryfikuj
-puryst
+purystyczn
 purystyczn
 purytanizm
 purytanizm
@@ -36676,7 +36676,7 @@ saneczk
 saneczk
 saneczkuj
 sangri
-sangwin
+sangwiniczn
 sanhit
 sanitark
 sankc
@@ -36888,7 +36888,7 @@ seminar
 seminaryjne
 semiologiczn
 semiotyczn
-semiot
+semiotyczn
 semitologij
 semit
 semityzow
@@ -36921,7 +36921,7 @@ separatystyczn
 separowan
 sepecik
 septorioz
-seraf
+seraficzn
 serafin
 serafitk
 serbsk
@@ -36933,7 +36933,7 @@ serdeńk
 serfowano
 serfujże
 ser
-serigraf
+serigraficzn
 serir
 sermologus
 sernickości
@@ -37846,7 +37846,7 @@ speakerowskich
 specjałk
 specjałk
 specsłużb
-specyf
+specyficzn
 spedytor
 spedytork
 spektroskop
@@ -38637,7 +38637,7 @@ stylizow
 stylizuj
 stylometr
 stylometri
-stylometr
+stylometryczn
 stylon
 stymul
 stymulant
@@ -38886,7 +38886,7 @@ symuluj
 symulujże
 synajskich
 synalagmatyczn
-synalagmat
+synalagmatyczn
 synchroni
 syndyk
 syneczkow
@@ -38900,7 +38900,7 @@ synkop
 synobójc
 synod
 synojkizm
-syntagmat
+syntagmatyczn
 syntetyzow
 syntezator
 syntezowanym
@@ -39645,7 +39645,7 @@ tanatopraksj
 tancereczk
 tandetniejsz
 tandet
-tane
+taneczn
 tan
 tan
 tanin
@@ -39802,7 +39802,7 @@ teleelektryk
 telefaksowan
 telefaksow
 telefaksuj
-telegraf
+telegraficzn
 telegrafistk
 telegram
 telekar
@@ -39882,7 +39882,7 @@ terlik
 termicich
 terminacj
 terminarz
-terminist
+terministyczn
 terminow
 termityn
 termoaktywn
@@ -42453,7 +42453,7 @@ widliczkowat
 widlik
 widnaw
 widni
-wido
+widoczn
 widoczn
 widowiskowo
 widowiskowość
@@ -42505,7 +42505,7 @@ wielkopłetw
 wielkorządc
 wielkoskal
 wielkoskrzyd
-wielobo
+wieloboczn
 wieloboist
 wieloboist
 wielobóstw
@@ -49922,7 +49922,7 @@ zżółk
 żuraw
 żurawskich
 żurnalistk
-żurnalist
+żurnalistyczn
 żuromińsk
 żutym
 żużlobeton
