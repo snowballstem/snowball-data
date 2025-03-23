@@ -179,7 +179,7 @@ ageistowskich
 ageizm
 agelaś
 agent
-aggi
+agg
 agitacyjn
 agitatork
 agitował
@@ -340,7 +340,7 @@ aleur
 aleurytow
 aleuryt
 alfons
-alfy
+alf
 algebraiczn
 algolog
 algoloż
@@ -360,7 +360,7 @@ aliment
 alinearn
 aliniometrow
 aliterackim
-alka
+alk
 alkad
 alkalifil
 alkalimetr
@@ -596,7 +596,7 @@ aniołkow
 aniwersar
 anizotropowym
 ankarczyk
-anki
+ank
 ankieter
 ankietowan
 ankietow
@@ -889,7 +889,7 @@ arkubalist
 arlekin
 arlekińskim
 armaniak
-arni
+arn
 arnik
 arogan
 arogant
@@ -1045,7 +1045,7 @@ audycj
 audyfon
 audytow
 audytow
-augi
+aug
 augiaszow
 augit
 augit
@@ -1133,7 +1133,7 @@ awanturynow
 awenin
 awentyńsk
 awers
-awi
+aw
 awiacj
 awiofon
 awunkułat
@@ -1168,7 +1168,7 @@ baborowiank
 babr
 babranin
 babsk
-babu
+bab
 bachaj
 bachałab
 bachnąłeś
@@ -1235,7 +1235,7 @@ baletmistrz
 baletnic
 baligrodzian
 baligrodziank
-bali
+bal
 balistyk
 ballad
 balladyśc
@@ -1337,7 +1337,7 @@ baronow
 barrakud
 barsk
 bartnicz
-baru
+bar
 barweno
 barwiarskośc
 barw
@@ -1378,7 +1378,7 @@ batyst
 baud
 bawełnopodobn
 bawialn
-bawi
+baw
 bazowym
 bazuj
 bazylikow
@@ -1737,7 +1737,7 @@ bimetalizm
 bindr
 binduj
 binokularn
-biną
+bin
 bioaktywn
 bioakustyko
 bioakustykow
@@ -1985,7 +1985,7 @@ bombel
 bombomiot
 bombomiot
 bombonier
-bonce
+bon
 bonderyzownio
 bonderyzowni
 bonet
@@ -2100,7 +2100,7 @@ brief
 briofag
 briologi
 bristolsk
-brną
+brnął
 brochowsk
 brocz
 brodacz
@@ -2177,8 +2177,8 @@ brzeszczot
 brzezineckości
 brzezin
 brzeżańskim
-brzm
-brzm
+brzmi
+brzmi
 brzoskwin
 brzostow
 brzoz
@@ -2195,7 +2195,7 @@ brzyjmyż
 brzytw
 brzytwodziob
 brzózeck
-brz
+brząc
 brząkane
 brząkn
 brząknąwsz
@@ -2619,7 +2619,7 @@ chatow
 chatowym
 chatyn
 chausow
-ch
+chał
 chałtur
 chałturnictw
 chałturnicz
@@ -2766,7 +2766,7 @@ chotoj
 chowaj
 chow
 chow
-chr
+chram
 chrapliwsz
 chrapow
 chrobotkowat
@@ -2827,7 +2827,7 @@ chrystogram
 chryzm
 chryzyn
 chrzan
-chrzc
+chrzcił
 chrząkal
 chrząstn
 chrząstni
@@ -3068,7 +3068,7 @@ ckliwym
 cloisonizm
 clubbing
 clustr
-cl
+cląc
 cmentarzyk
 cmoknąłb
 cmoktan
@@ -3107,7 +3107,7 @@ cubicul
 cuchni
 cuc
 cud
-cuda
+cud
 cudaczniejsz
 cudacz
 cudak
@@ -3341,7 +3341,7 @@ cziczerone
 czimet
 czipowan
 czipowałob
-czkną
+czknął
 czknęlib
 czknęl
 czmych
@@ -3482,7 +3482,7 @@ dandysowsk
 danser
 danser
 dansker
-dany
+dan
 dar
 dardyjsk
 dard
@@ -3512,9 +3512,9 @@ dawnowieczn
 dawstw
 daytońskośc
 dazymetryczn
-dała
+dał
 dałob
-dały
+dał
 deadline
 deaktualizowan
 dealkilacj
@@ -4194,7 +4194,7 @@ doktoryzuj
 doktrynaln
 doktryner
 doktór
-doku
+dok
 dokucz
 dokucz
 dokuczysz
@@ -4353,7 +4353,7 @@ dopełniał
 dopełzni
 dopełznięt
 dopiastowywan
-dopi
+dop
 dopieprzał
 dopieprz
 dopierdal
@@ -4797,7 +4797,7 @@ dożegluj
 dożer
 dożer
 dożułb
-doży
+doż
 dożyj
 dożynaj
 dożynk
@@ -4857,7 +4857,7 @@ drewnian
 drewnobeton
 drgaj
 drgawk
-drgni
+drgnięci
 dribluj
 dribluj
 drinkow
@@ -4936,7 +4936,7 @@ drzewoznawco
 dróbże
 drągowin
 dręczyciele
-drż
+drżałyś
 drżyjmyż
 drżączkowat
 dualistycznym
@@ -5017,7 +5017,7 @@ dusz
 dutk
 duto
 duumwirat
-dułbym
+duł
 dwikoziank
 dwoinkow
 dwoinkow
@@ -5133,7 +5133,7 @@ dylatowałob
 dylic
 dymaj
 dymensjonuj
-dymi
+dym
 dymisjon
 dymisj
 dym
@@ -5349,7 +5349,7 @@ dójk
 dąbrowszczac
 dąs
 dąż
-dąży
+dąż
 dębniańsk
 dębniańskim
 dębniczan
@@ -5358,7 +5358,7 @@ dębsko
 dęstow
 dętk
 dęłyb
-dęły
+dęł
 dławicowym
 dławiec
 dławisz
@@ -5780,8 +5780,8 @@ ergolog
 ergonomistko
 ergoprojekt
 ergoprojekt
-erka
-erki
+erk
+erk
 erlenmajerk
 eros
 erot
@@ -5820,7 +5820,7 @@ eskontował
 eskontow
 eskulap
 eskulap
-esow
+es
 espado
 espelec
 espingol
@@ -5922,7 +5922,7 @@ ewidenc
 ewinkował
 ewolucjonistk
 ewualizowan
-eza
+ez
 ezoteryczk
 ełckim
 eżektor
@@ -5986,7 +5986,7 @@ familiaryzow
 familiaryzował
 familijn
 familijn
-fance
+fan
 fanfar
 fanklub
 fantasmagoryjn
@@ -6041,7 +6041,7 @@ fatygant
 faulowane
 faustowsk
 faworkowym
-faxu
+fax
 fayolizm
 fazogr
 fazotron
@@ -6091,10 +6091,10 @@ fenomenologi
 fenop
 fenopat
 fen
-fenu
+fen
 ferajn
 feralność
-feri
+fer
 fermentuj
 fermer
 fermowym
@@ -6149,7 +6149,7 @@ fikcjonalność
 fikcyjn
 fiknąwsz
 fiks
-fila
+fil
 filantropist
 filareckich
 filar
@@ -6325,8 +6325,8 @@ fob
 foczęc
 fogarask
 fokreje
-fola
-foli
+fol
+fol
 foliał
 folikulotrop
 foliografow
@@ -6645,8 +6645,8 @@ gandharsk
 gandż
 gan
 gangren
-gani
-gani
+gan
+gan
 ganoidaln
 gap
 gapił
@@ -6675,7 +6675,7 @@ garowałyb
 garug
 garuj
 garybald
-gasi
+gas
 gasidło
 gasnąć
 gasparon
@@ -6780,7 +6780,7 @@ geotaksyj
 geotechnik
 geotransportow
 gepardzic
-gera
+ger
 geriatr
 geriocain
 germanist
@@ -8007,7 +8007,7 @@ ikrzen
 ikrzyjm
 ikrzył
 ikrz
-iksa
+iks
 iksj
 iksow
 ikst
@@ -8030,7 +8030,7 @@ imagin
 imagineskopi
 imaginowan
 imajże
-imak
+im
 imamic
 imażynistyczn
 imbirowat
@@ -8145,7 +8145,7 @@ inguszetyjsk
 inhalow
 inherentnym
 inhibic
-inia
+in
 inicjuj
 initio
 inkantujcież
@@ -8320,7 +8320,7 @@ iwińsk
 iwkowsk
 iwoniczanin
 izbickośc
-izbą
+izb
 izentalp
 izmailit
 izoanomal
@@ -8393,7 +8393,7 @@ jamajckim
 jamalskości
 jambografow
 jamb
-jamce
+jam
 jamusukryjsk
 janisławick
 janowieckich
@@ -8554,7 +8554,7 @@ jehowickim
 jelczańsk
 jelonk
 jelonkowsc
-jena
+jen
 jendze
 jenerałow
 jeng
@@ -8574,7 +8574,7 @@ jesiennieje
 jesionk
 jesionoklon
 jesziw
-jetu
+jet
 jeziorowc
 jezyd
 jełczej
@@ -8749,8 +8749,8 @@ kajeńczyk
 kajgulik
 kajmak
 kajsako
-kaka
-kaka
+kak
+kak
 kakofoniczn
 kakofonicznośc
 kakograf
@@ -9133,7 +9133,7 @@ kaszowaciej
 kaszubione
 kaszubskim
 kaszycowym
-kasł
+kas
 kataboliczn
 katachrez
 katachrez
@@ -9205,7 +9205,7 @@ kazank
 kazan
 kazarm
 kazeinow
-kazi
+kaz
 kazil
 kazimierzanin
 kaz
@@ -9269,7 +9269,7 @@ kichajmyż
 kichan
 kichnęłaś
 kichnęł
-kici
+kic
 kiciarz
 kiciun
 kicius
@@ -9343,7 +9343,7 @@ kilowatow
 kilońskim
 kilówk
 kimal
-kima
+kim
 kimałab
 kim
 kimnęl
@@ -9362,8 +9362,8 @@ kinoman
 kinoprawd
 kinotechniczn
 kiper
-kipi
-kipi
+kip
+kip
 kipiąt
 kipni
 kiretaż
@@ -9375,7 +9375,7 @@ kiszeczk
 kiszeniak
 kiszonkarstw
 kiszyniowiank
-kisł
+kis
 kitajcze
 kitajskośc
 kitar
@@ -9554,7 +9554,7 @@ kmin
 kminkow
 kmotrowsk
 knajack
-kna
+knaj
 knajpuj
 kneblował
 kneblowym
@@ -9609,13 +9609,13 @@ koczyk
 koc
 kocówk
 kodein
-kodi
-kodi
+kod
+kod
 kodowacz
 kodowalib
 kodrąbianin
 kodrąbskośc
-kody
+kod
 kodycyl
 kodyfikuj
 kod
@@ -9650,7 +9650,7 @@ koksochem
 koksopochodn
 koksuj
 kok
-kokę
+kok
 kolaborant
 kolaborow
 kolaborowałb
@@ -9739,7 +9739,7 @@ komercjalnym
 komers
 komfort
 komiczniejs
-komi
+kom
 komin
 komisarsk
 komisarskość
@@ -10020,7 +10020,7 @@ kopiarstw
 kopiarz
 kopiarz
 kopiejeczk
-kopi
+kop
 kopierni
 kopijnicz
 kopion
@@ -10240,7 +10240,7 @@ kpi
 krab
 kradl
 kradzież
-kra
+kraj
 krajan
 krajał
 krajcz
@@ -10432,7 +10432,7 @@ kryzys
 krzaczor
 krzaczyl
 krzak
-krz
+krzem
 krzemic
 krzemienieck
 krzemienin
@@ -10452,10 +10452,10 @@ krzew
 krzewiaśc
 krzew
 krześlisk
-krzt
+krztach
 krztusil
 krztuszon
-krzt
+krztą
 krzyczan
 krzycz
 krzykliwsz
@@ -10574,7 +10574,7 @@ kucharowan
 kucharzow
 kuchenk
 kucht
-kuci
+kuc
 kucj
 kuczborsk
 kuczkował
@@ -10589,7 +10589,7 @@ kudłac
 kudłajże
 kuf
 kuferkow
-kufi
+kuf
 kufi
 kufiko
 kuflow
@@ -10709,7 +10709,7 @@ kurw
 kurzen
 kusacze
 kusicielskość
-kusi
+kus
 kusiutkim
 kus
 kuskowiźniańsk
@@ -10840,7 +10840,7 @@ kępk
 kępnianinow
 kępow
 kęsim
-kęsy
+kęs
 kętnar
 kładło
 kłajpedzc
@@ -10915,7 +10915,7 @@ lachowskośc
 lacrimos
 lacun
 laczk
-lafa
+laf
 lager
 laick
 laickości
@@ -11073,7 +11073,7 @@ lejkowc
 lejkowcow
 lej
 lej
-leję
+lej
 lekarsko
 lekarskośc
 lekaż
@@ -11093,7 +11093,7 @@ lekuśk
 leliśm
 lelowian
 lemaństw
-lemi
+lem
 lemoniad
 lemoniadow
 lendlerow
@@ -11110,7 +11110,7 @@ lennonk
 leoncińsk
 leopardow
 lepidodendron
-lepi
+lep
 lepiężnik
 leptocefalow
 leptom
@@ -11149,7 +11149,7 @@ lewobrzeż
 lewonożn
 leworęczn
 lewusow
-lezy
+lez
 leśniank
 leśnictw
 leżajszczanko
@@ -11258,7 +11258,7 @@ lionko
 liotropow
 liońskość
 liparyt
-lipi
+lip
 lipianiank
 lipick
 lipidow
@@ -11279,7 +11279,7 @@ lipusk
 lirnic
 liryzm
 liryzuj
-lisa
+lis
 liseuse
 lis
 lisiąt
@@ -11454,7 +11454,7 @@ lureks
 lurker
 lurko
 lurow
-lur
+lurze
 lustralnym
 lustrow
 lustrował
@@ -11498,8 +11498,8 @@ lęgowisk
 lękowc
 lśni
 lśni
-lśn
-lśn
+lśnił
+lśnił
 lśniłob
 lżon
 maalox
@@ -11515,7 +11515,7 @@ machiner
 machlow
 machometr
 machometrow
-maci
+mac
 macierzank
 macierzyst
 macior
@@ -11687,7 +11687,7 @@ mamul
 mamusieńk
 mamut
 mamuśk
-mamł
+mam
 managuańczyk
 mandatowicze
 mandatowicz
@@ -11764,7 +11764,7 @@ margnęl
 margrafowym
 marian
 marianin
-mari
+mar
 mariawityzmow
 marihuanistk
 mari
@@ -11898,9 +11898,9 @@ mazerow
 mazerunk
 mazg
 mazgaj
-mazi
-mazi
-mazi
+maz
+maz
+maz
 maznęlib
 mazonit
 mazowszank
@@ -11954,7 +11954,7 @@ medalik
 medalionik
 medalion
 medalowo
-medi
+med
 mediatyzowało
 mediewaln
 medino
@@ -12083,7 +12083,7 @@ metropolizuj
 metrykacj
 metryst
 metylofenid
-mewi
+mew
 mewk
 mewlewit
 mezaliansowym
@@ -12355,7 +12355,7 @@ mitogenn
 mitomycyn
 mitotwórstw
 mitr
-mity
+mit
 mitygowano
 mitygujm
 mityngow
@@ -12369,7 +12369,7 @@ mizernielib
 mizernieliś
 mizernien
 mizerniutkim
-mizi
+miz
 mizofobiczne
 mizoginik
 mizoginik
@@ -12415,7 +12415,7 @@ mińszczank
 miśnieńsk
 mklikowac
 mknijmyż
-mkn
+mknąc
 mlaskaj
 mlask
 mlaszcz
@@ -12660,7 +12660,7 @@ mozańskim
 mozgo
 mozole
 mozoł
-mołł
+moł
 mołło
 mońkowiank
 mońkowskośc
@@ -12695,7 +12695,7 @@ mszyczk
 mszyst
 mszywio
 mszył
-msz
+mszącym
 muall
 muchotrutk
 muchówk
@@ -12747,7 +12747,7 @@ murzynk
 murzysk
 murłat
 musak
-musi
+mus
 muskaj
 muskal
 muskałb
@@ -12796,7 +12796,7 @@ mydlin
 mydłkowatym
 myglarz
 mygłowałab
-myją
+myj
 mykanowskich
 mykną
 myknęliś
@@ -13656,7 +13656,7 @@ naorzm
 naostrzeń
 naoszukiwan
 naoszukiw
-napa
+nap
 napadaj
 napadane
 napadni
@@ -13895,7 +13895,7 @@ nasiarczaj
 nasiarczan
 nasiarczał
 nasiarczy
-nasi
+nas
 nasiec
 nasieczen
 nasiedzen
@@ -14056,7 +14056,7 @@ nasłuchane
 nasłuchał
 nasłuchow
 nasłużen
-nata
+nat
 natalkował
 natalkowałob
 natalsc
@@ -14249,7 +14249,7 @@ nawywozilib
 nawyzywajm
 nawyświadcz
 nawzdychałob
-nawą
+naw
 nawęglaj
 nawęgl
 nawęglon
@@ -21928,7 +21928,7 @@ nieuzurp
 nieuzębion
 nieuładzan
 nieułagadzaj
-nieu
+nieuł
 nieułechtan
 nieułowion
 nieułupywan
@@ -23804,7 +23804,7 @@ nieświtan
 nieświątynnym
 nieświęcen
 nieświńsk
-nieść
+ni
 nieździarsk
 nieżabotow
 nieżaglowan
@@ -23906,7 +23906,7 @@ niuejdżowsk
 niutonowsk
 niwalnym
 niweluj
-niwą
+niw
 nizaryc
 nizink
 nizinn
@@ -23984,7 +23984,7 @@ nowelizatorow
 nowinkarz
 nowiusieńk
 nowiutk
-nowi
+now
 nowiźn
 nowodworzank
 nowogrodziank
@@ -24052,8 +24052,8 @@ nylonowym
 nynal
 nyn
 nysk
-nyżą
-nózi
+nyż
+nóz
 nęcił
 nędzarn
 nędzańskim
@@ -24477,8 +24477,8 @@ obsiadajmyż
 obsiane
 obs
 obsianym
-obsi
-obsi
+obs
+obs
 obsiekiwan
 obsiekiwan
 obsiekiwanym
@@ -24681,7 +24681,7 @@ obładowywal
 obładowywane
 obładowywał
 obłam
-obł
+ob
 obłamuj
 obłamywane
 obłapywan
@@ -24839,7 +24839,7 @@ odbeknięć
 odbezpieczm
 odbezpieczon
 odbezpieczy
-odbi
+odb
 odbiciow
 odbieg
 odbiegłaś
@@ -25283,7 +25283,7 @@ odmul
 odmulał
 odmulnik
 odmurowanym
-odmy
+odm
 odmysz
 odmyszałyb
 odmyt
@@ -25827,12 +25827,12 @@ odwzorowuj
 odwęglał
 odwęgl
 odwłaszaj
-odwł
+odw
 odym
 odymil
 odysej
 odzewow
-odzi
+odz
 odziarniane
 odziarn
 odziarnijże
@@ -25862,7 +25862,7 @@ odzywaj
 odzyw
 odzyw
 odzywko
-odęł
+odę
 odładow
 odładowuj
 odłaman
@@ -26281,7 +26281,7 @@ omusnąłb
 omusn
 omyje
 omyl
-omył
+omy
 omyłkow
 omącz
 omłacaj
@@ -26591,12 +26591,12 @@ orientow
 orisul
 orleank
 orlen
-orli
+orl
 orlim
 orlog
 orlog
 orlon
-orlę
+orl
 ornamencist
 ornamentacyjn
 ornatow
@@ -26988,7 +26988,7 @@ otłuśćmyż
 out
 outfit
 outowan
-owa
+ow
 owadożern
 owantow
 owarowuj
@@ -27074,8 +27074,8 @@ ozorkowiank
 ozorkow
 ozul
 ozusowan
-ozwi
-ozów
+ozw
+oz
 oładk
 oładk
 ołowian
@@ -27087,7 +27087,7 @@ ołupionym
 ołysiel
 ołż
 ościc
-ośka
+ośk
 oślepiłb
 oślep
 oślin
@@ -27095,7 +27095,7 @@ oślinion
 oślinił
 ośliznęłyś
 ośmiał
-ośmi
+ośm
 ośmiej
 ośmieszałob
 ośmiewal
@@ -27504,7 +27504,7 @@ pasz
 paszowoz
 paszowskim
 paszport
-pasą
+pas
 pasłęcc
 pasłęczan
 patagońskim
@@ -27559,7 +27559,7 @@ paśliśm
 październik
 pchaj
 pchnąłeś
-pchł
+pchłach
 pcimianko
 pcimskośc
 pean
@@ -27771,7 +27771,7 @@ picaresco
 picassowsk
 picerskości
 pickup
-picu
+pic
 picuj
 pic
 pidgin
@@ -27871,7 +27871,7 @@ pigu
 pihowc
 pihowcze
 pijackim
-pija
+pij
 pijanist
 pijar
 pikad
@@ -27914,7 +27914,7 @@ pingpong
 pingpong
 pingpong
 pingwink
-pini
+pin
 pinyin
 pionizował
 pionkow
@@ -28102,7 +28102,7 @@ plerez
 pletw
 pletyzmograf
 pleuropneumonij
-pleur
+pleurze
 plew
 plewinko
 plewion
@@ -29502,7 +29502,7 @@ pokąpał
 pokąsałyb
 pokładliś
 pokładujcież
-pokł
+pok
 pokłękowatym
 polakierowan
 polakowanym
@@ -29549,7 +29549,7 @@ polewk
 polewk
 poliadduktow
 poliaddycyj
-poli
+pol
 polibud
 policentryczn
 policentryzm
@@ -30729,7 +30729,7 @@ posąż
 posępn
 posępnośc
 posępn
-posł
+pos
 posłańc
 posłodze
 posłodz
@@ -33178,7 +33178,7 @@ przezywało
 przećwiczonym
 przełamalib
 przełam
-prze
+przeł
 przełaz
 przełknięc
 przełknęł
@@ -34109,7 +34109,7 @@ puebl
 puertazaurow
 pugina
 puginał
-puha
+puh
 pukadle
 pukałb
 pulment
@@ -34119,7 +34119,7 @@ pulsometr
 pult
 pulweryzacjo
 pumeks
-punce
+pun
 punc
 punciak
 puncujmyż
@@ -34129,7 +34129,7 @@ punktomanij
 punktowan
 punktowc
 punol
-puną
+pun
 pupil
 purchawkowac
 purchaw
@@ -34183,7 +34183,7 @@ pyknęłyśm
 pylnikowym
 pylone
 pyrazolonow
-pyrce
+pyr
 pyretryn
 pyrgną
 pyrkaj
@@ -34209,7 +34209,7 @@ pyłkowym
 pyłochłon
 pójł
 pójś
-póła
+pół
 półakt
 półaktywnym
 półbiegow
@@ -34480,7 +34480,7 @@ rachował
 rachuj
 rachunk
 rachunkowości
-raci
+rac
 raciborzanko
 raciechowicc
 raciąg
@@ -34575,7 +34575,7 @@ rajzowałob
 rajzował
 rajzuj
 raj
-raki
+rak
 rakietowc
 rakowaciej
 rakowianko
@@ -34592,7 +34592,7 @@ rancho
 ranczersc
 ranguńskim
 raniuchnym
-rani
+ran
 rankingowane
 rank
 rapapor
@@ -34671,7 +34671,7 @@ redaktorow
 redefinicj
 redefiniowan
 redefiniowało
-redi
+red
 redlin
 redl
 redow
@@ -36245,9 +36245,9 @@ rutynizowan
 rutynizuj
 rwan
 rwan
-rw
+rwałyśm
 rwą
-rw
+rwącym
 ryback
 rybaczk
 rybiar
@@ -36261,7 +36261,7 @@ rybołówcz
 rybożern
 rybuj
 rybuloz
-rybę
+ryb
 rychlick
 rychtow
 rychtow
@@ -36316,7 +36316,7 @@ rynniarzow
 rynsztunk
 rypan
 ryp
-rypi
+ryp
 rypnięt
 rypnięt
 rypnąć
@@ -36467,7 +36467,7 @@ rękopiśmiennym
 rżniącz
 rżnęłyś
 rżysk
-rż
+rżąc
 sabadyl
 sabataisto
 sabatarianin
@@ -36795,7 +36795,7 @@ schytrzań
 schyłkow
 schładzark
 schładz
-schł
+schłem
 schłopiano
 scjatyk
 scjenc
@@ -36953,7 +36953,7 @@ serwozawór
 serycyno
 serycytyzacjo
 serymetr
-ser
+serze
 sesyjn
 seszelskim
 setnic
@@ -37022,7 +37022,7 @@ siaduj
 siadywan
 sialm
 sian
-sia
+siani
 siank
 sianowiank
 sianowian
@@ -37417,7 +37417,7 @@ skrzatk
 skrzeczcież
 skrzecz
 skrzeczym
-skrz
+skrzek
 skrzek
 skrzekaj
 skrzekn
@@ -38210,7 +38210,7 @@ srokacz
 srokosz
 sroż
 sroż
-ss
+ssał
 stabilizowan
 stabilnośc
 stabuizow
@@ -38378,7 +38378,7 @@ sticherarion
 stickpoint
 stigm
 stlil
-stl
+stlić
 stliłyb
 stochastyczn
 stoczniow
@@ -38410,7 +38410,7 @@ stornow
 stornow
 stornujm
 storpeduj
-stor
+storze
 stosin
 stosin
 stosowaln
@@ -38534,7 +38534,7 @@ strypluj
 stryszowsk
 strywializuj
 strzaskał
-strza
+strzał
 strzegomiank
 strzegomian
 strzegowskim
@@ -38782,7 +38782,7 @@ supraślan
 supremacyjn
 supremat
 supłan
-supł
+sup
 surabajsk
 surdologoped
 surdologopedio
@@ -38850,7 +38850,7 @@ syderożel
 syf
 syfiastośc
 syfiaś
-syfi
+syf
 sygillograf
 sygmatyczn
 sygmatyzm
@@ -38925,7 +38925,7 @@ systemat
 systematyczko
 systemizow
 system
-sytu
+syt
 sytuacjonizm
 sytuowal
 sytuow
@@ -39085,7 +39085,7 @@ szczuplejszym
 szczurołap
 szczut
 szczułb
-szczw
+szczwan
 szczyc
 szczyg
 szczypiorkow
@@ -39143,7 +39143,7 @@ szerow
 szerpijsk
 szerp
 szers
-szer
+szerze
 szerzyciel
 szerzyńskim
 szerzyńskośc
@@ -39185,7 +39185,7 @@ szklistośc
 szkliwier
 szkliwiern
 szkliwil
-szkl
+szklił
 szkodnictw
 szkolarsk
 szkolon
@@ -39302,7 +39302,7 @@ szpulowark
 szpunt
 szrafirunk
 szrafow
-szr
+szram
 szreńsk
 szrociarz
 szroniej
@@ -39401,7 +39401,7 @@ szuwaksuj
 szuśnięto
 szwabion
 szwab
-szw
+szwach
 szwagier
 szwagierk
 szwajcar
@@ -39418,7 +39418,7 @@ szwargol
 szwargolił
 szwejsowano
 szwejsuj
-szw
+szwem
 szwindluj
 szwindluj
 szybciuteńkim
@@ -39646,8 +39646,8 @@ tancereczk
 tandetniejsz
 tandet
 tane
-tani
-tani
+tan
+tan
 tanin
 taniusieńk
 taniuteńkim
@@ -39713,7 +39713,7 @@ taryfiarzow
 taryfikacj
 taryfikow
 tarz
-tarł
+tar
 tasiemcow
 tasiemcow
 tasiemeczk
@@ -39776,7 +39776,7 @@ teidz
 tein
 teistk
 teizm
-teka
+tek
 tek
 teksańskośc
 teksańsk
@@ -40013,7 +40013,7 @@ tonow
 tonujm
 tonęłob
 tonęłyśm
-topi
+top
 topk
 topmodelk
 topnic
@@ -40405,7 +40405,7 @@ trójzwit
 trójścienn
 trąbikow
 trąbkarz
-tr
+trącym
 trąd
 trędnikowat
 trędowat
@@ -40434,8 +40434,8 @@ tumaniej
 tumanieliś
 tumank
 tumsko
-tumy
-tumy
+tum
+tum
 tunberg
 tunberg
 tunelow
@@ -40571,8 +40571,8 @@ tytułuj
 tytłałyb
 tyłk
 tyłopochylen
-tyły
-tąpi
+tył
+tąp
 tąpn
 tąpnęłaś
 tęch
@@ -40583,7 +40583,7 @@ tęcz
 tęczuj
 tęgobor
 tępaczk
-tępi
+tęp
 tępiej
 tępion
 tęskliwym
@@ -40774,7 +40774,7 @@ uczęszczało
 uczłonowan
 uczłowiecz
 udamaw
-udam
+ud
 udaremn
 udaremniałab
 udaremn
@@ -40849,7 +40849,7 @@ udynamiczn
 udynamiczn
 udynamicznień
 udzian
-udzi
+udz
 udziałow
 udziecinniał
 udziecinnion
@@ -40908,7 +40908,7 @@ ugaszczaj
 ugałęził
 ugałęźże
 uginane
-ugię
+ugi
 ugniatacz
 ugniatan
 ugniat
@@ -41040,8 +41040,8 @@ ukrawaj
 ukrochmal
 ukruszył
 ukrw
-ukry
-ukry
+ukr
+ukr
 ukryj
 ukryje
 ukryj
@@ -41055,7 +41055,7 @@ ukształc
 ukucałyb
 ukuwan
 ukułab
-ukuł
+uku
 ukwasił
 ukwaszal
 ukwasz
@@ -41167,7 +41167,7 @@ umeblował
 umiejscaw
 umiejscowion
 umieliłyb
-umi
+um
 umieralnio
 umieszczano
 umil
@@ -41489,7 +41489,7 @@ urbanistyk
 urbanizuj
 urbanizuj
 urbar
-urea
+ure
 urealn
 urealnian
 urealn
@@ -42047,7 +42047,7 @@ użebrujże
 użebrz
 użeglownij
 użerał
-użnę
+użn
 użyczen
 użycz
 użyczyl
@@ -42078,7 +42078,7 @@ wachmistrz
 wachtmeistr
 wachtował
 wachtuj
-wada
+wad
 wadowiczaninow
 waflark
 wagadugańsk
@@ -42222,7 +42222,7 @@ wbetonuj
 wbieg
 wbieg
 wbijaj
-wb
+wbiłyś
 wbudowujże
 wcedzan
 wcelowyw
@@ -42264,7 +42264,7 @@ wczłap
 wdan
 wdan
 wdaw
-wd
+wdałyśm
 wdepnę
 wdepnęło
 wdeptał
@@ -42420,7 +42420,7 @@ wiaziemsk
 wi
 wibrow
 wibruj
-wica
+wic
 wiceburmistrz
 wicehrabiow
 wicekrólestw
@@ -42564,7 +42564,7 @@ wierz
 wierzycielow
 wierz
 wieszaj
-wiesz
+wi
 wiesz
 wieszczy
 wietnamizowan
@@ -42624,7 +42624,7 @@ winifikowałob
 winion
 winiplastow
 winiplast
-wini
+win
 winkowal
 winkował
 winkulacyjnym
@@ -42858,7 +42858,7 @@ wmurowywan
 wmus
 wmuszon
 wmuś
-wmy
+wmyci
 wmykal
 wmykałyb
 wmyliśm
@@ -43132,7 +43132,7 @@ wrzosowc
 wrzucim
 wrzynan
 wrzynałb
-wrz
+wrzącym
 wrzątnik
 wróbelkow
 wróblewsc
@@ -43190,7 +43190,7 @@ wsmarowujm
 wspanialsz
 wsparł
 wspieniał
-wspią
+wspiął
 wspięt
 wspomag
 wspomaganym
@@ -43350,7 +43350,7 @@ wtrajan
 wtroil
 wtrojen
 wtrojon
-wtry
+wtryn
 wtrynian
 wtryn
 wtrynien
@@ -43360,7 +43360,7 @@ wtryśn
 wtrząch
 wtrąbiano
 wtrącan
-wtr
+wtrące
 wtrącił
 wtulaj
 wtul
@@ -43382,7 +43382,7 @@ wuesemowskim
 wuhank
 wuhańsc
 wujc
-wuju
+wuj
 wukad
 wulgarn
 wulgaryzatorstw
@@ -43882,7 +43882,7 @@ wygal
 wygalaj
 wygalaj
 wygalan
-wyga
+wyg
 wyganian
 wygarbian
 wygarbuj
@@ -45398,7 +45398,7 @@ wyłapyw
 wyłat
 wyławian
 wyławiało
-wyłbym
+wył
 wyłgal
 wyłg
 wyłkałb
@@ -45515,7 +45515,7 @@ wzbieraj
 wzbier
 wzbieran
 wzbier
-wzb
+wzbiłyś
 wzbron
 wzbronionym
 wzbudzal
@@ -45604,7 +45604,7 @@ wątłusz
 wąwolnickim
 wąwozik
 wąziuchn
-wędce
+węd
 wędk
 wędkark
 wędkarstw
@@ -45788,7 +45788,7 @@ zabełgotan
 zabełgotan
 zabełgotałob
 zabełt
-zabi
+zab
 zabiedzon
 zabieg
 zabiegaj
@@ -45939,14 +45939,14 @@ zaciapałb
 zaciapmyż
 zaciapuj
 zacieczono
-zaci
+zac
 zaciekawian
 zaciekawilib
 zaciekawiłab
 zaciek
 zaciek
 zacielaj
-zaci
+zac
 zaciemniaj
 zacieniajże
 zacien
@@ -46166,7 +46166,7 @@ zagadn
 zagadni
 zagadyw
 zagadyw
-zaga
+zag
 zagaj
 zagapian
 zagapiałyb
@@ -47166,7 +47166,7 @@ zasiarcz
 zasiarczaj
 zasiarcz
 zasiarczan
-zasi
+zas
 zasiedlaj
 zasiedl
 zasiedźże
@@ -47508,7 +47508,7 @@ zaweźm
 zawiad
 zawiadowc
 zawiasow
-zawi
+zaw
 zawieradło
 zawieruszan
 zawierzono
@@ -47763,7 +47763,7 @@ zbijaj
 zbijże
 zbilansował
 zbindowało
-zb
+zbił
 zbladł
 zblatował
 zblendowałab
@@ -47848,7 +47848,7 @@ zbędn
 zbłądz
 zbłąkał
 zbłękitn
-zd
+zda
 zdarniow
 zdarniuj
 zdart
@@ -48268,7 +48268,7 @@ zgrabywałab
 zgrafit
 zgrafityzowań
 zgranatowiało
-zgra
+zgran
 zgranulowan
 zgranulował
 zgranuluj
@@ -48321,7 +48321,7 @@ zgęszczałb
 zgładzań
 zgładze
 zgłaszaln
-zgł
+zgłasz
 zgłaszano
 zgłasz
 zgłoskow
@@ -49290,8 +49290,8 @@ zżółk
 ćkal
 ćkan
 ćmawe
-ćp
-ćpni
+ćpaliś
+ćpnięc
 ćpun
 ćwiartkow
 ćwiartkuj
@@ -49352,13 +49352,13 @@ zżółk
 łamistrajkow
 łamistrajk
 łamliwsz
-łani
+łan
 łani
 łanięck
-łanu
+łan
 łapan
 łapał
-łapi
+łap
 łapownik
 łapszańsk
 łapówkobior
@@ -49435,7 +49435,7 @@ zżółk
 łowickości
 łowiskowym
 łowi
-łoży
+łoż
 łoż
 łubiankarz
 łubian
@@ -49479,9 +49479,9 @@ zżółk
 łużycczyzn
 łużyńskośc
 łyczakowsk
-łyki
+łyk
 łykodrzewn
-łyku
+łyk
 łyp
 łypm
 łypnęliś
@@ -49499,7 +49499,7 @@ zżółk
 łyżkowałyb
 łyżk
 łyżwowrotk
-łz
+łzam
 łzawic
 łzawsz
 łódk
@@ -49674,7 +49674,7 @@ zżółk
 śnieżył
 śnież
 śnion
-śn
+śniłaś
 śpieszne
 śpieszn
 śpieszność
@@ -49814,7 +49814,7 @@ zżółk
 żakard
 żakostw
 żakowskim
-żaku
+żak
 żalcież
 żaluzj
 żandarmerio
@@ -49913,7 +49913,7 @@ zżółk
 żołądkuj
 żołądkówk
 żołędziówk
-żr
+żrącym
 żubrowisk
 żubrow
 żubrzyk
@@ -49938,7 +49938,7 @@ zżółk
 żydłaczen
 żydłaczm
 żydłacz
-żydł
+żyd
 żylenic
 żyleńc
 żylnym
@@ -49958,7 +49958,7 @@ zżółk
 żywicodajnym
 żywiczarzow
 żywic
-żywi
+żyw
 żywieniowc
 żywiołow
 żywiołowsz
