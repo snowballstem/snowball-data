@@ -11735,6 +11735,7 @@ intoner
 intork
 intrassl
 intrassl
+intravenös
 intressant
 intressant
 intressant
@@ -15844,6 +15845,8 @@ mellanrummet
 mellantid
 mellantid
 mellantid
+mellanös
+mellanös
 mellberg
 mell
 mellerst
@@ -28545,6 +28548,7 @@ veno
 venst
 venstr
 venus
+venös
 ver
 verallt
 verand
@@ -29031,6 +29035,7 @@ voa
 voil
 voix
 voll
+voluminös
 volym
 volym
 von

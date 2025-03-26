@@ -11735,6 +11735,7 @@ intonerade
 intorkade
 intrassla
 intrasslade
+intravenöst
 intressant
 intressanta
 intressantare
@@ -15844,6 +15845,8 @@ mellanrummet
 mellantid
 mellantiden
 mellantider
+mellanöstern
+mellanösterns
 mellberg
 meller
 mellersta
@@ -28545,6 +28548,7 @@ veno
 venster
 venstra
 venus
+venöst
 ver
 verallt
 veranda
@@ -29031,6 +29035,7 @@ voa
 voila
 voix
 voll
+voluminöst
 volym
 volymer
 von
