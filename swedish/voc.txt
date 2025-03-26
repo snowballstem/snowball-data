@@ -221,6 +221,7 @@ agera
 agerande
 agg
 aggande
+aggressivitet
 agn
 agnar
 agnes
@@ -269,6 +270,7 @@ albuske
 aldng
 aldrig
 alexander
+alfabet
 alfred
 alfvar
 algeriet
@@ -599,6 +601,8 @@ annorstädes
 annoterade
 anns
 annu
+annuitet
+anonymitet
 anonymt
 anordnande
 anordningar
@@ -720,6 +724,7 @@ antidreyfusistisk
 antik
 antika
 antikvariat
+antikvitet
 antikviteter
 antingen
 antisemitism
@@ -970,6 +975,7 @@ aura
 auskultant
 australien
 australneger
+autenticitet
 automat
 automatiskt
 automobil
@@ -3917,6 +3923,7 @@ dens
 densamma
 densamme
 denscöconens
+densitet
 departemanget
 departement
 deporterad
@@ -4877,6 +4884,7 @@ elegant
 eleganta
 eleganten
 eleganter
+elektricitet
 elektrisk
 elektriska
 elektriskt
@@ -5043,6 +5051,7 @@ epileptisk
 episod
 episoder
 epistlar
+epitet
 epok
 epokgörande
 epåletter
@@ -5758,6 +5767,7 @@ fler
 flera
 flesta
 flestas
+flexibilitet
 fli
 flicka
 flickaktig
@@ -8380,6 +8390,7 @@ generat
 generation
 generationer
 generations
+generositet
 generös
 generösa
 generösare
@@ -8883,6 +8894,7 @@ gravar
 gravarna
 graven
 gravera
+graviditet
 gravlika
 gravstenar
 gravstenarna
@@ -11173,6 +11185,7 @@ ideligen
 ideligt
 iden
 identifiera
+identitet
 idio
 idiot
 idioten
@@ -11642,6 +11655,7 @@ inspiration
 inspirationer
 insprängande
 inspärrad
+instabilitet
 installerad
 insteg
 instiftelseorden
@@ -11696,8 +11710,10 @@ intagit
 intar
 intc
 inte
+integritet
 intelligens
 intelligent
+intensitet
 intensivt
 interiör
 intermezzot
@@ -11711,6 +11727,7 @@ intillträdgårdensstora
 intima
 intimare
 intime
+intimitet
 intimt
 intog
 intogos
@@ -12382,6 +12399,7 @@ kantring
 kaos
 kapa
 kapabel
+kapacitet
 kapell
 kapellens
 kapital
@@ -13017,6 +13035,7 @@ komatöst
 komediantfolk
 komedien
 komedier
+komet
 komfortabelt
 komisk
 komiskt
@@ -13048,6 +13067,7 @@ kommo
 kommod
 kommoden
 kommunionen
+kommunitet
 komna
 kompan
 kompaner
@@ -13057,7 +13077,9 @@ kompanjonerna
 kompanjons
 kompanjonskap
 kompass
+kompatibilitet
 kompetent
+komplexitet
 komplimang
 komponerar
 kompositören
@@ -13142,6 +13164,7 @@ kontanta
 kontanter
 konterfej
 kontinent
+kontinuitet
 kontor
 kontoret
 kontrabesök
@@ -13670,6 +13693,7 @@ kvall
 kvalm
 kvalmig
 kvalmiga
+kvantitet
 kvar
 kvarblevo
 kvarglömd
@@ -14295,6 +14319,7 @@ lefvernet
 legat
 legenden
 legendens
+legitimitet
 lejd
 lejon
 lejonet
@@ -14515,6 +14540,7 @@ liktydigt
 likvidera
 likviderade
 likviderande
+likviditet
 likvisst
 likväl
 likör
@@ -14895,6 +14921,7 @@ luktar
 lukten
 luktärter
 lullade
+luminositet
 lummiga
 lummigt
 lump
@@ -15491,6 +15518,7 @@ maj
 majestät
 majestätet
 majestäts
+majoritet
 majrock
 majsen
 majstänger
@@ -15635,6 +15663,7 @@ maskiner
 maskineriet
 maskinerna
 maskor
+maskulinitet
 mass
 massa
 massage
@@ -15888,6 +15917,7 @@ meta
 metade
 metall
 metallens
+metallicitet
 metallisk
 metallklangen
 metar
@@ -16150,6 +16180,7 @@ mn
 mna
 mngen
 mnn
+mobilitet
 mod
 modd
 modehandlerskor
@@ -16166,6 +16197,7 @@ moderlöse
 modern
 moderna
 moderniserad
+modernitet
 moderns
 modernt
 moders
@@ -17088,6 +17120,7 @@ net
 neta
 netas
 netty
+neutralitet
 ni
 nia
 niais
@@ -17608,6 +17641,7 @@ oblandad
 oblandadt
 obligeant
 obligera
+oblikvitet
 oblyg
 oblyga
 oblygare
@@ -19130,6 +19164,7 @@ pose
 poserande
 poserar
 position
+positivitet
 post
 postb
 postbäraren
@@ -19238,6 +19273,7 @@ prinsen
 prinsessa
 prinsessan
 prior
+prioritet
 pris
 prisa
 prisade
@@ -19427,6 +19463,7 @@ psykiska
 psykofjanter
 ptockade
 pu
+publicitet
 publik
 publika
 publiken
@@ -20081,6 +20118,7 @@ ridån
 rierna
 rigeln
 riggad
+rigiditet
 rigla
 rigorös
 rigorösa
@@ -20175,6 +20213,7 @@ ritat
 rium
 riva
 rival
+rivalitet
 rivande
 river
 rivilligt
@@ -21209,6 +21248,7 @@ sentimentalt
 september
 septemberdag
 ser
+serendipitet
 sermo
 servera
 serverade
@@ -21239,6 +21279,7 @@ sextonskilling
 sextonårig
 sextonåriga
 sextonårigt
+sexualitet
 sf
 sffälle
 sfi
@@ -23461,6 +23502,7 @@ spleen
 splitter
 spolen
 spoling
+spontanitet
 spord
 sporer
 sporra
@@ -24500,6 +24542,7 @@ sutinera
 sutte
 suttit
 sutto
+suveränitet
 svada
 svag
 svaga
@@ -28327,6 +28370,7 @@ varf
 varfor
 varför
 vari
+variabilitet
 variant
 varibland
 variden
@@ -28902,6 +28946,7 @@ viskning
 viskningar
 viskningarna
 viskningen
+viskositet
 visky
 viskös
 viskösa

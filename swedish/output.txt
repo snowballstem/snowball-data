@@ -221,6 +221,7 @@ ager
 ager
 agg
 agg
+aggressivitet
 agn
 agn
 agn
@@ -269,6 +270,7 @@ albusk
 aldng
 aldr
 alexand
+alfabet
 alfred
 alfv
 algeriet
@@ -599,6 +601,8 @@ annorstäd
 annoter
 ann
 annu
+annuitet
+anonymitet
 anonymt
 anordn
 anordning
@@ -720,6 +724,7 @@ antidreyfusistisk
 antik
 antik
 antikvari
+antikvitet
 antikvitet
 anting
 antisemitism
@@ -970,6 +975,7 @@ aur
 auskultant
 australi
 australneg
+autenticitet
 autom
 automatisk
 automobil
@@ -3917,6 +3923,7 @@ den
 densamm
 densamm
 denscöcon
+densitet
 departemanget
 departement
 deporter
@@ -4877,6 +4884,7 @@ elegant
 elegant
 elegant
 elegant
+elektricitet
 elektrisk
 elektrisk
 elektrisk
@@ -5043,6 +5051,7 @@ epileptisk
 episod
 episod
 epistl
+epitet
 epok
 epokgör
 epålet
@@ -5758,6 +5767,7 @@ fler
 fler
 flest
 flest
+flexibilitet
 fli
 flick
 flickakt
@@ -8380,6 +8390,7 @@ gener
 generation
 generation
 generation
+generositet
 generös
 generös
 generös
@@ -8883,6 +8894,7 @@ grav
 grav
 grav
 graver
+graviditet
 gravlik
 gravsten
 gravsten
@@ -11173,6 +11185,7 @@ ide
 ide
 iden
 identifier
+identitet
 idio
 idiot
 idiot
@@ -11642,6 +11655,7 @@ inspiration
 inspiration
 inspräng
 inspärr
+instabilitet
 installer
 insteg
 instiftelseord
@@ -11696,8 +11710,10 @@ intagit
 int
 intc
 int
+integritet
 intel
 intelligent
+intensitet
 intensivt
 interiör
 intermezzot
@@ -11711,6 +11727,7 @@ intillträdgårdensstor
 intim
 intim
 intim
+intimitet
 intimt
 intog
 intogo
@@ -12382,6 +12399,7 @@ kantring
 kaos
 kap
 kapabel
+kapacitet
 kapell
 kapell
 kapital
@@ -13017,6 +13035,7 @@ komatös
 komediantfolk
 komedi
 komedi
+komet
 komfortabelt
 komisk
 komisk
@@ -13048,6 +13067,7 @@ kommo
 kommod
 kommod
 kommunion
+kommunitet
 komn
 kompan
 kompan
@@ -13057,7 +13077,9 @@ kompanjon
 kompanjon
 kompanjonskap
 kompass
+kompatibilitet
 kompetent
+komplexitet
 komplimang
 komponer
 kompositör
@@ -13142,6 +13164,7 @@ kontant
 kontant
 konterfej
 kontinent
+kontinuitet
 kont
 kontor
 kontrabesök
@@ -13670,6 +13693,7 @@ kvall
 kvalm
 kvalm
 kvalm
+kvantitet
 kvar
 kvarblevo
 kvarglömd
@@ -14295,6 +14319,7 @@ lefvernet
 leg
 legend
 legend
+legitimitet
 lejd
 lejon
 lejon
@@ -14515,6 +14540,7 @@ liktyd
 likvider
 likvider
 likvider
+likviditet
 likvisst
 likväl
 likör
@@ -14895,6 +14921,7 @@ lukt
 lukt
 luktärt
 lull
+luminositet
 lumm
 lumm
 lump
@@ -15491,6 +15518,7 @@ maj
 majestät
 majestät
 majestät
+majoritet
 majrock
 majs
 majstäng
@@ -15635,6 +15663,7 @@ maskin
 maskineriet
 maskin
 mask
+maskulinitet
 mass
 mass
 massag
@@ -15888,6 +15917,7 @@ met
 met
 metall
 metall
+metallicitet
 metallisk
 metallklang
 met
@@ -16150,6 +16180,7 @@ mn
 mna
 mngen
 mnn
+mobilitet
 mod
 modd
 modehandlersk
@@ -16166,6 +16197,7 @@ moderlös
 mod
 mod
 moderniser
+modernitet
 mod
 modernt
 moder
@@ -17088,6 +17120,7 @@ net
 net
 net
 netty
+neutralitet
 ni
 nia
 niais
@@ -17608,6 +17641,7 @@ obland
 oblandad
 obligeant
 obliger
+oblikvitet
 oblyg
 oblyg
 oblyg
@@ -19130,6 +19164,7 @@ pos
 poser
 poser
 position
+positivitet
 post
 postb
 postbär
@@ -19238,6 +19273,7 @@ prins
 prinsess
 prinsessan
 prior
+prioritet
 pris
 pris
 pris
@@ -19427,6 +19463,7 @@ psykisk
 psykofjant
 ptock
 pu
+publicitet
 publik
 publik
 publik
@@ -20081,6 +20118,7 @@ ridån
 riern
 rigeln
 rigg
+rigiditet
 rigl
 rigorös
 rigorös
@@ -20175,6 +20213,7 @@ rit
 rium
 riv
 rival
+rivalitet
 riv
 riv
 rivil
@@ -21209,6 +21248,7 @@ sentimentalt
 septemb
 septemberdag
 ser
+serendipitet
 sermo
 server
 server
@@ -21239,6 +21279,7 @@ sextonskilling
 sextonår
 sextonår
 sextonår
+sexualitet
 sf
 sffäll
 sfi
@@ -23461,6 +23502,7 @@ spleen
 splitt
 spol
 spoling
+spontanitet
 spord
 spor
 sporr
@@ -24500,6 +24542,7 @@ sutiner
 sutt
 suttit
 sutto
+suveränitet
 svad
 svag
 svag
@@ -28327,6 +28370,7 @@ varf
 varf
 varför
 vari
+variabilitet
 variant
 varibland
 varid
@@ -28902,6 +28946,7 @@ viskning
 viskning
 viskning
 viskning
+viskositet
 visky
 viskös
 viskös
