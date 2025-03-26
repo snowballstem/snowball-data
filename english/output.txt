@@ -9,6 +9,7 @@ as
 as
 's
 s
+s
 a
 a'
 a'
@@ -1982,6 +1983,14 @@ arrow
 arrowroot
 arrow
 arroyo
+arsenal
+arsenal
+arsenat
+arsenic
+arsenid
+arsenio
+arsenit
+arsenopyrit
 arson
 art
 artemidorus
@@ -8424,6 +8433,7 @@ cosgrav
 cosili
 cosmo
 cosmopolitan
+cosmos
 cossack
 cost
 costal
@@ -37423,6 +37433,8 @@ theori
 theoriz
 theori
 ther
+there
+there
 there
 thereabout
 thereabout

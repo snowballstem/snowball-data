@@ -9,6 +9,7 @@
 'as'
 's
 's'
+'s'
 a
 a'
 a''
@@ -1982,6 +1983,14 @@ arrowing
 arrowroot
 arrows
 arroyo
+arsenal
+arsenals
+arsenate
+arsenic
+arsenide
+arsenio
+arsenite
+arsenopyrite
 arson
 art
 artemidorus
@@ -8424,6 +8433,7 @@ cosgrave
 cosily
 cosmo
 cosmopolitan
+cosmos
 cossacks
 cost
 costal
@@ -37424,6 +37434,8 @@ theorize
 theory
 ther
 there
+there's
+there's'
 thereabout
 thereabouts
 thereafter
