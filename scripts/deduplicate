@@ -1,0 +1,70 @@
+#!/usr/bin/perl -CS
+use warnings;
+use strict;
+use autodie;
+if (@ARGV > 0 && substr($ARGV[0], 0, 1) eq '-') {
+    print <<"__END__";
+Syntax: $0 [DIRECTORY...]
+
+Removes duplicate entries from DIRECTORY/voc.txt and the corresponding entries
+from DIRECTORY/output.txt.  The order of the files is preserved, and the first
+of each group of duplicates is kept.
+
+If run without any arguments, will run for all direct, non-hidden
+subdirectories containing voc.txt and output.txt.
+__END__
+    exit(1);
+}
+
+my @dirs = @ARGV;
+if (@dirs == 0) {
+    opendir(my $dh, '.');
+    @dirs = grep {substr($_, 0, 1) ne '.' && -f "$_/voc.txt" && -f "$_/output.txt"} readdir $dh;
+    closedir $dh;
+}
+
+for my $dir (@dirs) {
+    my $voc = "$dir/voc.txt";
+    my $out = "$dir/output.txt";
+    my %h;
+    my $changes = 0;
+    open my $VOC, '<:encoding(UTF-8)', $voc;
+    open my $OUT, '<:encoding(UTF-8)', $out;
+    open my $NEWVOC, '>:encoding(UTF-8)', "$voc.tmp";
+    open my $NEWOUT, '>:encoding(UTF-8)', "$out.tmp";
+    while (<$VOC>) {
+	my $o = <$OUT>;
+	if (!defined $o) {
+	    die "$voc: Contains more lines than '$out'\n";
+	}
+	my $v = $_;
+	my $oo = $o;
+	chomp($v);
+	chomp($o);
+	if (exists $h{$v}) {
+	    ++$changes;
+	    if ($h{$v} ne $o) {
+		die "$out: Multiple entries for word '$v' but with different stems '$h{$_}' and '$o'\n";
+	    }
+	    warn "$voc: Ignoring duplicate of word '$v'\n";
+	    next;
+	}
+	$h{$v} = $o;
+	print $NEWVOC $_;
+	print $NEWOUT $oo;
+    }
+    if (defined(my $o = <$OUT>)) {
+	die "$out: Contains more lines than '$voc'\n";
+    }
+    close $VOC;
+    close $OUT;
+    close $NEWVOC;
+    close $NEWOUT;
+    if ($changes > 0) {
+	rename "$voc.tmp", $voc;
+	rename "$out.tmp", $out;
+    } else {
+	unlink "$voc.tmp";
+	unlink "$out.tmp";
+    }
+}
