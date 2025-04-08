@@ -1,6 +1,3 @@
-choux
-hiboux
-poux
 a
 abailard
 abaissait
@@ -2846,6 +2843,7 @@ cagnola
 cahier
 cahutes
 cailles
+caillou
 cailloux
 caillé
 caisse
@@ -3498,8 +3496,10 @@ choroïde
 chorus
 chose
 choses
+chou
 chouart
 choucroute
+choux
 choyé
 christ
 christianisme
@@ -8892,6 +8892,7 @@ gendre
 general
 genevois
 genlis
+genou
 genoux
 genre
 genres
@@ -9444,6 +9445,8 @@ heureux
 heurtaient
 heurte
 heurter
+hibou
+hiboux
 hic
 hideuse
 hideuses
@@ -10803,6 +10806,7 @@ jouisse
 jouissent
 jouissons
 jouit
+joujou
 joujoux
 joumate
 jouons
@@ -14967,6 +14971,7 @@ potage
 potager
 potagères
 potentats
+pou
 pouce
 pouces
 poudrait
@@ -15044,6 +15049,7 @@ pouviez
 pouvions
 pouvoir
 pouvons
+poux
 pozzo
 poème
 poète
