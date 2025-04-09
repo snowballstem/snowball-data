@@ -6,12 +6,12 @@ if (@ARGV > 0 && substr($ARGV[0], 0, 1) eq '-') {
     print <<"__END__";
 Syntax: $0 [DIRECTORY...]
 
-Removes duplicate entries from DIRECTORY/voc.txt and the corresponding entries
+Removes duplicate lines from DIRECTORY/voc.txt and the corresponding lines
 from DIRECTORY/output.txt.  The order of the files is preserved, and the first
-of each group of duplicates is kept.
+of each set of duplicates is kept.
 
 If run without any arguments, will run for all direct, non-hidden
-subdirectories containing voc.txt and output.txt.
+subdirectories containing both voc.txt and output.txt.
 __END__
     exit(1);
 }
