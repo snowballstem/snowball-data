@@ -16,6 +16,9 @@ voc.txt is a merge of data from:
     scripts/wikipedia-dump-to-freq frwiki-20240102-pages-articles.xml.bz2 4000 latin1 |\
         grep "'" | scripts/freq-to-voc > voc2.txt
 
+* A small number of hand selected words to provide better test coverage for
+  changes to the algorithm.
+
 The word lists were then merged like so:
 
   LANG=C sort -u voc.txt voc1.txt voc2.txt > french/voc.txt

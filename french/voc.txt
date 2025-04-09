@@ -13160,6 +13160,8 @@ niais
 niaiserie
 niaiseries
 niaises
+niaisé
+niaisés
 nice
 niche
 nicolas
@@ -13180,6 +13182,9 @@ nizam
 nièce
 nièces
 nié
+niée
+niées
+niés
 no
 nobiliaires
 noble
