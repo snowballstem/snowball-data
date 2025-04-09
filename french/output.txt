@@ -1938,8 +1938,8 @@ ayez
 aymon
 ayon
 azerbaïdjan
-azerbaïdjanais
-azerbaïdjanais
+azerbaïdjan
+azerbaïdjan
 azo
 azur
 aérien
@@ -2177,7 +2177,7 @@ beaumarch
 beauty
 beaut
 beaut
-beauv
+beauvais
 beauvais
 beauvois
 beau
@@ -2851,7 +2851,7 @@ caiss
 caissi
 caisson
 cajoler
-cal
+calais
 calcul
 calcul
 calcul
@@ -8546,8 +8546,8 @@ franc
 francisco
 franc
 franc
-français
-français
+franc
+franc
 françois
 frapp
 frapp
@@ -9480,7 +9480,7 @@ hoch
 hoch
 holland
 holland
-hollandais
+holland
 holland
 holà
 hominoïd
@@ -10689,8 +10689,8 @@ jant
 janvi
 japon
 japon
-japonais
-japonais
+japon
+japon
 japonais
 jaquet
 jardin
@@ -11391,7 +11391,7 @@ labori
 labori
 labour
 lac
-lachais
+lach
 lacon
 lac
 ladisl
@@ -11985,7 +11985,7 @@ maladroit
 maladroit
 malag
 malagrid
-mal
+malais
 malais
 malais
 maldon
@@ -12460,7 +12460,7 @@ migrat
 mikado
 milan
 milan
-milanais
+milan
 milieu
 militair
 militair
@@ -13853,7 +13853,7 @@ paisibl
 paisibl
 paix
 pal
-pal
+palais
 palanquin
 palanquin
 palanz
@@ -14632,7 +14632,7 @@ pietr
 piécet
 piémont
 piémont
-piémontais
+piémont
 piéton
 piéton
 piet
@@ -14934,7 +14934,7 @@ portr
 portrait
 port
 portug
-portugais
+portug
 port
 port
 port
@@ -19320,8 +19320,8 @@ taïg
 taïkoun
 taïno
 taïwan
-taïwanais
-taïwanais
+taïwan
+taïwan
 te
 te
 teck
@@ -19435,8 +19435,8 @@ that
 thaï
 thaï
 thaïland
-thaïlandais
-thaïlandais
+thaïland
+thaïland
 thaï
 the
 theft
@@ -21046,7 +21046,7 @@ zénith
 écorch
 écorch
 écorn
-écossais
+écoss
 écoul
 écoul
 écoul
