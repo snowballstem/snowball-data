@@ -1,0 +1,68 @@
+#!/usr/bin/perl -CS
+use warnings;
+use strict;
+use autodie;
+if (@ARGV > 0 && substr($ARGV[0], 0, 1) eq '-') {
+    print <<"__END__";
+Syntax: $0 [DIRECTORY...]
+
+Sort lines of DIRECTORY/voc.txt into ascending order (by byte-wise comparison)
+and apply the same reordering to the corresponding lines of
+DIRECTORY/output.txt.
+
+If run without any arguments, will run for all direct, non-hidden
+subdirectories containing both voc.txt and output.txt.
+__END__
+    exit(1);
+}
+
+my @dirs = @ARGV;
+if (@dirs == 0) {
+    opendir(my $dh, '.');
+    @dirs = grep {substr($_, 0, 1) ne '.' && -f "$_/voc.txt" && -f "$_/output.txt"} readdir $dh;
+    closedir $dh;
+}
+
+for my $dir (@dirs) {
+    my $voc = "$dir/voc.txt";
+    my $out = "$dir/output.txt";
+    my @e;
+    my $changes = 0;
+    open my $VOC, '<:encoding(UTF-8)', $voc;
+    open my $OUT, '<:encoding(UTF-8)', $out;
+    my $p = '';
+    while (<$VOC>) {
+	my $o = <$OUT>;
+	if (!defined $o) {
+	    die "$voc: Contains more lines than '$out'\n";
+	}
+	my $v = $_;
+	++$changes if ($v lt $p);
+	$p = $v;
+	chomp($v);
+	chomp($o);
+	push @e, "$v\0$o";
+    }
+    if (defined(my $o = <$OUT>)) {
+	die "$out: Contains more lines than '$voc'\n";
+    }
+    close $VOC;
+    close $OUT;
+
+    open my $NEWVOC, '>:encoding(UTF-8)', "$voc.tmp";
+    open my $NEWOUT, '>:encoding(UTF-8)', "$out.tmp";
+    for (sort @e) {
+	my ($v, $o) = split /\0/, $_, 2;
+	print $NEWVOC $v, "\n";
+	print $NEWOUT $o, "\n";
+    }
+    close $NEWVOC;
+    close $NEWOUT;
+    if ($changes > 0) {
+	rename "$voc.tmp", $voc;
+	rename "$out.tmp", $out;
+    } else {
+	unlink "$voc.tmp";
+	unlink "$out.tmp";
+    }
+}
