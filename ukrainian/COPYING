@@ -1,0 +1,14 @@
+voc.txt was generated from a dump of the Ukrainian wikipedia by the script 'wikipedia-most-common-words' like this:
+
+wget https://dumps.wikimedia.org/ukwiki/latest/ukwiki-latest-pages-articles.xml.bz2
+pip install wikiextractor
+wikiextractor ukwiki-latest-pages-articles.xml.bz2
+cat text/*/* | ../snowball-data/wikipedia-most-common-words 10 cyrillic | sort -u > voc.txt
+
+The dump used was dated Sep 20th 2023.
+
+output.txt was generated from voc.txt by running it through the stemmer:
+
+./stemwords -l ukrainian -c UTF_8 -i ../snowball-data/ukrainian/voc.txt -o ../snowball-data/ukrainian/output.txt
+
+Wikipedia is licensed as: https://creativecommons.org/licenses/by-sa/3.0/
