@@ -1575,7 +1575,7 @@ apolog
 apologis
 apologis
 apologis
-apologist
+apolog
 apolog
 apolog
 apolog
@@ -1796,7 +1796,7 @@ archaeologian
 archaeolog
 archaeolog
 archaeolog
-archaeologist
+archaeolog
 archaeolog
 archbishop
 archbishopr
@@ -12868,7 +12868,7 @@ entomb
 entomb
 entomol
 entomolog
-entomologist
+entomolog
 entomolog
 entomostraca
 entomostrac
@@ -16072,7 +16072,7 @@ gen
 gender
 gender
 genealog
-genealogist
+genealog
 genelman
 genelmen
 genera
@@ -16153,8 +16153,8 @@ geolog
 geolog
 geologica
 geolog
-geologist
-geologist
+geolog
+geolog
 geolog
 geolog
 geolog
@@ -25737,6 +25737,9 @@ omphal
 on
 onc
 oncl
+oncolog
+oncolog
+oncolog
 one
 one
 oner
@@ -25949,8 +25952,8 @@ ornament
 ornament
 ornament
 ornament
-ornithologist
-ornithologist
+ornitholog
+ornitholog
 ornitholog
 ornithorhynchus
 orod
@@ -29508,7 +29511,7 @@ pshaw
 psych
 psycholog
 psycholog
-psychologist
+psycholog
 psycholog
 pt
 ptarmigan
