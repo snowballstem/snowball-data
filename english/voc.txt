@@ -2579,6 +2579,7 @@ ay
 ayant
 aye
 ayez
+aying
 ayli
 aynt
 ayres
@@ -18707,6 +18708,7 @@ hyen
 hyena
 hygeia
 hygrometer
+hying
 hyla
 hymen
 hymenaeus
@@ -40751,6 +40753,7 @@ videsne
 vidi
 vie
 vied
+vieing
 vienna
 viens
 view
@@ -41092,6 +41095,7 @@ vultures
 vun
 vuneral
 vurther
+vying
 w
 wa
 waa

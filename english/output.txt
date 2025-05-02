@@ -2579,6 +2579,7 @@ ay
 ayant
 aye
 ayez
+aye
 ayli
 aynt
 ayr
@@ -18707,6 +18708,7 @@ hyen
 hyena
 hygeia
 hygromet
+hie
 hyla
 hymen
 hymenaeus
@@ -40751,6 +40753,7 @@ videsn
 vidi
 vie
 vie
+vie
 vienna
 vien
 view
@@ -41092,6 +41095,7 @@ vultur
 vun
 vuner
 vurther
+vie
 w
 wa
 waa
