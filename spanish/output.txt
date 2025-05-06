@@ -6508,7 +6508,7 @@ constat
 constat
 const
 constern
-constitucion
+constitu
 constitu
 constitucional
 constitucional
@@ -23437,7 +23437,7 @@ resistent
 resist
 resist
 resist
-resolucion
+resolu
 resolu
 resolu
 resolv
