@@ -2254,6 +2254,7 @@ athversari
 athwart
 atlant
 atlas
+atlas
 atmospher
 atmospher
 atol
@@ -3659,6 +3660,9 @@ bezzemelni
 bianca
 bianchini
 bianco
+bias
+bias
+bias
 bias
 bibbl
 bibl
@@ -19756,6 +19760,7 @@ inn
 innat
 inner
 inning
+inning
 innkeep
 innkeep
 innoc
@@ -25920,6 +25925,7 @@ organist
 organiz
 organiz
 organiz
+organiz
 organ
 orgi
 orgil
@@ -26095,6 +26101,7 @@ outgo
 outgrown
 outhous
 outhous
+outing
 outjest
 outlandish
 outlaw
@@ -34132,6 +34139,7 @@ sketch
 sketchili
 sketch
 skewer
+ski
 skiddaw
 sky
 skil
@@ -34170,6 +34178,7 @@ skirr
 skirt
 skirt
 skirt
+ski
 skittish
 skittl
 skittl

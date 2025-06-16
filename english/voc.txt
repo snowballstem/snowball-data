@@ -2254,6 +2254,7 @@ athversary
 athwart
 atlantic
 atlas
+atlases
 atmosphere
 atmospheric
 atoll
@@ -3660,6 +3661,9 @@ bianca
 bianchini
 bianco
 bias
+biased
+biases
+biasing
 bibble
 bible
 bibo
@@ -19755,6 +19759,7 @@ inmost
 inn
 innate
 inner
+inning
 innings
 innkeeper
 innkeepers
@@ -25919,6 +25924,7 @@ organism
 organist
 organization
 organizations
+organize
 organized
 organs
 orgies
@@ -26095,6 +26101,7 @@ outgoings
 outgrown
 outhouse
 outhouses
+outing
 outjest
 outlandish
 outlaw
@@ -34132,6 +34139,7 @@ sketches
 sketchily
 sketching
 skewer
+ski
 skiddaw
 skies
 skilful
@@ -34170,6 +34178,7 @@ skirr
 skirt
 skirted
 skirts
+skis
 skittish
 skittle
 skittles
