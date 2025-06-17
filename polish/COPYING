@@ -1,0 +1,22 @@
+voc.txt was built as a random subset from https://sjp.pl/slownik/growy/sjp-20211130.zip that is licensed under GPL 2 and CC BY 4.0
+
+output.txt was generated from voc.txt by running it through the stemmer, compiled into Python:
+
+./Snowball polish.sbl -o polishstemmer -python # compilation
+
+
+# Python code
+
+from polishstemmer import Polishstemmer
+stem = Polishstemmer() 
+voc_path = 'polish/voc.txt'
+voc = []
+with open(voc_path, 'r') as f:
+    for line in f.readlines():
+        voc.append(line.strip())
+
+output = stem.stemWords(voc)
+out_path = 'polish/output.txt'
+with open(out_path, 'w') as f:
+    for word in output:
+        f.write(str(word) + '\n')
