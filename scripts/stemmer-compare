@@ -136,7 +136,7 @@ for my $v (sort keys %v) {
         if ($v eq ${$o1{$k[0]}}[0]) {
             # We find the merge for every word in it, so only report once for
             # the first word of the first stem.
-            push @merges, [$s2, join(' + ', map {'{ ' . join(' ', @{$o1{$_}}) . ' }'} @k)];
+            push @merges, [$s2, join(' + ', map {'{ ' . join(' . ', @{$o1{$_}}) . ' }'} @k)];
         }
         next;
     } elsif (scalar keys %m == 1) {
@@ -165,7 +165,7 @@ for my $v (sort keys %v) {
         if ($v eq ${$o2{$k[0]}}[0]) {
             # We find the split for every word in it, so only report once for
             # the first word of the first stem.
-            push @splits, [map {($_, join(' ', @{$o2{$_}}))} @k];
+            push @splits, [map {($_, join(' . ', @{$o2{$_}}))} @k];
         }
         next;
     } elsif (scalar keys %s == 1) {
