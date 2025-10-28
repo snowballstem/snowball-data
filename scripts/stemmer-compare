@@ -191,19 +191,19 @@ if (scalar @boring) {
 
 if (@merges) {
     printf HTML "<li>%d merges of groups of stems:\n", scalar(@merges);
-    print HTML "<div>\n";
+    print HTML "<ol>\n";
     for (@merges) {
-        print HTML "<div title=\"", encode_entities($_->[0]), "\">", encode_entities($_->[1]), "</div>\n";
+        print HTML "<li title=\"", encode_entities($_->[0]), "\">", encode_entities($_->[1]), "</li>\n";
     }
-    print HTML "</div>\n";
+    print HTML "</ol>\n";
 }
 
 if (@splits) {
     printf HTML "<li>%d splits of groups of stems:\n", scalar(@splits);
-    print HTML "<div>\n";
+    print HTML "<ol>\n";
     for (@splits) {
         my @list = @{$_};
-        my $inter = "<div>{ ";
+        my $inter = "<li>{ ";
         while (scalar @list) {
             my $stem = shift @list;
             my $group = shift @list;
@@ -211,9 +211,9 @@ if (@splits) {
             print HTML "<span title=\"", encode_entities($stem), "\">", encode_entities($group), "</span>";
             $inter = " | ";
         }
-        print HTML " }</div>";
+        print HTML " }</li>";
     }
-    print HTML "</div>\n";
+    print HTML "</ol>\n";
 }
 
 sub dot_id {
