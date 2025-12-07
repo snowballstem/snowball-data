@@ -140,6 +140,11 @@ my ($title, $body);
 my $c = 0;
 my $t = time;
 while (($title, $body) = $pages->next) {
+    # Skip special pages.
+    # FIXME: Maybe Category:* are worth processing?
+    next if index($title, ':') >= 0;
+
+    my $raw = $body;
     if (++$c % 100000 == 0) {
 	my $e = time - $t;
 	printf STDERR "%d in %ds %d/hour : %s\n", $c, $e, int($c*3600/$e), $title;
@@ -166,8 +171,11 @@ while (($title, $body) = $pages->next) {
     s,<(?:\w+[^>]*/|!--.*?--)>,,sg;
     s!<(\w+)[^>]*>.*?</\1 *>!!sg;
     s!<.*?>!!sg;
-    s!\[\[(?:.*?\|)?([^|]*?)\]\]!$1!sg;
+    s!\[\[(?:.*?\|)?([^|]*?)\]\]!index($1, ':') == -1 ? $1 : ' '!sge;
     s!\[(?:.*? )?(.*?)\]!$1!sg;
+    # Strip out obvious cases of broken table formatting.
+    s/\ (?:bgcolor|align|colspan|width)=.*?|//g;
+    s/\|- (?:bgcolor|align|colspan|width)=.*//g;
     decode_entities($_);
     next if /^#REDIRECT\b/i;
     next if /^__[A-Za-z]+__\s*$/;
