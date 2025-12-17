@@ -191,7 +191,10 @@ if (scalar @boring) {
 
 if (@merges) {
     printf HTML "<li>%d merges of groups of stems:\n", scalar(@merges);
-    print HTML "<ol>\n";
+    # Attribute type="1" specifies numbering the list items 1, 2, 3, ...  which
+    # is the default, but e.g. github's stylesheet sets roman numerals so being
+    # explicit here is useful.
+    print HTML "<ol type="1">\n";
     for (@merges) {
         print HTML "<li title=\"", encode_entities($_->[0]), "\">", encode_entities($_->[1]), "</li>\n";
     }
@@ -200,7 +203,7 @@ if (@merges) {
 
 if (@splits) {
     printf HTML "<li>%d splits of groups of stems:\n", scalar(@splits);
-    print HTML "<ol>\n";
+    print HTML "<ol type="1">\n";
     for (@splits) {
         my @list = @{$_};
         my $inter = "<li>{ ";
