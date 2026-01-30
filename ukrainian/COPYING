@@ -11,4 +11,5 @@ output.txt was generated from voc.txt by running it through the stemmer:
 
 stemwords -l uk -c UTF_8 -i ukrainian/voc.txt -o ukrainian/output.txt
 
-Wikipedia is licensed as: https://creativecommons.org/licenses/by-sa/3.0/
+Wikipedia text content is licensed as CC BY-SA 3.0:
+https://creativecommons.org/licenses/by-sa/3.0/
