@@ -1,0 +1,14 @@
+voc.txt is licensed as CC BY-SA.
+
+voc.txt was generated from a dump of the Ukrainian Wikipedia like so:
+
+perl -CS scripts/wikipedia-dump-to-freq ukwiki-latest-pages-articles.xml.bz2 10 Cyrillic > voc.freq
+scripts/freq-to-voc 300 < voc.freq | grep -v "^'" > ukrainian/voc.txt
+
+The dump used was dated 2025-01-02.
+
+output.txt was generated from voc.txt by running it through the stemmer:
+
+stemwords -l uk -c UTF_8 -i ukrainian/voc.txt -o ukrainian/output.txt
+
+Wikipedia is licensed as: https://creativecommons.org/licenses/by-sa/3.0/
