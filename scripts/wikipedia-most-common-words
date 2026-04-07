@@ -2,6 +2,17 @@
 use strict;
 use warnings;
 
+print << "__END__";
+============================================================================
+WARNING: This script requires WikiExtractor.py which seems to have bitrotted
+and is now both very slow and unreliable.  You probably want to use
+the newer scripts/wikipedia-dump-to-freq and scripts/freq-to-voc instead.
+We've left this script here as it's referenced by the COPYING files for
+some languages as how the vocabulary was originally generated.
+============================================================================
+
+__END__
+
 # Minimum number of occurrence of a word.
 my $MIN_FREQ = 10;
 
