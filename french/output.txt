@@ -646,6 +646,8 @@ aiguill
 aiguill
 aiguillon
 aiguis
+aigui
+aigui
 aigus
 aigu
 aigu
@@ -1030,6 +1032,8 @@ anonym
 an
 anse
 antagon
+antholog
+antholog
 anthropophag
 anthropoïd
 anti
@@ -9712,6 +9716,8 @@ idéal
 idéal
 idé
 idé
+idéolog
+idéolog
 ignar
 igne
 ignobl
@@ -14134,6 +14140,7 @@ parton
 partout
 part
 part
+part
 paru
 parurent
 parut
@@ -14220,6 +14227,8 @@ pat
 patern
 paternel
 paternel
+patholog
+patholog
 pathos
 pathet
 pathet
@@ -16370,6 +16379,7 @@ redress
 refair
 refais
 refait
+ref
 referm
 referm
 referm
@@ -18207,6 +18217,7 @@ serr
 serr
 serr
 serr
+serr
 serrent
 serr
 serr
@@ -19324,6 +19335,8 @@ taïwan
 taïwan
 te
 te
+technolog
+technolog
 teck
 teindr
 teint
