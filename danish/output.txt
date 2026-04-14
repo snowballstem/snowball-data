@@ -4050,6 +4050,7 @@ ekron
 ekronit
 ekron
 eksempel
+eksist
 el
 ela
 elaja
@@ -19230,6 +19231,8 @@ stsid
 stsid
 stub
 stub
+stud
+stud
 stud
 studs
 studsed

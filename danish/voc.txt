@@ -4050,6 +4050,7 @@ ekron
 ekroniterne
 ekrons
 eksempel
+eksisterende
 el
 ela
 elaja
@@ -19230,6 +19231,8 @@ stside
 stsiden
 stub
 stubben
+studerende
+studerendes
 studs
 studse
 studsed
