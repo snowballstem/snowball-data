@@ -2701,6 +2701,7 @@ biljera
 bill
 billa
 billboardów
+billy'emu
 bilon
 bimber
 binder
@@ -5161,6 +5162,7 @@ cokołu
 colberta
 coldplay
 coli
+college'ach
 collegium
 collie
 collins
@@ -6115,6 +6117,7 @@ daty
 datą
 datę
 daumantas
+dave'em
 david
 davida
 davidem
@@ -7576,6 +7579,7 @@ dotykał
 dotykowy
 dotyku
 dotąd
+double'ów
 douchy
 douglasa
 doustnie
@@ -12333,6 +12337,7 @@ halejcio
 halep
 halewi
 halfina
+halfpipe'ie
 hali
 halicki
 halina
@@ -14005,6 +14010,7 @@ jakaś
 jakby
 jakbym
 jakbyś
+jake'owi
 jaki
 jakich
 jakichkolwiek
@@ -21671,6 +21677,7 @@ mityng
 mitów
 mivue
 mixed
+mixtape'y
 mixtral
 miyazaka
 mizerię
@@ -28042,6 +28049,7 @@ olkusz
 olkusza
 olkuszem
 olkuszu
+olly'ego
 olson
 olssona
 olszanicy
@@ -30600,6 +30608,7 @@ pierniku
 pierogi
 pierogów
 pierożki
+pierre'a
 piersi
 piersiach
 piersiowej
@@ -43339,6 +43348,7 @@ slisz
 slisza
 slogan
 sloganami
+slopestyle'u
 slovanem
 slovenia
 slow

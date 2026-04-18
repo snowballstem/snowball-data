@@ -2701,6 +2701,7 @@ biljer
 bill
 bill
 billboard
+billy
 bilon
 bimber
 binder
@@ -5161,6 +5162,7 @@ cokoł
 colbert
 coldpla
 col
+college
 collegium
 coll
 collins
@@ -6115,6 +6117,7 @@ dat
 dat
 dat
 daumantas
+dave
 david
 david
 david
@@ -7576,6 +7579,7 @@ dotyk
 dotykow
 dotyk
 dotąd
+double
 douch
 douglas
 doustn
@@ -12333,6 +12337,7 @@ halejci
 halep
 halew
 halfin
+halfpipe
 hal
 halick
 halin
@@ -14005,6 +14010,7 @@ jakas
 jak
 jak
 jak
+jake
 jak
 jak
 jakichkolwiek
@@ -21671,6 +21677,7 @@ mityng
 mit
 mivu
 mixed
+mixtape
 mixtral
 miyazak
 mizeri
@@ -28042,6 +28049,7 @@ olkusz
 olku
 olkusz
 olkusz
+olly
 olson
 olsson
 olszanic
@@ -30600,6 +30608,7 @@ piernik
 pierog
 pierog
 pierożk
+pierre
 piers
 piers
 piersiow
@@ -43339,6 +43348,7 @@ sl
 sli
 slogan
 slogan
+slopestyle
 slovan
 sloven
 slow
