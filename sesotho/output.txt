@@ -561,11 +561,9 @@ mamed
 mamel
 mbanan
 ban
-ban
 nab'abo
 nab'eso
 nababo
-ban
 ban
 ban
 band
@@ -599,9 +597,7 @@ obab
 okamel
 ook
 pal
-pal
 palam
-pal
 pal
 pale
 pall
@@ -614,13 +610,11 @@ pap
 pats
 ped
 bap
-bap
 pets
 phaphatheh
 phatlalats
 phet
 pilwe
-bap
 bap
 pis
 pis
@@ -661,12 +655,10 @@ rupel
 rupell
 rupelu
 rut
-rut
 ruto
 rutw
 rwets
 bas
-sad
 sad
 sadi
 sal
@@ -704,7 +696,6 @@ tak
 talets
 bat
 theh
-tho
 tho
 bath
 thurst
@@ -899,7 +890,6 @@ bitsets
 bitsitse
 bitsits
 bits
-bits
 bitso
 bitsu
 bitsuw
@@ -1032,7 +1022,6 @@ kakaso
 kakets
 karabello
 karabelo
-karabelo
 karabel
 kemelo
 kemisetso
@@ -1044,7 +1033,6 @@ kitlaetso
 koetliso
 kokobetso
 kot
-kutlo
 kutlo
 boim
 boim
@@ -1131,7 +1119,6 @@ bolawe
 bolay
 bolay
 bol
-bol
 bolel
 bolele
 bolelele
@@ -1145,7 +1132,6 @@ bolelwago
 bolelw
 bol
 bolep
-bol
 bol
 bolets
 boletsoe
@@ -1341,7 +1327,6 @@ botlamuo
 botlamuw
 botlats
 botle
-botle
 botlokotsebe
 boto
 boton
@@ -1412,7 +1397,6 @@ bryanston
 bsc
 bu
 bu
-bu
 buahal
 bu
 bucharest
@@ -1430,7 +1414,6 @@ buhle
 build
 building
 buildings
-bu
 bu
 buil
 buis
@@ -2702,13 +2685,11 @@ ethiopi
 etk
 etkil
 ets
-ets
 etsahal
 etsahal
 etsahale
 etsah
 etsahets
-ets
 ets
 etse
 etsebahal
@@ -2717,7 +2698,6 @@ etselitsoe
 etselitso
 ets
 etsets
-ets
 ets
 ets
 ets
@@ -5116,7 +5096,6 @@ euwkuil
 lef
 faph
 faph
-faph
 fase
 fats'e
 fats'
@@ -5311,7 +5290,6 @@ rapo
 rat
 rat
 rato
-rato
 ratsw
 re
 rem
@@ -5419,7 +5397,6 @@ albamo
 am
 aparo
 atl
-bak
 bak
 bak
 baktheri
@@ -6005,7 +5982,6 @@ fahl
 fahlan
 faph
 faph
-faph
 fatshe
 fatsh
 feking
@@ -6078,7 +6054,6 @@ hotell
 ikarabelo
 ikemisetso
 iketsetso
-ikutlo
 ikutlo
 ikutl
 il
@@ -6324,7 +6299,6 @@ march
 rcus
 rek
 ren
-ren
 reo
 rgaret
 ri
@@ -6453,7 +6427,6 @@ tlalo
 tle
 tlebyane
 tlo
-tlo
 tlole
 matl
 tlos
@@ -6579,8 +6552,6 @@ ed
 el
 er
 eting
-etlo
-etlo
 etlo
 fokolo
 fut
@@ -6729,7 +6700,6 @@ tres
 tro
 tropolitan
 mets
-tse
 tse
 mets
 mets
@@ -6934,7 +6904,6 @@ etapele
 etell
 et
 etlo
-etlo
 etl
 ets
 etso
@@ -7121,7 +7090,6 @@ lem
 letsane
 lets
 limo
-limo
 llo
 lod
 lo
@@ -7239,7 +7207,6 @@ re
 rek
 rekis
 ren
-ren
 rero
 rer
 rethetho
@@ -7268,9 +7235,7 @@ ru
 rupel
 rupell
 rut
-rut
 mos
-sad
 sad
 sal
 scow
@@ -7303,7 +7268,6 @@ sque
 most
 suoe
 suwe
-suwe
 suwehlooho
 sweu
 tak
@@ -7325,10 +7289,8 @@ ther
 therland
 thets
 tho
-tho
 thob
 moth
-thus
 thus
 moth
 tion
@@ -7353,7 +7315,6 @@ ts'ean
 tsamais
 mots
 tsan
-tse
 tse
 tsekgolo
 tsemoholo
@@ -7689,7 +7650,6 @@ ngun
 ngwa
 ngwah
 ngwan
-ngwan
 ngwanabo
 ngwan
 ngwathe
@@ -7861,7 +7821,6 @@ ntlafets
 ntle
 ntlha
 ntlheng
-ntlo
 ntlo
 ntlong
 ntlu
@@ -8367,8 +8326,6 @@ phetoh
 phetolelo
 phetolo
 phetse
-phetse
-phets
 phets
 phetw
 phe
@@ -8397,7 +8354,6 @@ phollets
 pholoh
 pholoh
 pholoho
-pholos
 pholos
 pholoso
 phomol
@@ -8856,7 +8812,6 @@ rasuge
 rat
 rat
 rat
-rat
 ratan
 ratand
 rat
@@ -8926,13 +8881,11 @@ reh
 reinet
 reitz
 rek
-rek
 reke
 rek
 rek
 rekiloe
 rekilwe
-rek
 rek
 rekis
 rekisets
@@ -9321,12 +9274,10 @@ ason
 at
 bak
 bak
-bak
 bapad
 bapald
 bapal
 bastian
-bat
 bat
 batho
 batl
@@ -9389,7 +9340,6 @@ bol
 bopeho
 bopu
 buhud
-bu
 bu
 buru
 sech
@@ -9702,7 +9652,6 @@ tshwantsh
 sets
 tsing
 tso
-tso
 tsoalle
 tsoantsho
 sets
@@ -9744,7 +9693,6 @@ shaun
 shawn
 she
 sheb
-sheb
 shebahal
 sheb
 shebane
@@ -9753,7 +9701,6 @@ shebeen
 shebelez
 shebell
 shebeshxt
-sheb
 sheb
 shebis
 shebis
@@ -10691,9 +10638,7 @@ tor
 toro
 toronto
 toropo
-toropo
 toropokgolo
-torop
 torop
 torotsw
 torsten
@@ -10777,10 +10722,8 @@ tsamaee
 tsamaell
 tsama
 tsama
-tsama
 tsamais
 tsamaisan
-tsamais
 tsamais
 tsamaisitsw
 tsamaiso
@@ -10789,7 +10732,6 @@ tsamaiso
 tsamais
 tsamais
 tsamaisw
-tsamay
 tsamay
 tsamay
 tsamaye

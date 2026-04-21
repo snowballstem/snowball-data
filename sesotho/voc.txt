@@ -561,12 +561,10 @@ bamamedi
 bamameli
 bambanani
 bana
-bana
 banab'abo
 banab'eso
 banababo
 banana
-bananyana
 bananyana
 band
 bane
@@ -599,9 +597,7 @@ baobab
 baokameli
 baooki
 bapala
-bapala
 bapalami
-bapalang
 bapalang
 bapale
 bapalla
@@ -614,13 +610,11 @@ bapapa
 bapatsa
 bapedi
 bapetse
-bapetse
 bapetseng
 baphaphathehi
 baphatlalatsi
 baphetwa
 bapilwe
-bapisa
 bapisa
 bapisang
 bapisoa
@@ -661,12 +655,10 @@ barupeli
 barupelli
 barupeluoa
 baruti
-baruti
 barutoana
 barutwana
 barwetsana
 basa
-basadi
 basadi
 basadii
 basali
@@ -704,7 +696,6 @@ bataki
 bataletseng
 batang
 bathehi
-batho
 batho
 bathong
 bathurst
@@ -899,7 +890,6 @@ bitsetswa
 bitsitse
 bitsitseng
 bitsoa
-bitsoa
 bitsoang
 bitsuwa
 bitsuwang
@@ -1032,7 +1022,6 @@ boikakaso
 boikaketsi
 boikarabello
 boikarabelo
-boikarabelo
 boikarabelong
 boikemelo
 boikemisetso
@@ -1044,7 +1033,6 @@ boikitlaetso
 boikoetliso
 boikokobetso
 boikoti
-boikutlo
 boikutlo
 boima
 boimana
@@ -1131,7 +1119,6 @@ bolawe
 bolaya
 bolayang
 bolela
-bolela
 bolelang
 bolele
 bolelele
@@ -1145,7 +1132,6 @@ bolelwago
 bolelwang
 boleng
 bolepi
-boletse
 boletse
 boletseng
 boletsoe
@@ -1341,7 +1327,6 @@ botlamuoeng
 botlamuweng
 botlatsi
 botle
-botle
 botlokotsebe
 boto
 botona
@@ -1412,7 +1397,6 @@ bryanston
 bsc
 bu
 bua
-bua
 buahala
 buang
 bucharest
@@ -1430,7 +1414,6 @@ buhle
 build
 building
 buildings
-buile
 buile
 buileng
 buisana
@@ -2702,13 +2685,11 @@ ethiopia
 etki
 etkili
 etsa
-etsa
 etsahala
 etsahalang
 etsahale
 etsahetse
 etsahetseng
-etsang
 etsang
 etse
 etsebahala
@@ -2718,7 +2699,6 @@ etselitsoeng
 etseng
 etsetsa
 etsile
-etsisa
 etsisa
 etsoa
 etsoang
@@ -5115,7 +5095,6 @@ leetsi
 leeuwkuil
 lefa
 lefapha
-lefapha
 lefapheng
 lefase
 lefats'e
@@ -5311,7 +5290,6 @@ lerapo
 lerata
 lerateng
 lerato
-lerato
 leratswana
 lere
 leremi
@@ -5419,7 +5397,6 @@ lialbamo
 liam
 liaparo
 liatlana
-libaka
 libaka
 libakeng
 libaktheria
@@ -6004,7 +5981,6 @@ maeurope
 mafahla
 mafahlaneng
 mafapha
-mafapha
 mafapheng
 mafatshe
 mafatsheng
@@ -6078,7 +6054,6 @@ mahotella
 maikarabelo
 maikemisetso
 maiketsetso
-maikutlo
 maikutlo
 maikutlong
 mail
@@ -6324,7 +6299,6 @@ march
 marcus
 mareka
 marena
-marena
 mareo
 margaret
 maria
@@ -6453,7 +6427,6 @@ matlalo
 matle
 matlebyane
 matlo
-matlo
 matlole
 matlong
 matlosa
@@ -6579,8 +6552,6 @@ meedi
 meeli
 meer
 meeting
-meetlo
-meetlo
 meetlo
 mefokolo
 mefuta
@@ -6729,7 +6700,6 @@ metres
 metro
 metropolitan
 metsana
-metse
 metse
 metseng
 metsi
@@ -6934,7 +6904,6 @@ moetapele
 moetelli
 moeti
 moetlo
-moetlo
 moetlong
 moetsi
 moetso
@@ -7121,7 +7090,6 @@ molemong
 moletsane
 moletsi
 molimo
-molimo
 mollo
 molodi
 moloi
@@ -7239,7 +7207,6 @@ more
 moreki
 morekisi
 morena
-morena
 morero
 morerong
 morethetho
@@ -7268,9 +7235,7 @@ moruong
 morupeli
 morupelli
 moruti
-moruti
 mosa
-mosadi
 mosadi
 mosali
 moscow
@@ -7303,7 +7268,6 @@ mosque
 most
 mosuoe
 mosuwe
-mosuwe
 mosuwehlooho
 mosweu
 motaki
@@ -7325,10 +7289,8 @@ mother
 motherland
 mothetsi
 motho
-motho
 mothobi
 mothong
-mothusi
 mothusi
 mothwa
 motion
@@ -7353,7 +7315,6 @@ mots'eanong
 motsamaisi
 motsana
 motsaneng
-motse
 motse
 motsekgolo
 motsemoholo
@@ -7689,7 +7650,6 @@ nguni
 ngwa
 ngwaha
 ngwana
-ngwana
 ngwanabo
 ngwanana
 ngwathe
@@ -7861,7 +7821,6 @@ ntlafetseng
 ntle
 ntlha
 ntlheng
-ntlo
 ntlo
 ntlong
 ntlu
@@ -8367,8 +8326,6 @@ phetohong
 phetolelo
 phetolo
 phetse
-phetse
-phetseng
 phetseng
 phetwang
 phewa
@@ -8397,7 +8354,6 @@ pholletsa
 pholoha
 pholohile
 pholoho
-pholosa
 pholosa
 pholoso
 phomola
@@ -8855,7 +8811,6 @@ rasta
 rasuge
 rat
 rata
-rata
 ratana
 ratanang
 ratanda
@@ -8926,13 +8881,11 @@ rehwa
 reinet
 reitz
 reka
-reka
 reke
 rekela
 rekile
 rekiloe
 rekilwe
-rekisa
 rekisa
 rekisang
 rekisetsoa
@@ -9320,13 +9273,11 @@ searabia
 season
 seat
 sebaka
-sebaka
 sebakeng
 sebapadi
 sebapaldi
 sebapali
 sebastian
-sebata
 sebata
 sebatho
 sebatli
@@ -9389,7 +9340,6 @@ sebolai
 sebopeho
 sebopuoa
 sebuhudi
-sebui
 sebui
 seburu
 secha
@@ -9702,7 +9652,6 @@ setshwantshong
 setsi
 setsing
 setso
-setso
 setsoalle
 setsoantsho
 setsong
@@ -9744,7 +9693,6 @@ shaun
 shawn
 she
 sheba
-sheba
 shebahala
 shebana
 shebane
@@ -9753,7 +9701,6 @@ shebeen
 shebeleza
 shebella
 shebeshxt
-shebile
 shebile
 shebisang
 shebisisa
@@ -10691,9 +10638,7 @@ tora
 toro
 toronto
 toropo
-toropo
 toropokgolo
-toropong
 toropong
 torotswana
 torsten
@@ -10776,11 +10721,9 @@ tsamaeang
 tsamaee
 tsamaellana
 tsamaile
-tsamaile
 tsamaisa
 tsamaisana
 tsamaisanang
-tsamaisang
 tsamaisang
 tsamaisitsweng
 tsamaiso
@@ -10789,7 +10732,6 @@ tsamaisoang
 tsamaisong
 tsamaiswa
 tsamaiswang
-tsamaya
 tsamaya
 tsamayang
 tsamaye
