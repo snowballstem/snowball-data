@@ -6,6 +6,14 @@ cat text/*/* | ./wikipedia-most-common-words 100 latin > voc.txt
 
 The dump used was dated 2021-08-21.
 
+A small number of hand-picked words were added to complete coverage of amongs
+and groupings:
+
+  gruzínci
+  prohlubeň
+  pánev
+  stěžeň
+
 output.txt was generated from voc.txt by running it through the stemmer:
 
 stemwords -l czech -c UTF_8 -i czech/voc.txt -o czech/output.txt

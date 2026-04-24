@@ -8821,6 +8821,7 @@ grup
 grup
 grup
 grup
+gruzínk
 gruzínsk
 gruzínsk
 gruzínsk
@@ -31695,6 +31696,7 @@ prohloubil
 prohloubit
 prohlubn
 prohlubn
+prohlubn
 prohlub
 prohlubován
 prohlubuj
@@ -33151,6 +33153,7 @@ pál
 pán
 pán
 pán
+pánv
 pánv
 pánevn
 pánevn
@@ -42458,6 +42461,7 @@ stět
 stěžejn
 stěžejn
 stěžejn
+stěžn
 stěžn
 stěžn
 stěžoval

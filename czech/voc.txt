@@ -8821,6 +8821,7 @@ grup
 grupa
 grupu
 grupy
+gruzínci
 gruzínskou
 gruzínsky
 gruzínská
@@ -31694,6 +31695,7 @@ prohloubil
 prohloubila
 prohloubit
 prohlubeň
+prohlubeň
 prohlubně
 prohlubovat
 prohlubování
@@ -33151,6 +33153,7 @@ pálí
 pán
 pána
 pánem
+pánev
 pánev
 pánevní
 pánevních
@@ -42458,6 +42461,7 @@ stětím
 stěžejní
 stěžejních
 stěžejním
+stěžeň
 stěžeň
 stěžně
 stěžoval
