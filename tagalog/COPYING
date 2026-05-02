@@ -1,0 +1,8 @@
+voc.txt is taken as is from https://github.com/jmalonzo/tl-wordlist/blob/master/tl.wl
+at commit hash 59d3abfd9c202e35b7b87269e536835b71534159.
+
+The original source is under the GPLv2+ license.
+
+output.txt was generated from voc.txt by running it through the stemmer:
+
+stemwords -l tagalog -c UTF_8 -i tagalog/voc.txt -o tagalog/output.txt
