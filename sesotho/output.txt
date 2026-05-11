@@ -451,7 +451,7 @@ nyalan
 ba
 nyane
 nyenyane
-o
+bao
 okamel
 ook
 paditswe
@@ -1968,7 +1968,7 @@ dya
 dynkin
 e
 eab
-e
+eang
 eb
 eb
 eb
@@ -1987,7 +1987,7 @@ eff
 efloras
 ehf
 ehl
-e
+eile
 ein
 eis
 ek
@@ -2984,7 +2984,7 @@ hōlis
 i'th
 iaaf
 iafrik
-i
+ian
 iarender
 iat
 ib
@@ -4894,7 +4894,7 @@ tšobots
 tšupiso
 tšusumetso
 tšōmo
-u
+liu
 websaete
 yunit
 lka
@@ -5583,7 +5583,7 @@ tšo
 tšoafo
 tšoao
 tšoenyeho
-u
+mau
 uritani
 uritius
 utl
@@ -5641,7 +5641,7 @@ dialj
 diaopen
 duns
 medy
-e
+mee
 ed
 elelo
 el
@@ -5955,11 +5955,11 @@ dnum
 dul
 dulasetulo
 dumo
-e
+moe
 ed
 eding
 eed
-e
+moe
 ekets
 elelo
 elel
@@ -6249,7 +6249,7 @@ nyebe
 nyenyane
 nyepao
 nyetl
-o
+moo
 okamed
 okamel
 okgoph
@@ -6967,7 +6967,7 @@ nè
 nōka
 nōkeng
 o
-o
+oa
 oau
 obe
 obed
@@ -6977,7 +6977,7 @@ odalendaalsrus
 od
 oding
 oed
-o
+oel
 ofe
 offisielle
 of
@@ -6987,7 +6987,7 @@ ofisir
 ofor
 ohlange
 ohle
-o
+oile
 ois
 ojw
 okam
@@ -7055,7 +7055,7 @@ otloloh
 otlolohil
 ou
 oup
-o
+ow
 oy
 paarl
 paatulan
@@ -8134,7 +8134,7 @@ dib
 dikadikwe
 dis
 dumed
-e
+see
 eiso
 em
 emahale
@@ -8312,7 +8312,7 @@ nyehil
 nyenyane
 nyesemane
 nyeseman
-o
+seo
 se
 oelo
 oke
@@ -9724,7 +9724,7 @@ tšupiso
 tšusumetso
 tšwa
 tšōmo
-u
+ua
 uae
 uanl
 ubumb
@@ -9770,7 +9770,7 @@ unibesithing
 uniq
 un
 unstrip
-u
+uny
 upington
 upto
 urlbook
