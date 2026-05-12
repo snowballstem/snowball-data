@@ -1981,7 +1981,6 @@ edirne
 edu
 ee
 eena
-eena''ke
 efe
 eff
 efloras
@@ -3417,7 +3416,6 @@ kantoro
 kanye
 kaofela
 kapa
-kapa'''childbed
 kapele
 kappa
 karabakh
@@ -6460,7 +6458,6 @@ mouoane
 moya
 moyakhe
 mpa
-mpa'''ke
 mpaba
 mpaka
 mpande
@@ -9877,7 +9874,6 @@ ws
 wuhan
 wyk
 wyoming
-y''a
 ya
 yaa
 yaba
