@@ -987,6 +987,7 @@ anderwärts
 andeutet
 andeutungsweise
 andre
+andrea's
 andreas
 andrer
 andrerseits
@@ -5580,6 +5581,7 @@ capua
 care
 caritas
 carl
+carlo's
 carriere
 castor
 catigo
@@ -6320,6 +6322,8 @@ dithyrambische
 divergieren
 diversa
 diverse
+dj
+dj's
 dntt
 do
 docet
@@ -7506,6 +7510,8 @@ einsprechen
 einspänner
 einst
 einsteckte
+einstein'sche
+einstein'schen
 einstellen
 einstellt
 einstiges
@@ -13127,6 +13133,8 @@ grille
 grillen
 grimassen
 grimm
+grimm'sche
+grimm'schen
 grimmig
 grimmige
 grimmigem
@@ -16302,6 +16310,7 @@ josua
 josuas
 jota
 journalisten
+joyce'
 jreuliche
 juan
 jubal
@@ -18803,6 +18812,9 @@ london
 londoner
 lorbeeren
 lorbeerkränze
+lorenz'
+lorenz'sche
+lorenz'schen
 los
 lose
 losfahren
@@ -18848,6 +18860,8 @@ louison
 louisons
 love
 low
+lp
+lp's
 lucelle
 lucinde
 lud
@@ -19267,6 +19281,9 @@ martialischen
 martin
 martis
 marx
+marx'
+marx'sche
+marx'schen
 marzipan
 marzipanschweinezüchterei
 marzipanstrassen
@@ -21300,6 +21317,7 @@ oft
 oftmals
 oh
 ohad
+ohm'scher
 ohn
 ohne
 ohnedem
@@ -32151,6 +32169,7 @@ weisheitslehre
 weisheitslehrer
 weislich
 weiss
+weiss'
 weissage
 weissagen
 weissagenden
@@ -32640,6 +32659,7 @@ willensvermögen
 willfahren
 willfährig
 willfährigkeit
+willi's
 willig
 willige
 willigen

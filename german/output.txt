@@ -987,6 +987,7 @@ anderwart
 andeut
 andeutungsweis
 andr
+andrea
 andreas
 andr
 andrerseit
@@ -5580,6 +5581,7 @@ capua
 car
 caritas
 carl
+carlo
 carri
 castor
 catigo
@@ -6320,6 +6322,8 @@ dithyramb
 divergi
 diversa
 divers
+dj
+dj
 dntt
 do
 docet
@@ -7506,6 +7510,8 @@ einsprech
 einspann
 einst
 einsteckt
+einstein
+einstein
 einstell
 einstellt
 einstig
@@ -13127,6 +13133,8 @@ grill
 grill
 grimass
 grimm
+grimm
+grimm
 grimmig
 grimmig
 grimmig
@@ -16302,6 +16310,7 @@ josua
 josuas
 jota
 journalist
+joyce
 jreulich
 juan
 jubal
@@ -18803,6 +18812,9 @@ london
 london
 lorbe
 lorbeerkranz
+lorenz
+lorenz
+lorenz
 los
 los
 losfahr
@@ -18848,6 +18860,8 @@ louison
 louison
 lov
 low
+lp
+lp
 lucell
 lucind
 lud
@@ -19266,6 +19280,9 @@ marti
 martial
 martin
 martis
+marx
+marx
+marx
 marx
 marzipan
 marzipanschweinezuchterei
@@ -21300,6 +21317,7 @@ oft
 oftmal
 oh
 ohad
+ohm
 ohn
 ohn
 ohned
@@ -32151,6 +32169,7 @@ weisheitslehr
 weisheitslehr
 weislich
 weiss
+weiss
 weissag
 weissag
 weissag
@@ -32640,6 +32659,7 @@ willensvermog
 willfahr
 willfahr
 willfahr
+willi
 willig
 willig
 willig
