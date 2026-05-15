@@ -1321,6 +1321,12 @@ algust
 algustähega
 algõpetuse
 alias
+alice'i
+alice'iga
+alice'il
+alice'ile
+alice'ist
+alice'it
 align
 alistada
 alistades
@@ -1704,6 +1710,8 @@ ametnikuna
 amfetamiini
 amfiteater
 amhara
+amiens'ga
+amiens'i
 amino
 aminohape
 aminohapet
@@ -1915,6 +1923,8 @@ angaari
 angerja
 angerjas
 angerjat
+angers'ga
+angers'st
 angiotensiin
 anglikaani
 angloameerika
@@ -2060,6 +2070,11 @@ antikehi
 antisemitism
 antisemitismi
 antitoksiini
+antoine'i
+antoine'ile
+antoinette'i
+antoinette'iga
+antoinette'ile
 antoloogia
 antoloogias
 antropoloog
@@ -2103,6 +2118,12 @@ apostliku
 apostlit
 apostlite
 appi
+apple'i
+apple'iga
+apple'il
+apple'ile
+apple'ilt
+apple'it
 aprill
 aprilli
 aprilliks
@@ -3461,6 +3482,9 @@ autotööstus
 autotööstuse
 autotööstuses
 autoõnnetuses
+auvergne'iga
+auvergne'is
+auvergne'ist
 auvilistlane
 auvilistlaseks
 auväärne
@@ -3759,6 +3783,8 @@ baseeruvad
 basiilika
 basiilikas
 basiilikasse
+baskerville'i
+baskerville'ide
 baski
 baskide
 bass
@@ -3791,6 +3817,10 @@ begin
 bei
 bel
 belgia
+belize'i
+belize'iga
+belize'ile
+belize'is
 belli
 bellum
 bemoll
@@ -3958,6 +3988,8 @@ bolševikud
 bolševistliku
 boor
 boori
+bordeaux'sse
+bordeaux'st
 border
 borough
 bosnia
@@ -4101,6 +4133,8 @@ bütsantslaste
 bütsantslastele
 c
 ca
+calais'sse
+calais'st
 call
 camera
 can
@@ -4199,6 +4233,8 @@ cx
 cy
 cz
 d
+d'urville'i
+d'urville'ist
 da
 daakini
 daaklaste
@@ -4315,6 +4351,8 @@ dekreediga
 dekreet
 deks
 del
+delacroix'd
+delacroix'ga
 dele
 delegaadid
 delegaat
@@ -4848,6 +4886,12 @@ drastiliselt
 draudzes
 draviidi
 drive
+drive'i
+drive'iga
+drive'il
+drive'ile
+drive'ilt
+drive'ist
 droog
 droogi
 droogina
@@ -8363,6 +8407,8 @@ gis
 gl
 gladiaatorite
 glam
+glasgow'sse
+glasgow'st
 glasuuri
 glasuuriga
 glauca
@@ -8489,6 +8535,9 @@ gravitatsiooniväljas
 gravüüri
 green
 gregooriuse
+grenoble'i
+grenoble'is
+grenoble'isse
 grindcore
 gripi
 gripiviiruse
@@ -30658,6 +30707,7 @@ nüüdses
 nüüdsest
 nō
 o
+o'hare'i
 oad
 ob
 obelisk
@@ -35276,6 +35326,11 @@ privileegid
 privileegide
 privilegeeritud
 prix
+prix'd
+prix'ga
+prix'i
+prix'il
+prix'st
 pro
 probleem
 probleeme
@@ -45846,6 +45901,8 @@ tavaõigus
 tavaõiguse
 tax
 tc
+tcl'i
+tcl'is
 td
 te
 tea
@@ -52122,6 +52179,9 @@ valmistusid
 valmistuti
 valmistuvad
 valmivad
+valois'd
+valois'de
+valois'st
 valss
 valu
 valud
@@ -55552,6 +55612,9 @@ wie
 wiki
 wikipedia
 wild
+wilde'i
+wilde'iga
+wilde'ile
 will
 wir
 with
@@ -55768,6 +55831,10 @@ zw
 æ
 è
 é
+étienne'i
+étienne'iga
+étienne'is
+étienne'ist
 études
 í
 õ

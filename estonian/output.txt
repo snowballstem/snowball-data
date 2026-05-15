@@ -1321,6 +1321,12 @@ algu
 algustähe
 algõpetuse
 alia
+alice
+alice
+alice
+alice
+alice
+alice
 align
 alista
 alista
@@ -1704,6 +1710,8 @@ ametnikuna
 amfetamiini
 amfiteater
 amhara
+amiens
+amiens
 amino
 aminohape
 aminohape
@@ -1915,6 +1923,8 @@ angaari
 angerja
 angerja
 angerja
+angers
+angers
 angiotensii
 anglikaani
 angloameerika
@@ -2060,6 +2070,11 @@ antikehi
 antisemitism
 antisemitismi
 antitoksiini
+antoine
+antoine
+antoinette
+antoinette
+antoinette
 antoloogia
 antoloogia
 antropoloog
@@ -2103,6 +2118,12 @@ apostliku
 apostli
 apostli
 api
+apple
+apple
+apple
+apple
+apple
+apple
 aprill
 aprilli
 aprilli
@@ -3461,6 +3482,9 @@ autotöös
 autotööstuse
 autotööstuse
 autoõnnetuse
+auvergne
+auvergne
+auvergne
 auvilistlase
 auvilistlase
 auväärne
@@ -3759,6 +3783,8 @@ baseeru
 basiilika
 basiilika
 basiilika
+baskerville
+baskerville
 baski
 baski
 bass
@@ -3791,6 +3817,10 @@ begi
 bei
 bel
 belgia
+belize
+belize
+belize
+belize
 belli
 bellu
 bemoll
@@ -3958,6 +3988,8 @@ bolševiku
 bolševistliku
 boor
 boori
+bordeaux
+bordeaux
 border
 borough
 bosnia
@@ -4101,6 +4133,8 @@ bütsantslase
 bütsantslase
 c
 ca
+calais
+calais
 call
 camera
 can
@@ -4199,6 +4233,8 @@ cx
 cy
 cz
 d
+d'urville
+d'urville
 da
 daakini
 daaklase
@@ -4315,6 +4351,8 @@ dekreedi
 dekree
 deks
 del
+delacroix
+delacroix
 dele
 delegaadi
 delegaa
@@ -4847,6 +4885,12 @@ dram
 drastilise
 draudze
 draviidi
+drive
+drive
+drive
+drive
+drive
+drive
 drive
 droog
 droogi
@@ -8363,6 +8407,8 @@ gis
 gl
 gladiaatori
 glam
+glasgow
+glasgow
 glasuuri
 glasuuri
 glauca
@@ -8489,6 +8535,9 @@ gravitatsioonivälja
 gravüüri
 green
 gregooriuse
+grenoble
+grenoble
+grenoble
 grindcore
 gripi
 gripiviiruse
@@ -30658,6 +30707,7 @@ nüüdse
 nüüdse
 nō
 o
+o'hare
 oad
 ob
 obelisk
@@ -35275,6 +35325,11 @@ privileegi
 privileegi
 privileegi
 privilegeeri
+prix
+prix
+prix
+prix
+prix
 prix
 pro
 problee
@@ -45846,6 +45901,8 @@ tavaõigu
 tavaõiguse
 tax
 tc
+tcl
+tcl
 td
 te
 tea
@@ -52122,6 +52179,9 @@ valmis
 valmistuti
 valmistu
 valmi
+valois
+valois
+valois
 valss
 valu
 valu
@@ -55552,6 +55612,9 @@ wie
 wiki
 wikipedia
 wild
+wilde
+wilde
+wilde
 will
 wir
 with
@@ -55768,6 +55831,10 @@ zw
 æ
 è
 é
+étienne
+étienne
+étienne
+étienne
 étude
 í
 õ
