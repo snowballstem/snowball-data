@@ -9,9 +9,43 @@ voc.txt is a merge of data from:
 
     scripts/wikipedia-dump-to-freq fiwiki-20260402-pages-articles.xml.bz2 150 latin1 | grep -v "''" | grep -v "^'" | grep -v "'$" > voc1.txt
 
+* Some hand-picked examples to provide better coverage for particular stemmer
+  rules and/or changes:
+
+    bodø
+    bodøhön
+    bodøn
+    bodøssa
+    bodøssä
+    bodøstä
+    jylhien
+    jylhiin
+    jylhiä
+    jylhän
+    jylhät
+    jylhää
+    jylhään
+    pölhö
+    pölhöihin
+    pölhöjen
+    pölhöjä
+    pölhön
+    pölhöt
+    pölhöä
+    pölhöön
+    strynøhön
+    ylhien
+    ylhiin
+    ylhiä
+    ylhä
+    ylhän
+    ylhät
+    ylhää
+    ylhään
+
 The word lists were merged like so:
 
-  LANG=C sort -u voc.txt voc1.txt > finnish/voc.txt
+  LANG=C sort -u voc.txt voc1.txt voc2.txt > finnish/voc.txt
 
 output.txt was generated from voc.txt by running it through the stemmer:
 
