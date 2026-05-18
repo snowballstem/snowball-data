@@ -1,0 +1,20 @@
+voc.txt is a merge of data from:
+
+* The original Snowball finnish/voc.txt which is licensed as BSD 3-clause (as
+  described in ../COPYING).  This list contains exactly 50000 words, but only
+  contains words starting with the letters a to i (inclusive).
+
+* A list of 42467 words extracted from a downloaded dump of the Finnish
+  Wikipedia like so:
+
+    scripts/wikipedia-dump-to-freq fiwiki-20260402-pages-articles.xml.bz2 150 latin1 | grep -v "''" | grep -v "^'" | grep -v "'$" > voc1.txt
+
+The word lists were merged like so:
+
+  LANG=C sort -u voc.txt voc1.txt > finnish/voc.txt
+
+output.txt was generated from voc.txt by running it through the stemmer:
+
+  stemwords -l finnish -c UTF_8 -i finnish/voc.txt -o finnish/output.txt
+
+Wikipedia is licensed as: https://creativecommons.org/licenses/by-sa/3.0/
