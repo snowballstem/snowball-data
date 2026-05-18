@@ -22789,7 +22789,7 @@ elokuis
 elokuist
 eloku
 eloku
-elokuuhu
+eloku
 eloku
 eloku
 eloku
@@ -38023,7 +38023,7 @@ heinäkuis
 heinäku
 heinäkurp
 heinäku
-heinäkuuhu
+heinäku
 heinäku
 heinäku
 heinäku
@@ -38490,7 +38490,7 @@ helmikuis
 helmikuis
 helmikuis
 helmiku
-helmikuuhu
+helmiku
 helmiku
 helmiku
 helmiku
@@ -41458,7 +41458,7 @@ hirsimö
 hirsimök
 hirsimök
 hirsin
-hirsipuuhu
+hirsipu
 hirsipu
 hirsirakennuks
 hirsirakennus
@@ -43254,7 +43254,7 @@ huhtijärv
 huhtikuis
 huhtikuis
 huhtiku
-huhtikuuhu
+huhtiku
 huhtiku
 huhtiku
 huhtiku
@@ -52320,7 +52320,7 @@ joel
 joel
 joen
 joensu
-joensuuhu
+joensu
 joensu
 joensu
 joensu
@@ -52637,7 +52637,7 @@ joulu
 joulu
 jouluaato
 jouluku
-joulukuuhu
+jouluku
 jouluku
 jouluku
 jouluku
@@ -55349,7 +55349,7 @@ kesäis
 kesäkaud
 kesä
 kesäku
-kesäkuuhu
+kesäku
 kesäku
 kesäku
 kesäku
@@ -60406,7 +60406,7 @@ loiva
 lok
 loka
 lokaku
-lokakuuhu
+lokaku
 lokaku
 lokaku
 lokaku
@@ -61564,7 +61564,7 @@ maalipörs
 maalipörs
 maalis
 maalisku
-maaliskuuhu
+maalisku
 maalisku
 maalisku
 maalisku
@@ -62192,7 +62192,7 @@ maroko
 maroko
 marras
 marrasku
-marraskuuhu
+marrasku
 marrasku
 marrasku
 marrasku
@@ -75704,7 +75704,7 @@ syys
 syyskaud
 syyskaud
 syysku
-syyskuuhu
+syysku
 syysku
 syysku
 syysku
@@ -76300,7 +76300,7 @@ tammer
 tammerkosk
 tam
 tammiku
-tammikuuhu
+tammiku
 tammiku
 tammiku
 tammiku
@@ -78186,7 +78186,7 @@ touk
 touk
 touko
 toukoku
-toukokuuhu
+toukoku
 toukoku
 toukoku
 toukoku
