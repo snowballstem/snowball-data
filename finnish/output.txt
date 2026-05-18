@@ -16130,7 +16130,6 @@ bysant
 bysanttilain
 byström
 byung
-båstad
 bäck
 bäckm
 bäckman
@@ -16166,6 +16165,7 @@ bärlund
 bäs
 bättr
 bård
+båstad
 båven
 béla
 böckerman
@@ -37487,7 +37487,6 @@ henkiinjäämis
 henkiinjäämis
 henkikirjoittaj
 henkikirjoittaj
-henkilökuvavkuv
 henkilääkär
 henkilääkär
 henkilö
@@ -37599,6 +37598,7 @@ henkilökuv
 henkilökuv
 henkilökuv
 henkilökuvaus
+henkilökuvavkuv
 henkilökuv
 henkilökuv
 henkilökysymyks

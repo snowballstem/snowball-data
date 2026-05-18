@@ -16130,7 +16130,6 @@ bysantista
 bysanttilainen
 byström
 byung
-båstad
 bäck
 bäckman
 bäckmanin
@@ -16166,6 +16165,7 @@ bärlundin
 bästa
 bättre
 bård
+båstad
 båven
 béla
 böckermanin
@@ -37487,7 +37487,6 @@ henkiinjäämisen
 henkiinjäämisestä
 henkikirjoittaja
 henkikirjoittajan
-henkilökuvavkuv
 henkilääkäri
 henkilääkärin
 henkilö
@@ -37599,6 +37598,7 @@ henkilökuvan
 henkilökuvassa
 henkilökuvat
 henkilökuvaus
+henkilökuvavkuv
 henkilökuvia
 henkilökuvien
 henkilökysymyksiä
