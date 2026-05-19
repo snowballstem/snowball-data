@@ -15546,6 +15546,12 @@ borcellinon
 borchert
 bord
 bordeaux
+bordeaux'hon
+bordeaux'iin
+bordeaux'n
+bordeaux'ssa
+bordeaux'sta
+bordeaux'ta
 bordeauxiin
 bordeauxin
 bordeauxissa
@@ -16802,6 +16808,7 @@ cake
 cal
 calafin
 calais
+calais'hen
 calatrava
 calder
 calderón
@@ -17314,6 +17321,8 @@ chamberlain
 chamberlainin
 chambers
 chamonix
+chamonix'n
+chamonix'ssa
 chamounix
 champ
 champagne
@@ -18473,6 +18482,7 @@ córdobassa
 côte
 cölln
 d
+d'huez'n
 da
 daami
 daamia
@@ -19693,6 +19703,7 @@ dmolli
 dmytrykin
 dn
 dna
+dna'han
 dneprin
 do
 doan
@@ -31989,8 +32000,10 @@ glamouria
 glamouriin
 glamourin
 glasgow
+glasgow'hun
 glasgow'n
 glasgow'ssa
+glasgow'sta
 glasgowin
 glasgowissa
 glasgown
@@ -69250,6 +69263,14 @@ print
 prisma
 private
 prix
+prix'hin
+prix'iin
+prix'lla
+prix'n
+prix'ssa
+prix'ssä
+prix'stä
+prix'tä
 prize
 pro
 problem
@@ -69920,6 +69941,7 @@ pyrstön
 pyrstössä
 pyry
 pyrénées
+pyrénées'n
 pysty
 pystyi
 pystyisi
@@ -71071,6 +71093,8 @@ rehtorin
 rehtorina
 rehtorit
 rei
+rei'illä
+rei'istä
 reich
 reid
 reijo
@@ -71138,6 +71162,9 @@ ren
 renaissance
 renato
 renault
+renault'lle
+renault'lta
+renault'n
 rene
 renegade
 renessanssi
@@ -73398,6 +73425,7 @@ shade
 shades
 shadow
 shadows
+shafi'in
 shah
 shake
 shakespeare
@@ -73458,6 +73486,10 @@ shot
 should
 shout
 show
+show'hun
+show'n
+show'ssa
+show'ta
 showpainija
 shrek
 shtml
@@ -81731,6 +81763,7 @@ verrattiin
 verrattu
 verrattuna
 versailles
+versailles'n
 versio
 versioiden
 versioina

@@ -15549,6 +15549,12 @@ bordeaux
 bordeaux
 bordeaux
 bordeaux
+bordeaux
+bordeaux
+bordeaux
+bordeaux
+bordeaux
+bordeaux
 bordel
 bordel
 bordel
@@ -16802,6 +16808,7 @@ cake
 cal
 calaf
 calais
+calais
 calatrav
 calder
 calderó
@@ -17313,6 +17320,8 @@ chamber
 chamberl
 chamberlain
 chambers
+chamonix
+chamonix
 chamonix
 chamounix
 champ
@@ -18473,6 +18482,7 @@ córdoba
 côte
 cöl
 d
+d'huez
 da
 daami
 daam
@@ -19693,6 +19703,7 @@ dmol
 dmytry
 dn
 dna
+dna'h
 dnepr
 do
 doan
@@ -31989,8 +32000,10 @@ glamour
 glamour
 glamour
 glasgow
-glasgow'
-glasgow'
+glasgow
+glasgow
+glasgow
+glasgow
 glasgow
 glasgow
 glasgow
@@ -69250,6 +69263,14 @@ print
 prism
 privat
 prix
+prix
+prix
+prix
+prix
+prix
+prix
+prix
+prix
 prize
 pro
 problem
@@ -69919,6 +69940,7 @@ pyrstöev
 pyrstö
 pyrstö
 pyry
+pyrénées
 pyrénées
 pysty
 pystyi
@@ -71071,6 +71093,8 @@ rehtor
 rehtor
 rehtor
 rei
+rei
+rei
 reich
 reid
 reijo
@@ -71137,6 +71161,9 @@ remu
 ren
 renaissanc
 renato
+renault
+renault
+renault
 renault
 rene
 renegad
@@ -73398,6 +73425,7 @@ shade
 shades
 shadow
 shadows
+shafi
 shah
 shake
 shakespear
@@ -73457,6 +73485,10 @@ short
 shot
 should
 shout
+show
+show
+show
+show
 show
 showpainij
 shrek
@@ -81730,6 +81762,7 @@ verrattav
 verrat
 verratu
 verratu
+versailles
 versailles
 versio
 versio
