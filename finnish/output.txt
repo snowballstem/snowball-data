@@ -18335,6 +18335,7 @@ crossover
 croup
 croupcontroller
 crow
+crow
 crowe
 crow
 crown
@@ -52375,6 +52376,7 @@ johdo
 johdo
 joh
 john
+john
 johny
 johns
 johnso
@@ -83247,6 +83249,7 @@ wimbledon
 wimbledon
 win
 winchester
+wind
 wind
 window
 windows
