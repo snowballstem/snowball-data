@@ -46,6 +46,10 @@ for my $dir (@dirs) {
 	}
 	$p = $v;
 	chomp($v);
+	if ($v eq '') {
+	    warn "$voc: Ignoring blank line\n";
+	    next;
+	}
 	chomp($o);
 	push @e, "$v\0$o";
     }
