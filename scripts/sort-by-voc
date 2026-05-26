@@ -37,7 +37,13 @@ for my $dir (@dirs) {
 	    die "$voc: Contains more lines than '$out'\n";
 	}
 	my $v = $_;
-	++$changes if ($v lt $p);
+	my $cmp = $v cmp $p;
+	++$changes if $cmp <= 0;
+	if ($cmp == 0) {
+	    chomp($v);
+	    warn "$voc: Ignoring duplicate '$v'\n";
+	    next;
+	}
 	$p = $v;
 	chomp($v);
 	chomp($o);
@@ -49,20 +55,24 @@ for my $dir (@dirs) {
     close $VOC;
     close $OUT;
 
-    open my $NEWVOC, '>:encoding(UTF-8)', "$voc.tmp";
-    open my $NEWOUT, '>:encoding(UTF-8)', "$out.tmp";
-    for (sort @e) {
-	my ($v, $o) = split /\0/, $_, 2;
-	print $NEWVOC $v, "\n";
-	print $NEWOUT $o, "\n";
-    }
-    close $NEWVOC;
-    close $NEWOUT;
     if ($changes > 0) {
+	open my $NEWVOC, '>:encoding(UTF-8)', "$voc.tmp";
+	open my $NEWOUT, '>:encoding(UTF-8)', "$out.tmp";
+	my $p;
+	for (sort @e) {
+	    my ($v, $o) = split /\0/, $_, 2;
+	    if (defined $p && $v eq $p) {
+		warn "$voc: Ignoring duplicate '$v'\n";
+		next;
+	    }
+	    print $NEWVOC $v, "\n";
+	    print $NEWOUT $o, "\n";
+	    $p = $v;
+	}
+	close $NEWVOC;
+	close $NEWOUT;
+
 	rename "$voc.tmp", $voc;
 	rename "$out.tmp", $out;
-    } else {
-	unlink "$voc.tmp";
-	unlink "$out.tmp";
     }
 }
