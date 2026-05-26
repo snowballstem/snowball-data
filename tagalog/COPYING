@@ -6,3 +6,8 @@ The original source is under the GPLv2+ license.
 output.txt was generated from voc.txt by running it through the stemmer:
 
 stemwords -l tagalog -c UTF_8 -i tagalog/voc.txt -o tagalog/output.txt
+
+Then the data was processed to remove some duplicate voc.txt entries and to
+sort voc.txt in ascending byte order:
+
+scripts/sort-by-voc tagalog
