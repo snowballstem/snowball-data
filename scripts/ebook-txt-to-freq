@@ -184,6 +184,6 @@ while (my @p = each %f) {
     push @f, \@p if $p[1] >= $MIN_FREQ;
 }
 
-for my $p (sort {$b->[1] <=> $a->[1]} @f) {
+for my $p (sort {$b->[1] <=> $a->[1] || $a->[0] cmp $b->[0]} @f) {
     print "$p->[1]\t$p->[0]\n";
 }
