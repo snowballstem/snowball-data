@@ -2047,7 +2047,7 @@ ass
 assembl
 assembl
 assembl
-assembli
+assembl
 assembl
 assembl
 assembl
@@ -2875,7 +2875,7 @@ bath
 bathsheba
 bate
 bat
-batt'ri
+batteri
 battail
 battail
 battail
@@ -3915,7 +3915,7 @@ boil
 boil
 boil
 boil
-boist'rous
+boister
 boister
 boister
 bold
@@ -4211,7 +4211,7 @@ brat
 braunch
 braunch
 brave
-brav'ri
+braveri
 brave
 brave
 brave
@@ -10368,7 +10368,7 @@ earst
 earth
 earth
 earthen
-earthli
+earth
 earth
 earthquak
 earthquak
@@ -11443,7 +11443,7 @@ europ
 euxin
 even
 even
-ev'ri
+everi
 evad
 evad
 evad
@@ -12801,7 +12801,7 @@ flow
 flow
 flower
 flower
-flow'ri
+floweri
 flowd
 flow
 flower
@@ -12915,7 +12915,7 @@ fontinel
 food
 fool
 fool
-fool'ri
+fooleri
 fool
 fool
 fool
@@ -15007,7 +15007,7 @@ hapless
 hapli
 hapn
 hap
-happ'li
+happili
 happen
 happen
 happen
@@ -15352,7 +15352,7 @@ heat
 heat
 heav
 heaven
-heav'nli
+heaven
 heaven
 heaven
 heav
@@ -19422,7 +19422,7 @@ loth
 lotion
 lotium
 lot
-lott'ri
+lotteri
 lotteri
 lotteri
 lotteri
@@ -21058,7 +21058,7 @@ mobl
 moccinigo
 mock
 mock
-mock'ri
+mockeri
 mock
 mock
 mock
@@ -21462,7 +21462,7 @@ murch
 murder
 murd'ress
 murder
-murd'rous
+murder
 murder
 murder
 murder
@@ -25444,7 +25444,7 @@ proselyt
 proselyt
 proserpina
 proserpin
-prosp'rous
+prosper
 prospect
 prospect
 prosper
@@ -29569,7 +29569,7 @@ slain
 slain
 slake
 slake
-sland'rous
+slander
 slander
 slander
 slander
@@ -29663,7 +29663,7 @@ slingsbi
 slink
 slip
 slip
-slipp'ri
+slipperi
 slip
 slipper
 slipper
@@ -31748,11 +31748,11 @@ syrup
 system
 system
 t
-t'assum
-t'aveng
-t'have
-t'other
-t
+assum
+aveng
+have
+other
+s
 ta
 ta'en
 taanach
@@ -35247,7 +35247,7 @@ wast
 wastful
 wast
 wat
-wat'ri
+wateri
 watch
 watch
 watchal
