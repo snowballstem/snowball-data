@@ -14349,6 +14349,7 @@ gown
 gown
 gowt
 gozan
+gospel
 grace
 gracchus
 grace
@@ -17715,6 +17716,7 @@ jezer
 jezreel
 jezreelit
 jezreelitess
+jesus
 jig
 jigg
 jig
@@ -21781,6 +21783,7 @@ needless
 needless
 needless
 needlework
+need
 needment
 need
 needi
@@ -27264,6 +27267,7 @@ righteous
 righteous
 righteous
 righteousness
+righteous
 righteous
 right
 rightful
@@ -36527,3 +36531,4 @@ aetna
 écoutez
 écus
 êtes
+shall
