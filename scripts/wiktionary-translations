@@ -1,0 +1,167 @@
+#!/usr/bin/perl -CS
+use warnings;
+use strict;
+use autodie;
+use Encode;
+use JSON;
+use Unicode::Normalize;
+use feature 'unicode_strings';
+use utf8;
+
+# Regex for letter (can be overridden to restrict to appropriate alphabet).
+my $LETTER_RE = "['\\p{Word}]";
+# FIXME Hard-wire to Maori-specific for now.
+$LETTER_RE = '[A-Za-zĀĒĪŌŪāēīōū]';
+
+if (@ARGV != 2) {
+    print <<"__END__";
+Syntax: $0 RAW_WIKTEXTRACT_DATA_JSONL LANG_CODE
+
+Extract a list of all language LANG_CODE translations from
+English wiktionary.
+
+Example usage:
+
+$0 raw-wiktextract-data.jsonl.gz en
+__END__
+    exit(1);
+}
+
+my $file = shift @ARGV;
+my $lang_code = shift @ARGV;
+my $reader_pid = 0;
+my $jsonl;
+if ($file =~ /\.jsonl$/) {
+    $reader_pid = $$;
+    open $jsonl, '<', $file;
+} elsif ($file =~ /\.jsonl\.bz2$/) {
+    $reader_pid = open $jsonl, '-|';
+    if ($reader_pid == 0) {
+	exec 'bzip2', '-dc', $file;
+    }
+} elsif ($file =~ /\.jsonl\.gz$/) {
+    $reader_pid = open $jsonl, '-|';
+    if ($reader_pid == 0) {
+	exec 'gzip', '-dc', $file;
+    }
+} elsif ($file =~ /\.jsonl\.xz$/) {
+    $reader_pid = open $jsonl, '-|';
+    if ($reader_pid == 0) {
+	exec 'xz', '-dc', $file;
+    }
+} elsif ($file =~ /\.jsonl\.zstd$/) {
+    $reader_pid = open $jsonl, '-|';
+    if ($reader_pid == 0) {
+	exec 'zstd', '-dc', $file;
+    }
+} else {
+    die "No handling for file type of '$file'\n";
+}
+
+sleep 1; # Give compressor a chance to open the file!
+my $fdinfo;
+my $input_size = -s $file;
+for (my $fd = 0; $fd < 10; ++$fd) {
+    my $target;
+    eval {
+	$target = readlink "/proc/$reader_pid/fd/$fd";
+    };
+    last if $@;
+    if ($target eq $file) {
+	$fdinfo = "/proc/$reader_pid/fdinfo/$fd";
+	last;
+    }
+}
+
+my %f;
+my $c = 0;
+my $n = 0;
+my $t = time;
+my $lang_code_needle = "\"lang_code\": \"$lang_code\"";
+ENTRY: while (<$jsonl>) {
+    if (++$c % 1000000 == 0) {
+	my $e = time - $t;
+	printf STDERR "%d in %ds %d/hour: %s found\n", $c, $e, int($c*3600/$e), $n;
+    }
+    if (defined $fdinfo && $c % 100 == 0) {
+	no autodie qw(open);
+	if (open my $f, '<', $fdinfo) {
+	    local $_ = <$f>;
+	    close $f;
+	    if (/^pos:\s*(\d+)/) {
+		use integer;
+		my $progress = 640 * $1 / $input_size;
+		my $full = $progress / 8;
+		my $part = $progress % 8;
+		print STDERR "\x{2588}" x $full;
+		print STDERR chr(0x2590 - $part) if $part;
+		print STDERR "\xb7" x (80 - $full - ($part > 0));
+		print STDERR "\r";
+	    }
+	}
+    }
+    # Fast check on lang_code using substring check.  This may falsely match if
+    # the lang_code is present in a substructure, but quickly eliminates many
+    # entries we aren't interested in.
+    next if index($_, $lang_code_needle) < 0;
+    my $obj = decode_json($_);
+    if (exists $$obj{"translations"}) {
+	for my $translation (@{$$obj{"translations"}}) {
+	    if (exists $$translation{code} && !exists $$translation{lang_code}) {
+		warn "code=$$translation{code} but lang_code not set\n";
+		next;
+	    } elsif (!exists $$translation{code} && exists $$translation{lang_code}) {
+		warn "lang_code=$$translation{lang_code} but code not set\n";
+		next;
+	    } elsif (!exists $$translation{code}) {
+		#warn "neither code nor lang_code set\n";
+		next;
+	    } elsif ($$translation{code} ne $$translation{lang_code}) {
+		warn "code=$$translation{code} != lang_code=$$translation{lang_code}\n";
+		next;
+	    } elsif (!exists $$translation{word}) {
+		#warn "word not set\n";
+		next;
+	    } elsif ($$translation{code} ne $lang_code) {
+		next;
+	    }
+	    my $w = NFC($$translation{word});
+	    # There's sometimes a note in parentheses after the translation,
+	    # which is sometimes in the language and sometimes in English, so
+	    # just strip such notes.
+	    $w =~ s/ \(.*\)$//;
+	    # Less often there's a word in parentheses before the translation.
+	    # At least for mi, it's always in the language, but it's also always
+	    # present by itself as a translation so strip these too.
+	    $w =~ s/^\(.*\) +//;
+	    # FIXME: Skip anything with parentheses, square brackets or hyphens
+	    # for now.  At least for Māori it seems we get other words in such
+	    # translations from a different translation.
+	    next if $w =~ /[-()\[\]]/;
+	    while ($w =~ /\b$LETTER_RE+\b/go) {
+		++$f{lc($&)};
+	    }
+	    ++$n;
+	}
+    }
+    if (defined $fdinfo && $c % 100 == 0) {
+	no autodie qw(open);
+	if (open my $f, '<', $fdinfo) {
+	    local $_ = <$f>;
+	    close $f;
+	    if (/^pos:\s*(\d+)/) {
+		use integer;
+		my $progress = 640 * $1 / $input_size;
+		my $full = $progress / 8;
+		my $part = $progress % 8;
+		print STDERR "\x{2588}" x $full;
+		print STDERR chr(0x2590 - $part) if $part;
+		print STDERR "\xb7" x (80 - $full - ($part > 0));
+		print STDERR "\r";
+	    }
+	}
+    }
+}
+for (sort keys %f) {
+    print $_, "\n";
+}

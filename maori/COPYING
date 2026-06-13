@@ -1,0 +1,16 @@
+voc.txt was generated from a processed dump of the English wiktionary by the
+script wiktionary-translations like so:
+
+wget https://kaikki.org/dictionary/raw-wiktextract-data.jsonl.gz
+scripts/wiktionary-translations raw-wiktextract-data.jsonl.gz mi > maori/voc.txt
+
+https://kaikki.org/dictionary/rawdata.html says:
+
+> This dictionary is based on structured data extracted on 2026-06-07 from the
+> enwiktionary dump dated 2026-06-01 using wiktextract (e79dea5 and 7f4db16).
+
+output.txt was generated from voc.txt by running it through the stemmer:
+
+stemwords -l maori -c UTF_8 -i maori/voc.txt -o maori/output.txt
+
+Wiktionary is licensed as: https://creativecommons.org/licenses/by-sa/4.0/
