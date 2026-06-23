@@ -115,7 +115,7 @@ amirau
 amiti
 amo
 amoamo
-amoha
+amohanga
 amoho
 amokura
 amorangi
@@ -226,7 +226,7 @@ apū
 ara
 araara
 araarai
-araha
+arahanga
 arahau
 arahi
 arahipa
@@ -345,7 +345,7 @@ arā
 arāpi
 ata
 ataata
-ataha
+atahanga
 atakata
 atamai
 atamira
@@ -635,7 +635,7 @@ hanekari
 hanepī
 hanepīta
 ha
-hangaha
+hangahanga
 hangahangarau
 hanga
 hanganoa
@@ -1199,7 +1199,7 @@ hopuoro
 hopuwai
 hopuāhua
 hopī
-horaha
+horahanga
 horahora
 horanuku
 horapa
@@ -1251,7 +1251,7 @@ hotuhotu
 hou
 houama
 houa
-houha
+houhanga
 houhere
 houhou
 houkeke
@@ -1396,7 +1396,7 @@ huri
 huria
 huriao
 huriaro
-huriha
+hurihanga
 hurihuri
 hurikiko
 hurikōaro
@@ -1619,7 +1619,7 @@ hīhopa
 hīkaikai
 hīkaka
 hīkaro
-hīkaroha
+hīkarohanga
 hīkarota
 hīkeikei
 hīkoi
@@ -1673,7 +1673,7 @@ hītengitengi
 hīti
 hītimi
 hītini
-hītiniha
+hītinihanga
 hītinita
 hītoko
 hītori
@@ -2051,7 +2051,7 @@ kaiawherangi
 kaieke
 kaiepa
 kaihaea
-kaiha
+kaihanga
 kaihangarau
 kaihanu
 kaihao
@@ -2368,13 +2368,13 @@ kaiwae
 kaiwaewae
 kaiwahakapurupuru
 kaiwaiata
-kaiwaiha
+kaiwaihanga
 kaiwaka
 kaiwara
 kaiwarawara
 kaiwawao
 kaiwea
-kaiwhaiha
+kaiwhaihanga
 kaiwhaikupu
 kaiwhaikōrero
 kaiwhaipā
@@ -2617,7 +2617,7 @@ kapini
 kapita
 kapiti
 kapo
-kapoha
+kapohanga
 kapohau
 kapokapo
 kapomata
@@ -2797,7 +2797,7 @@ kauawhi
 kauawhiawhi
 kauehu
 kauere
-kauha
+kauhanga
 kauhanganui
 kauhau
 kauhauora
@@ -2851,7 +2851,7 @@ kaurera
 kaurori
 kaurukiruki
 kauruku
-kautaha
+kautahanga
 kautaka
 kautakawhitiwhiti
 kautangata
@@ -3010,7 +3010,7 @@ kikorangi
 kikowhiti
 kikī
 kimi
-kimiha
+kimihanga
 kimikimi
 kimo
 kimokimo
@@ -3188,7 +3188,7 @@ kohurau
 koi
 ko
 koiata
-koiha
+koihanga
 koikara
 koikoi
 koimutu
@@ -3380,14 +3380,14 @@ korokororiki
 korokē
 korokī
 korokīkī
-koromaha
+koromahanga
 koromaki
 koromamahu
 koromamao
 koromeke
 koromiama
 koromiko
-koromāha
+koromāhanga
 koromāungau
 koromōkā
 koromōpia
@@ -3404,7 +3404,7 @@ koropehu
 koropeka
 koropeke
 koropewa
-koropiha
+koropihanga
 koropiko
 koroprewa
 koropuku
@@ -3877,7 +3877,7 @@ kōhaehae
 kōhaha
 kōha
 kōhaki
-kōha
+kōhanga
 kōhangaweka
 kōhangohango
 kōhao
@@ -3958,7 +3958,7 @@ kōkōuri
 kōkōwai
 kōmae
 kōmaka
-kōmakaha
+kōmakahanga
 kōmako
 kōmanawa
 kōmaoa
@@ -4816,7 +4816,7 @@ matūriaka
 matūriki
 matūwaro
 mau
-mauha
+mauhanga
 mauhere
 mauhereta
 mauhoro
@@ -4874,7 +4874,7 @@ meata
 mehakore
 mehameha
 mehamehata
-meha
+mehanga
 mehe
 mehiko
 meho
@@ -5102,7 +5102,7 @@ motorore
 motu
 motuhake
 motuhaketa
-motuha
+motuhanga
 motuhe
 motuhēhē
 motuhēhē
@@ -5172,7 +5172,7 @@ māeroero
 māha
 māhaki
 māhakita
-māha
+māhanga
 māharahara
 māharo
 māharota
@@ -5371,7 +5371,7 @@ mātiti
 mātoetoe
 mātoretore
 mātoro
-mātoroha
+mātorohanga
 mātorotoro
 mātoru
 mātorutoru
@@ -5485,7 +5485,7 @@ mōkī
 mōkō
 mōmo
 mōmotu
-mōmōha
+mōmōhanga
 mōnaroa
 mōnehu
 mōnehunehu
@@ -5619,7 +5619,7 @@ nehu
 nei
 neinei
 neke
-nekeha
+nekehanga
 nekeneke
 nekepe
 neketai
@@ -6080,14 +6080,14 @@ ori
 orimapa
 oriori
 oro
-oroha
+orohanga
 orohaurua
 orohauwaru
 orohauwhā
 oroi
 orokati
 orokatirua
-orokoha
+orokohanga
 orooro
 oropapa
 oropuare
@@ -6461,7 +6461,7 @@ paraawa
 paraehe
 paraha
 parahako
-paraha
+parahanga
 parahara
 parahau
 parahauta
@@ -6641,7 +6641,7 @@ patipati
 pato
 patooro
 patopato
-patopatoha
+patopatohanga
 patotuhi
 patowaea
 patu
@@ -6791,7 +6791,7 @@ piari
 piarimu
 piere
 piha
-piha
+pihanga
 pihangarua
 pihapiha
 pihapiharau
@@ -7029,13 +7029,13 @@ porepore
 porerarua
 porete
 pori
-poriha
+porihanga
 poritene
 poriwa
 poriwia
 poro
 poroaki
-poroha
+porohanga
 porohatete
 porohau
 porohaurangi
@@ -7187,7 +7187,7 @@ puehu
 puha
 puhaha
 puhake
-puha
+puhanga
 puhangarua
 puhapuha
 puhau
@@ -7649,7 +7649,7 @@ pāwherata
 pāwhiri
 pāwhirirua
 pē
-pēha
+pēhanga
 pēhe
 pēheata
 pēhi
@@ -7778,7 +7778,7 @@ pōareare
 pōau
 pōauau
 pōauauta
-pōhangaha
+pōhangahanga
 pōhara
 pōharata
 pōharu
@@ -7946,7 +7946,7 @@ pūeru
 pūhaehae
 pūhaha
 pūhakehake
-pūha
+pūhanga
 pūhangaiti
 pūhara
 pūharu
@@ -8437,7 +8437,7 @@ rauangiangi
 rauaruhe
 rauawa
 rauemi
-rauha
+rauhanga
 rauhea
 rauhoro
 rauhuru
@@ -8516,7 +8516,7 @@ rauwheke
 rauwhero
 rauwiri
 rawa
-rawaha
+rawahanga
 rawaka
 rawatoi
 rawatuhi
@@ -8686,7 +8686,7 @@ ririno
 riripi
 ririu
 riro
-riroha
+rirohanga
 riro
 riroriro
 rirīwai
@@ -9062,7 +9062,7 @@ tahakore
 tahakua
 tahakupu
 tahakura
-taha
+tahanga
 tahangoi
 taharangi
 tahataha
@@ -9213,10 +9213,10 @@ taiāmio
 taiāpure
 taiāwhio
 taiāwhiota
-taiōha
+taiōhanga
 taka
 takaahuareka
-takaha
+takahanga
 takahi
 takahikare
 takahiri
@@ -9334,7 +9334,7 @@ takiwā
 takiwāta
 tako
 takoha
-takoha
+takohanga
 takohe
 takoki
 takonui
@@ -9404,7 +9404,7 @@ tangere
 tangetange
 tangi
 tangiata
-tangiha
+tangihanga
 tangihē
 tangimeme
 tangita
@@ -9414,7 +9414,7 @@ tangiwai
 tangiweto
 tangiwheto
 tango
-tangoha
+tangohanga
 tangongi
 tangongita
 tangotango
@@ -9438,7 +9438,7 @@ taotū
 taotūta
 taowaka
 tapa
-tapaha
+tapahanga
 tapahi
 tapairu
 tapakō
@@ -9487,7 +9487,7 @@ taputapu
 tapuwae
 tara
 tarahae
-taraha
+tarahanga
 tarahati
 taraheke
 tarahinau
@@ -9622,7 +9622,7 @@ tauawhi
 taueki
 tauera
 tauhae
-tauha
+tauhanga
 tauhara
 tauheke
 tauheke
@@ -9766,7 +9766,7 @@ tautakitahi
 tauta
 tautangata
 tautangitangi
-tautangitangiha
+tautangitangihanga
 tautapa
 tautapata
 tautara
@@ -10018,7 +10018,7 @@ tingiki
 tingongo
 tingotingo
 tini
-tiniha
+tinihanga
 tinihangakore
 tinimano
 tinipia
@@ -10086,7 +10086,7 @@ tiritiri
 tiriwae
 tiriwā
 tiro
-tiroha
+tirohanga
 tirohura
 tirorangi
 tirotiro
@@ -10141,7 +10141,7 @@ toengakai
 toera
 toetoe
 toha
-toha
+tohanga
 toharite
 tohatoha
 tohe
@@ -10308,7 +10308,7 @@ toriwai
 toro
 toro
 torohaki
-toroha
+torohanga
 toroheke
 torohihi
 torohē
@@ -10323,7 +10323,7 @@ torokaha
 torokaka
 torokiki
 toromoka
-toromāha
+toromāhanga
 toronaihi
 toro
 torongi
@@ -10754,7 +10754,7 @@ tāmatemate
 tāmati
 tāmau
 tāmaua
-tāmauha
+tāmauhanga
 tāmauwhenua
 tāmeha
 tāmi
@@ -10933,7 +10933,7 @@ tātara
 tātarahake
 tātarakihi
 tātari
-tātariha
+tātarihanga
 tātarāmoa
 tātau
 tāte
@@ -11520,7 +11520,7 @@ tūtaekurī
 tūtaekāhu
 tūtaekōau
 tūtaewhetū
-tūtaha
+tūtahanga
 tūtahi
 tūtai
 tūtakarerewa
@@ -11576,7 +11576,7 @@ tūwā
 tūwāhi
 tūwē
 tūwīra
-tūāha
+tūāhanga
 tūāhu
 tūāhua
 tūāhuata
@@ -11677,7 +11677,7 @@ ungau
 unia
 unika
 unu
-unuha
+unuhanga
 unuora
 unutai
 upa
@@ -11696,7 +11696,7 @@ uri
 uriuri
 uro
 uru
-uruha
+uruhanga
 uruhau
 uruhauta
 uruhi
@@ -11761,7 +11761,7 @@ waeakore
 waeakōrero
 waeata
 waehaka
-waeha
+waehanga
 waehape
 waehaurua
 waehauā
@@ -11790,7 +11790,7 @@ wahahuka
 wahakawa
 wahakura
 wahakōrero
-waha
+wahanga
 wahangū
 wahanui
 wahapapā
@@ -11815,7 +11815,7 @@ waiata
 waiate
 waihakehake
 waihakihaki
-waiha
+waihanga
 waihanga
 waihape
 waihape
@@ -12062,7 +12062,7 @@ whaiaro
 whaiawa
 whaiawhikiri
 whaiere
-whaiha
+whaihanga
 whaihanga
 whaihara
 whaihiko
@@ -12148,7 +12148,7 @@ whakaari
 whakaariki
 whakaaro
 whakaaroaro
-whakaaroaroha
+whakaaroarohanga
 whakaaroha
 whakaaroharoha
 whakaaroiti
@@ -12215,7 +12215,7 @@ whakahakune
 whakahamero
 whakaha
 whakahanepī
-whakahangaha
+whakahangahanga
 whakahanumi
 whakahao
 whakahapa
@@ -12851,7 +12851,7 @@ whakanuka
 whakanumi
 whakanā
 whakanānā
-whakanōha
+whakanōhanga
 whakaoati
 whakaoatita
 whakaohiti
@@ -12938,7 +12938,7 @@ whakapererū
 whakaperori
 whakapeti
 whakapeto
-whakapetoha
+whakapetohanga
 whakapetota
 whakapiako
 whakapiata
@@ -13247,7 +13247,7 @@ whakataiwhenua
 whakataiwhenuata
 whakataka
 whakatakahuri
-whakatakahuriha
+whakatakahurihanga
 whakataka
 whakatakao
 whakatakariri
@@ -13985,7 +13985,7 @@ wuruhi
 wuruwhi
 wwhakangāwari
 wā
-wāha
+wāhanga
 wāheke
 wāhi
 wāhina
@@ -14024,7 +14024,7 @@ wātera
 wātū
 wāwau
 wāwā
-wāwāha
+wāwāhanga
 wāwāhi
 wāwāhi
 wāwāhita
@@ -14076,7 +14076,7 @@ xelo
 āhiwahiwa
 āhu
 āhuaatua
-āhuaha
+āhuahanga
 āhuahua
 āhuarangi
 āhuareka
@@ -14143,7 +14143,7 @@ xelo
 āpiri
 āpiti
 āpitiha
-āpitiha
+āpitihanga
 āpitita
 āpititū
 āporo
@@ -14250,7 +14250,7 @@ xelo
 ō
 ōatemāka
 ōha
-ōha
+ōhanga
 ōheketa
 ōhikita
 ōhoro
@@ -14297,7 +14297,7 @@ xelo
 ōwehe
 ōwha
 ū
-ūha
+ūhanga
 ūkaipō
 ūkarei
 ūkui
