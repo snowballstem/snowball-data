@@ -277,7 +277,7 @@ are
 arero
 arerorua
 ari
-a
+aria
 ariari
 ariari
 arikeita
@@ -359,7 +359,7 @@ ateate
 ateate
 atekōkiri
 atepaihānia
-ate
+ateria
 atewharowharo
 atiati
 atihoka
@@ -523,7 +523,7 @@ erema
 eremita
 eriki
 erinipara
-eritē
+eritēria
 ero
 eropereina
 eruera
@@ -576,7 +576,7 @@ haimo
 ha
 hainatanga
 haipara
-haipī
+haipīria
 haipū
 haira
 haitarahini
@@ -1083,7 +1083,7 @@ hiraka
 hiranga
 hirawea
 hiri
-hi
+hiria
 hirihiri
 hirikakā
 hirikapo
@@ -1739,7 +1739,7 @@ hōrapa
 hōreke
 hōrete
 hōri
-hō
+hōria
 hōripi
 hōripiripi
 hōriri
@@ -1814,7 +1814,7 @@ hūraitanga
 hūrangi
 hūrau
 hūri
-hū
+hūria
 hūroaroa
 hūrokuroku
 hūrori
@@ -1972,7 +1972,7 @@ iti
 itiiti
 iti
 ito
-itā
+itāria
 iwa
 iwhe
 iwi
@@ -3343,7 +3343,7 @@ koretake
 koreto
 korewātea
 kori
-ko
+koria
 koriakai
 korianara
 korihi
@@ -3450,7 +3450,7 @@ koru
 korukoru
 koruroi
 korā
-korō
+korōria
 kota
 kotae
 kotahi
@@ -4921,7 +4921,7 @@ miharo
 mihi
 mihiau
 mihinare
-mihite
+mihiteria
 mihīni
 mika
 mikaere
@@ -5058,7 +5058,7 @@ monamo
 mone
 monemone
 mongamo
-mongō
+mongōria
 moni
 monia
 monihoki
@@ -5502,7 +5502,7 @@ mōreareatanga
 mōrehu
 mōrehurehu
 mōri
-mō
+mōria
 mōrihariha
 mōrikarika
 mōriroriro
@@ -7314,7 +7314,7 @@ puru
 purukamu
 puruki
 purukumu
-purukā
+purukāria
 puruma
 puru
 puruniti
@@ -7863,7 +7863,7 @@ pōrera
 pōreterete
 pōrewarewa
 pōrewharewha
-pō
+pōria
 pōriro
 pōritarita
 pōro
@@ -8676,7 +8676,7 @@ riporipo
 rira
 rirapa
 riri
-ri
+riria
 ririhau
 ririki
 ririko
@@ -8991,7 +8991,7 @@ rōraka
 rōre
 rōrea
 rōreka
-rō
+rōria
 rōroro
 rōrā
 rōrī
@@ -9165,7 +9165,7 @@ taipo
 taipouri
 taipua
 taipuru
-taipī
+taipīria
 taipō
 taipū
 taira
@@ -10888,7 +10888,7 @@ tārerarera
 tārere
 tārewa
 tārewarewa
-tā
+tāria
 tāria
 tārika
 tāringi
@@ -12488,7 +12488,7 @@ whakakoro
 whakakorokoro
 whakakoroni
 whakakoronitanga
-whakakorō
+whakakorōria
 whakakotahi
 whakakotahitanga
 whakakotiti
@@ -13966,8 +13966,8 @@ whīwhiwhi
 wi
 wihikē
 wiki
-wikipe
-wikitō
+wikiperia
+wikitōria
 wikitōriatanga
 wini
 winika
@@ -14172,7 +14172,7 @@ xelo
 āre
 ārepa
 ārewa
-ā
+āria
 ārikarika
 ārita
 āritarita
