@@ -16,12 +16,19 @@ voc.txt is a merge of data from:
     scripts/wikipedia-dump-to-freq frwiki-20240102-pages-articles.xml.bz2 4000 latin1 |\
         grep "'" | grep -v "''" | scripts/freq-to-voc > voc2.txt
 
+* A word list specific to words containing the colloquial, nonstandard "z'" elision,
+  extracted from a downloaded dump of the French Wikipedia using the scripts
+  wikipedia-dump-to-freq and freq-to-voc like so:
+
+    scripts/wikipedia-dump-to-freq frwiki-20240102-pages-articles.xml.bz2 10 latin1 |\
+        scripts/freq-to-voc | grep "^z'" > voc3.txt
+
 * A small number of hand selected words to provide better test coverage for
   changes to the algorithm.
 
 The word lists were then merged like so:
 
-  LANG=C sort -u voc.txt voc1.txt voc2.txt > french/voc.txt
+  LANG=C sort -u voc.txt voc1.txt voc2.txt voc3.txt > french/voc.txt
 
 output.txt was generated from voc.txt by running it through the stemmer:
 
