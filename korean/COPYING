@@ -1,0 +1,93 @@
+Korean vocabulary provenance and licensing
+==========================================
+
+The vocabulary combines 49,239 natural words extracted from the first
+pages-articles shard of Korean Wikipedia (2026-09-01) with 216 authored
+regression inputs. 97 regression inputs were not already present, giving
+49,336 unique NFC inputs in voc.txt. This is a page-ID-bounded sample, not
+all of Korean Wikipedia or a balanced corpus of Korean.
+
+Wikipedia source
+----------------
+
+Source: https://dumps.wikimedia.org/kowiki/20260901/
+File: kowiki-20260901-pages-articles1.xml-p1p82407.bz2
+Page ID range: 1 through 82407
+Mirror: https://dumps.wikimedia.your.org/kowiki/20260901/
+SHA-1: 450935900fa10ab4864b3856b54e5028c767daf0
+SHA-256: 4155a5ac6dc45c7fd8b2eef471f52eedf3149d954a36535d10ae4add4a1f682c
+
+Attribution: Korean Wikipedia contributors. The source archive contains
+page titles, IDs and revision metadata. Individual contributor histories
+are linked from the corresponding pages at https://ko.wikipedia.org/ and
+can be reached with https://ko.wikipedia.org/w/index.php?curid=PAGE_ID&action=history.
+
+The source text is available under Creative Commons Attribution-ShareAlike
+4.0 (CC BY-SA 4.0): https://creativecommons.org/licenses/by-sa/4.0/
+See Wikimedia's licensing statement: https://dumps.wikimedia.org/legal.html
+The derived Wikipedia vocabulary retains that license. No claim is made
+that the Wikipedia material is covered by the software's BSD license.
+
+Extraction used snowball-data commit a0ec0d0a2839ec885878868de20fcb63209d92b0:
+
+    # Alias the filename because the extractor recognizes .xml.bz2 endings.
+    ln -s kowiki-20260901-pages-articles1.xml-p1p82407.bz2 kowiki-sample.xml.bz2
+    scripts/wikipedia-dump-to-freq kowiki-sample.xml.bz2 5 Hangul > korean.freq
+
+From the resulting frequency file, retain tokens occurring at least 10
+times, normalize them to NFC, retain only whole tokens consisting of 1-20
+modern Hangul syllables (U+AC00 through U+D7A3), then sort by Unicode code
+point and remove duplicates. Merge the regression inputs described below.
+The existing extractor removes wiki markup but may retain some markup
+artifacts; the list has not been exhaustively linguistically curated.
+
+output.txt was generated from voc.txt by:
+
+    stemwords -l korean -c UTF_8 -i korean/voc.txt -o korean/output.txt
+
+The generated outputs are regression expectations, not independently
+annotated linguistic gold labels. The experimental stemmer changes only
+a small fraction of the natural vocabulary; broad recall is not claimed.
+
+Project regression inputs
+-------------------------
+
+The 216 authored regression pairs were introduced by nethippo's Korean
+Snowball contribution in commits 550790ed9799ec618a69a1a7e66bf6bddedd8763 and
+5fe8444bfdfeeccbaf91909a2698d432316594f0, available at:
+https://github.com/nethippo/snowball/tree/5fe8444bfdfeeccbaf91909a2698d432316594f0/tests/korean/data/korean
+
+These cases include positive paths, ambiguous forms deliberately preserved,
+and complete-word boundary checks. They were originally distributed under
+the Snowball BSD 3-clause terms. The pre-existing notices below are retained;
+they do not attribute the new Wikipedia dataset to the software authors.
+
+Copyright (c) 2001, Dr Martin Porter
+Copyright (c) 2004,2005, Richard Boulton
+Copyright (c) 2013, Yoshiki Shibukawa
+Copyright (c) 2006-2025, Olly Betts
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+  1. Redistributions of source code must retain the above copyright notice,
+     this list of conditions and the following disclaimer.
+  2. Redistributions in binary form must reproduce the above copyright notice,
+     this list of conditions and the following disclaimer in the documentation
+     and/or other materials provided with the distribution.
+  3. Neither the name of the Snowball project nor the names of its contributors
+     may be used to endorse or promote products derived from this software
+     without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
