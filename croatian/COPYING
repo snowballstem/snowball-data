@@ -1,0 +1,19 @@
+The file voc.txt was produced from a dump of the Croatian Wikipedia
+(hrwiki-latest-pages-articles.xml.bz2, downloaded on 2026-10-07): 60000 articles drawn at random (seed 1) from the dump,
+with wiki markup removed.
+
+29974 words were selected, consisting only of the letters a-z, c-caron,
+c-acute, d-stroke, s-caron and z-caron (at least two letters), lower-cased and
+sorted. About 90% are the most frequent words of the sample that are known to
+the hunspell hr_HR dictionary (LibreOffice dictionaries, used only as a
+filter; no word list was copied from it; at least 23 occurrences), and the
+rest are the most frequent other words (names, foreign words, new words; at
+least 20 occurrences). Markup leftovers such as colour codes were removed.
+Proper nouns, words from other languages and typos are included on purpose.
+
+output.txt was generated from voc.txt by running it through the stemmer using the command:
+
+stemwords -l croatian -c UTF_8 -i croatian/voc.txt -o croatian/output.txt
+
+Wikipedia text is licensed under the Creative Commons Attribution-ShareAlike 4.0 license
+(https://creativecommons.org/licenses/by-sa/4.0/).
