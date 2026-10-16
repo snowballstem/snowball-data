@@ -13,4 +13,4 @@ output.txt was generated from voc.txt by running it through the stemmer:
 
 stemwords -l esperanto -c UTF_8 -i esperanto/voc.txt -o esperanto/output.txt
 
-Wikipedia is licensed as: https://creativecommons.org/licenses/by-sa/3.0/
+Wikipedia is licensed as: https://creativecommons.org/licenses/by-sa/4.0/

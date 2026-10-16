@@ -13,4 +13,4 @@ output.txt was generated from voc.txt by running it through the stemmer:
 
 stemwords -l estonian -c UTF_8 -i estonian/voc.txt -o estonian/output.txt
 
-Wikipedia is licensed as: https://creativecommons.org/licenses/by-sa/3.0/
+Wikipedia is licensed as: https://creativecommons.org/licenses/by-sa/4.0/
