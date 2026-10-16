@@ -1,0 +1,24 @@
+voc.txt was generated from a dump of the Ukrainian Wikipedia like so:
+
+perl -CS scripts/wikipedia-dump-to-freq ukwiki-latest-pages-articles.xml.bz2 10 Cyrillic > voc.freq
+scripts/freq-to-voc 300 < voc.freq | grep -v "^'" > ukrainian/voc.txt
+
+The dump used was dated 2025-01-02.
+
+The first command extracts the article text from the dump and counts word
+occurrences; the second keeps only words which occur at least 300 times.
+This is a frequency list, not article text: no sentence of any article can be
+recovered from it.
+
+2 words which occur fewer than 300 times in the dump were added by hand to
+cover a reported case (акварельний, акварельні).
+
+output.txt was generated from voc.txt by running it through the stemmer:
+
+stemwords -l ukrainian -c UTF_8 -i ukrainian/voc.txt -o ukrainian/output.txt
+
+Wikipedia is licensed as: https://creativecommons.org/licenses/by-sa/4.0/
+(the Wikimedia Terms of Use moved text contributions from CC BY-SA 3.0 to
+CC BY-SA 4.0 in June 2023, before the dump date).  To the extent that the
+rights in the source text extend to this word list, the list is offered under
+the same licence.
