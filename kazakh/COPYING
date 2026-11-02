@@ -1,0 +1,21 @@
+voc.txt was generated from a dump of the Kazakh Wikipedia like so:
+
+perl -CS scripts/wikipedia-dump-to-freq kkwiki-latest-pages-articles.xml.bz2 2 Cyrillic > voc.freq
+scripts/freq-to-voc 50 < voc.freq | grep -v "^'" > kazakh/voc.txt
+
+The dump used was dated 2026-11-01.
+
+The first command extracts the article text from the dump and counts word
+occurrences; the second keeps only words which occur at least 50 times.
+This is a frequency list, not article text: no sentence of any article can be
+recovered from it.
+
+output.txt was generated from voc.txt by running it through the stemmer:
+
+stemwords -l kazakh -c UTF_8 -i kazakh/voc.txt -o kazakh/output.txt
+
+Wikipedia is licensed as: https://creativecommons.org/licenses/by-sa/4.0/
+(the Wikimedia Terms of Use moved text contributions from CC BY-SA 3.0 to
+CC BY-SA 4.0 in June 2023, before the dump date).  To the extent that the
+rights in the source text extend to this word list, the list is offered under
+the same licence.
