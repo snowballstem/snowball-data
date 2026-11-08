@@ -1,0 +1,18 @@
+voc.txt was generated from a dump of the Latvian Wikipedia like so:
+
+scripts/wikipedia-dump-to-freq lvwiki-20261101-pages-articles.xml.bz2 5 '[a-z\x{101}\x{10D}\x{113}\x{123}\x{12B}\x{137}\x{13C}\x{146}\x{161}\x{16B}\x{17E}]' > voc.freq
+scripts/freq-to-voc 10 < voc.freq > latvian/voc.txt
+
+The dump used was dated 2026-11-01.
+
+The letter class is the lower case Latvian alphabet plus q, w, x and y, so
+capitalised words and words containing other letters are not counted.  Only
+words which occur at least 10 times are kept.
+
+output.txt was generated from voc.txt by running it through the stemmer:
+
+stemwords -l latvian -c UTF_8 -i latvian/voc.txt -o latvian/output.txt
+
+Wikipedia is licensed as: https://creativecommons.org/licenses/by-sa/4.0/
+To the extent that the rights in the source text extend to this word list,
+the list is offered under the same licence.
