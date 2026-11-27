@@ -1,0 +1,30 @@
+voc.txt was generated from a dump of the Albanian Wikipedia like so:
+
+perl -CS scripts/wikipedia-dump-to-freq sqwiki-latest-pages-articles.xml.bz2 10 latin1 > voc.freq
+scripts/freq-to-voc 20 < voc.freq | grep -v "^'" > all.words
+zcat web-sq-2026-11.tsv.gz | cut -f1 > keep.words
+hunspell -d sq_AL -G < all.words >> keep.words
+grep -Fxf keep.words all.words | grep '[aeiouyë]' > albanian/voc.txt
+
+The dump used was dated 2026-11-01.
+
+The first command extracts the article text from the dump and counts word
+occurrences; freq-to-voc keeps only words which occur at least 20 times.
+This is a frequency list, not article text: no sentence of any article can be
+recovered from it.
+
+Wikipedia articles quote many foreign names, titles and abbreviations, so a
+word is then kept only if it is also known as Albanian, and has a vowel. It is
+known if it is in the web lexicon web-sq-2026-11.tsv.gz of the albanian-stemmer
+project (https://github.com/edisnord/albanian-stemmer, data/lexicons/; words
+seen at least 5 times in Albanian web text), or if the Albanian Hunspell
+dictionary (sq_AL, version 1.2 by Luan Kelmendi) accepts it. These only select
+words: every word in voc.txt comes from the Wikipedia frequency list.
+
+output.txt was generated from voc.txt by running it through the stemmer:
+
+stemwords -l albanian -c UTF_8 -i albanian/voc.txt -o albanian/output.txt
+
+Wikipedia is licensed as: https://creativecommons.org/licenses/by-sa/4.0/
+To the extent that the rights in the source text extend to this word list,
+the list is offered under the same licence.
